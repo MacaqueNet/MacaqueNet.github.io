@@ -53,15 +53,16 @@ Knowledge of HTML is very optional. If you already know some, you can mix and ma
 ## Setting up a local site to preview changes
 
 - Have a clone of the github repo on your local machine
+
 - We recommend creating a local clone using RStudio (read here to find out how --> https://resources.github.com/github-and-rstudio/ )
-- You can make changes to your github files within RStudio and then you need to commit the changes, then push the changes. You have to click push for your changes to transfer to your online repository.
+    - You can make changes to your github files within RStudio and then you need to commit the changes, then push the changes. You have to click push for your changes to transfer to your online repository.
 - Julia recommends:
-- Install Jekyll: `gem install bundler jekyll`
+    - Install Jekyll: `gem install bundler jekyll`
     - If that gives you any errors, google them... or check [here](https://jekyllrb.com/docs/installation/)
-- Install jekyll-seo-tag: `gem install bundler jekyll-seo-tag`
-- `cd` into the git repo for the website
-- Build local Jekyll site: `bundle exec jekyll serve`
-- Open browser and go to: `http://localhost:4000`
-- You should see any changes you save on your local `.md` files (refresh)
-- Push your changes when you're happy with the preview! GitHub will then (re)build the site (typically within a few minutes)
+    - Install jekyll-seo-tag: `gem install bundler jekyll-seo-tag`
+    - `cd` into the git repo for the website
+    - Build local Jekyll site: `bundle exec jekyll serve`
+    - Open browser and go to: `http://localhost:4000`
+    - You should see any changes you save on your local `.md` files (refresh)
+    - Push your changes when you're happy with the preview! GitHub will then (re)build the site (typically within a few minutes)
 
