@@ -8,7 +8,7 @@ MacaqueNet would like to thank Julia Watzek, the builder of the ManyPrimates web
 
 ## Structure 
 
-# The website structure detailed below is based on the open code from the ManyPrimates GitHub repository. Some of the code files detemrining the underlying website structure and layout are unchanged. All .md project files and images have been replaced with MacaqueNet's content, and fonts, colour schemes and page layouts have been altered accordingly. 
+The website structure detailed below is based on the open code from the ManyPrimates GitHub repository. Some of the code files detemrining the underlying website structure and layout are unchanged. All .md project files and images have been replaced with MacaqueNet's content, and fonts, colour schemes and page layouts have been altered accordingly. 
 
 (not all folders shown)
 
