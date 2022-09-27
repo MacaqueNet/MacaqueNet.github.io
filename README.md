@@ -1,8 +1,14 @@
-# ManyPrimates website
+# MacaqueNet Website
 
-Source code for [https://manyprimates.github.io/](https://manyprimates.github.io/)
+Source code for [https://macaquenet.github.io/](https://macaquenet.github.io/)
 
-## Structure
+# Acknowledgements
+
+MacaqueNet would like to thank Julia Watzek, the builder of the ManyPrimates website who's base code we utilised for this website (details provided below). Julia provided her invaluable knowledge and guidance in the creation of the MacaqueNet website. 
+
+## Structure 
+
+# The website structure detailed below is based on the open code from the ManyPrimates GitHub repository. Some of the code files detemrining the underlying website structure and layout are unchanged. All .md project files and images have been replaced with MacaqueNet's content, and fonts, colour schemes and page layouts have been altered accordingly. 
 
 (not all folders shown)
 
@@ -16,9 +22,9 @@ Source code for [https://manyprimates.github.io/](https://manyprimates.github.io
 │   ├── images          <-- put images here
 │   └── pdfs            <-- put PDFs for published papers here
 ├── index.md            <-- edit these .md files to edit content
-├── pilot.md
-├── project1.md
-├── project2.md
+├── database.md
+├── diversity.md
+├── drivers.md
 └── [...].md
 ```
 
@@ -33,7 +39,7 @@ You need some basic familiarity with these tools to make edits to the website. T
     - to format text on a website with really simple syntax in plain-text files (e.g. `**I want to make a bold statement.**` turns into **I want to make a bold statement.**)
     - check out, e.g., [this guide](https://guides.github.com/features/mastering-markdown/) to get started
 
-Knowledge of HTML is very optional. If you already know some, you can mix and match Markdown and HTML bits when editing the `.md` files. Sometimes that's useful because there's no equivalent in Markdown for what you want to do (e.g., [this line](https://github.com/ManyPrimates/manyprimates.github.io/blame/master/news.md#L59) to embed the Twitter widget on the [news page](https://manyprimates.github.io/news))
+Knowledge of HTML is very optional. If you already know some, you can mix and match Markdown and HTML bits when editing the `.md` files. Sometimes that's useful because there's no equivalent in Markdown for what you want to do.
 
 ## Making changes to the content
 
@@ -41,7 +47,7 @@ Knowledge of HTML is very optional. If you already know some, you can mix and ma
     - You can ignore almost all of the folders/files. It's set up so that you simply edit the content and it'll do the rest automatically
 - Edit the text in the Markdown `.md` files
 - Put images, PDFs, etc. that you reference in the `assets` subfolders
-- Use relative urls whenever possible, e.g. `pilot.html` instead of `https://manyprimates.github.io/pilot.html`
+- Use relative urls whenever possible, e.g. `pilot.html` instead of `https://macaquenet.github.io/pilot.html`
 - **Do not touch the files in the folders that start with an `_`underscore unless you're sure you know what you're doing!**
 
 ## Setting up a local site to preview changes
@@ -56,6 +62,3 @@ Knowledge of HTML is very optional. If you already know some, you can mix and ma
 - You should see any changes you save on your local `.md` files (refresh)
 - Push your changes when you're happy with the preview! GitHub will then (re)build the site (typically within a few minutes)
 
-## ~~I have questions~~ ok maybe I broke something :sweat_smile:
-
-Ask [@jwatzek](https://github.com/jwatzek) (Slack is best)
