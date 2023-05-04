@@ -9,7 +9,7 @@ Macaques are a diverse and highly successful group, with the broadest geographic
 <div style="text-align:center"><img class="image" src="/assets/images/worldmap_allregions.png" width="1000" height="auto"/></div><br/>
 
 The <em>silenus</em> clade encompasses the northern pig-tailed <em>(M. leonina)</em>, southern pig-tailed <em>(M. nemestrina)</em>, Pagai <em>(M. pagensis)</em>, Siberut <em>(M. siberu)</em> and lion-tailed <em>(M. silenus)</em> macaque species. The northern pig-tailed macaque inhabits northern Asian regions such as China and India, whereas the southern pig-tailed macaque can be found in southern Asian countries including, Indonesia and Malaysia. The other species within the silenus clade have much smaller ranges. The lion-tailed macaque inhabits southern India, while both Pagai and Siberut macaques live on Siberut Island in Indonesia.
-<div style="text-align:center"><img class="image" src="/assets/images/worldmap_silenus_group.png" width="500" height="auto"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/worldmap_silenus_group.png" width="700" height="auto"/></div><br/>
 
 The <em>Sulawesi</em> clade comprises the seven macaque species that inhabit Sulawesi island in Indonesia: Heck’s <em>(M. Hecki)</em>, moor <em>(M. maura)</em>, Gorontalo <em>(M. nigrescens)</em>, Tonkean <em>(M. tonkeana)</em>, crested <em>(M. nigra)</em>, Muna-Buton <em>(M. ochreata brunnescens)</em> and booted macaques <em>(M. ochreata ochreata)</em>.
 <div style="text-align:center"><img class="image" src="/assets/images/worldmap_sulawesi_group.png" width="600" height="auto"/></div><br/>
