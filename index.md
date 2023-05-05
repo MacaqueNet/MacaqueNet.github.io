@@ -61,5 +61,6 @@ layout: default
 	</div>
 </section>
 ***
+<div style="text-align:center"><img class="image" src="/assets/images/MacaqueNetAffiliations.png" width="1000" height="auto"/></div><br/>
 
 
