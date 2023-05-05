@@ -12,7 +12,7 @@ With the permission of the collaborators, use of the database will be carried ou
 
 Would you like to use data within the MacaqueNet database in your next research project? Great! Go ahead and click the bytton below to complete a data request form and join the MacaqueNet community.
 <ul class="actions">
-        <li><a href="https://docs.google.com/forms/d/18y0byR0dy0-XRZ1PvZDl0WVLxSlv3F5ZzXLNlCEhcWs/edit" class="button big">Request Data Access</a></li> 
+        <li><a href="https://docs.google.com/forms/d/18y0byR0dy0-XRZ1PvZDl0WVLxSlv3F5ZzXLNlCEhcWs/edit" class="button big">Request Data</a></li> 
       </ul>
 
 While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, or if you have a suggestion for the types of data we should include, please click the button below.
