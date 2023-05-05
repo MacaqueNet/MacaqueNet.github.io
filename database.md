@@ -11,7 +11,9 @@ The data availability tool below allows you to browse through the MacaqueNet dat
 With the permission of the collaborators, use of the database will be carried out under FAIR data principles, to make the data **F**indable, **A**ccessible, **I**nteroperable and **R**eusable. 
 
 Would you like to utilise the MacaqueNet database in your next research project? Great! Go ahead and complete the data request <a href="https://docs.google.com/forms/d/18y0byR0dy0-XRZ1PvZDl0WVLxSlv3F5ZzXLNlCEhcWs/edit">google form</a> and join us now.
-
+ <ul class="actions">
+        <li><a href="{{ 'about' | absolute_url }}" class="button big">Find Out More</a></li> 
+      </ul>
 <iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/Shiny_app_Cayo_only/"> </iframe>
 
 ***
