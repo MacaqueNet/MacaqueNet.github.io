@@ -17,7 +17,7 @@ Would you like to use data within the MacaqueNet database in your next research 
 
 While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, or if you have a suggestion for the types of data we should include, please click the button below.
 <ul class="actions">
-        <li><a href="https://docs.google.com/forms/d/1XQERnc5JyaCUvc0Y-kQU5aHHPE3yEjtKjV-YdDHXMG4/edit" class="button big">Suggest New Data</a></li> 
+        <li><a href="https://docs.google.com/forms/d/1XQERnc5JyaCUvc0Y-kQU5aHHPE3yEjtKjV-YdDHXMG4/edit" class="button big">Make Suggestion</a></li> 
       </ul>
 
 <iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/Shiny_app_Cayo_only/"> </iframe>
