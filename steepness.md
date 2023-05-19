@@ -18,7 +18,7 @@ In this project, we test the hypothesis that there is a positive relationship be
 
 <div class="team">
 	<span class="image left"><img src="/assets/images/PengzhenWeb.jpg"/></span> 
-	<h3>Dr Pengzhen Huang</h3>
+	<h3>Pengzhen Huang</h3>
 	<p><strong>Research Assistant</strong> at the East China Normal University</p>
 	<p><em>"I am a behavioral ecologist and interested in social relationships underlying the evolution of social systems in primates. My research primarily focused on the formation and maintenance of social relationships among group members and how they are changed and shaped with the dynamics of the external social environment during their lifetime. I’m particularly interested in analyzing sociality from both individual and group levels using the network-based approach. Combined with inter-species comparative analyses, these investigations help to clarify the behavioral mechanisms maintaining stability and integrity of social groups, as well as the evolutionary pathway of social systems in primates."</em></p>
 </div>
