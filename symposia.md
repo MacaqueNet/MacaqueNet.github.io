@@ -5,7 +5,7 @@ permalink: /events
 ---
 ***
 
-## Upcoming Symposiums
+## Upcoming Symposia
 
 <div class="team">
 	<span class="image left"><img src="/assets/images/IPS_logo.png" width="50%"/></span>
