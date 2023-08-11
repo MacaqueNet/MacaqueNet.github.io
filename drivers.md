@@ -9,7 +9,7 @@ permalink: /drivers/
 
 <p>Although affiliative relationships are wide-spread in group-living animals, the evolved function of these relationships remains unclear. Macaques share a similar social organisation, but show substantial variation in their social structure and ecology, making them an ideal system in which to study the selective forces acting on social relationships. Using network-based approaches we will quantify variation in the expression of dyadic relationships between female macaques across several groups and populations of 14 species of macaques. These differences in social structure will be linked to differences in social and ecological pressures, such as female hierarchy steepness, male reproductive skew, mean relatedness, climate & seasonality of the habitat and predation risk. We will also consider phylogenetic relationships between species as a driver of similarity between closely related species. By taking a cross-species comparative approach, we can uncover which types of social relationships are selected for under different socio-ecological contexts. Ultimately, we aim to explicitly address which types of social relationships are adaptive under which circumstances, and why.
 	
-This project is part of the larger, ERC-funded  <a href="https://www.friendorigins.com/what-is-friendorigins.html">FriendOrigins</a> project, looking at the evolutionary origin and function of friendships.</p>
+This project is part of the larger, ERC-funded  <a href="https://www.friendorigins.com/what-is-friendorigins.html" target="_blank">FriendOrigins</a> project, looking at the evolutionary origin and function of friendships.</p>
 
 ***
 
