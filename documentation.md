@@ -5,7 +5,6 @@ permalink: /documentation/
 ---
 ***
 Here, you will find all documentation related to MacaqueNet and the MacaqueNet database. All documentation is stored in the MacaqueNet <a href="https://github.com/MacaqueNet/database">database GitHub repository</a>.
-
 Below you will find an overview of the documents that can be found in each of the folders.
 
 ## Workflow
