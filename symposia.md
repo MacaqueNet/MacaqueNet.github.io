@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MacaqueNet Symposia"
-permalink: /symposia
+permalink: /symposia/
 ---
 ***
 
