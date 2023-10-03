@@ -6,7 +6,7 @@ permalink: /symposia/
 ***
 
 ## Upcoming Symposia
-Keep an eye out on page to stay up to date with upcoming symposia...
+Keep an eye out for information on upcoming symposia...
 
 ***
 
