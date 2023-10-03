@@ -6,6 +6,13 @@ permalink: /symposia/
 ***
 
 ## Upcoming Symposia
+Keep an eye out on page to stay up to date with upcoming symposia...
+
+***
+
+## Previous Events
+
+### "Weaving the MacaqueNet 2.0" symposium
 
 <div class="team">
 	<span class="image left"><img src="/assets/images/IPS_logo.png" width="50%"/></span>
@@ -15,9 +22,6 @@ The full "Weaving the MacaqueNet 2.0" workshop programme can still be viewed <a 
 <div style="text-align:center"><img class="image" src="/assets/images/IPS_workshop.png" width="900px"/></div><br/>
 
 </div>
-***
-
-## Previous Events
 
 ### "Weaving the MacaqueNet" symposium
 
