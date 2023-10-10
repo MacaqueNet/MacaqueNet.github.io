@@ -6,9 +6,11 @@ permalink: /database/
 ***
 
 The MacaqueNet database contains social behaviour data from 14 macaque species, provided by 92 researchers from 56 field sites and research centres around the world. This database will initially facilitate two research projects, but will be available for macaque researchers to design their own projects at a future date. 
-
-The data availability tool below allows you to browse through the MacaqueNet database to see what types of social data are available for each macaque species. **For now, this only shows data for which we have gotten explicit permission to share metadata on the website.** Available data include matrices of grooming, aggression, body contact and proximity. 
 With the permission of the collaborators, use of the database will be carried out under FAIR data principles, to make the data **F**indable, **A**ccessible, **I**nteroperable and **R**eusable. 
+
+
+The data availability tool below allows you to browse through the MacaqueNet database to see what types of social data are available for each macaque species. Available data include matrices of grooming, aggression, body contact and proximity. 
+**There are currently 740 sociometric matrices in the MacaqueNet database, which are in the process of getting the permission to display the matrices in the search tool. You can search datasets for which we have gotten explicit permission to share metadata on the website using the tool below.** 
 
 Would you like to use data within the MacaqueNet database in your next research project? Great! Go ahead and click the button below to complete a data request form and join the MacaqueNet community.
 <ul class="actions">
