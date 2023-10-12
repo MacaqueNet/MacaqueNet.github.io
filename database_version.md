@@ -5,5 +5,7 @@ permalink: /database_version/
 ---
 ***
 
-<iframe height="400" width="100%" frameborder="no" src="https://github.com/MacaqueNet/database-internal/blob/main/temporary%20NEWS%20file"> </iframe>
+Here, you can find an overview of current and previous versions of the MacaqueNet database.
+
+<iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/MacaqueNet-database-version/"> </iframe>
 

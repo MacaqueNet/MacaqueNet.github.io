@@ -10,7 +10,7 @@ With the permission of the collaborators, use of the database will be carried ou
 
 
 The data availability tool below allows you to browse through the MacaqueNet database to see what types of social data are available for each macaque species. Available data include matrices of grooming, aggression, body contact and proximity. 
-**There are currently 740 sociometric matrices in the MacaqueNet database, which are in the process of getting the permission to display the matrices in the search tool. You can search datasets for which we have gotten explicit permission to share metadata on the website using the tool below.** 
+**There are currently 603 sociometric matrices in the MacaqueNet database, which are in the process of getting the permission to display the matrices in the search tool. You can search datasets for which we have gotten explicit permission to share metadata on the website using the tool below.** 
 
 Would you like to use data within the MacaqueNet database in your next research project? Great! Go ahead and click the button below to complete a data request form and join the MacaqueNet community.
 <ul class="actions">
