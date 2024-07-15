@@ -5,7 +5,7 @@ permalink: /pathogens/
 ---
 ***
 
-<div style="text-align:center"><img class="image" src="/assets/images/rhesus_mom blonde _Alyssa_Arre.jpg"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/rhesus mom blonde - Alyssa Arre.jpg"/></div><br/>
 
 The utilization of social and contact networks to address fundamental and applied questions about infectious disease transmission in wildlife is gaining increased attention. Epidemiological models that employ networks, with hosts represented as nodes and their interactions as edges, can provide much more accurate estimates of pathogen spread. Analysing network characteristics such as modularity (indicating network structure) can also offer valuable insights into how a pathogen may spread across a host population. However, the challenge of collecting network data often means that the utility of network modelling remains unrealized for most species.
 
@@ -15,7 +15,7 @@ This project aims to leverage recent advances in machine learning and spectral g
 To some extent it is a follow-up on a previous <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.0951" target="_blank">Royal Society paper</a>.
 
 
-<div style="text-align:center"><img class="image" src="/assets/images/monkeybanner1.png"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/macaques_trio.png"/></div><br/>
 
 ***
 
@@ -24,13 +24,10 @@ To some extent it is a follow-up on a previous <a href="https://royalsocietypubl
 </header>
 
 <div class="team">
-	<span class="image left"><img src="/assets/images/matt_silk.jpg"/></span>
+	<span class="image left"><img src="/assets/images/matt_silk.JPG"/></span>
 	<h3>Dr Matthew Silk</h3>
 	<p><strong>Research Fellow</strong> at the University of Edinburgh</p>
 	<p><em>"I am a quantitative ecologist who works at the interface of animal behaviour and disease ecology at the University of Edinburgh. My research mainly focuses on quantifying the role of social structure and dynamics on pathogen spread and maintenance. I have expertise in using social network approaches, with my research integrating empirical data collection, statistical modelling and theory across diverse taxa and ecological scales."</em></p>
-	<ul class="actions">
-		<li><a href="https://mattjsilk.weebly.com/" class="button">Learn more</a></li>
-	</ul>
 </div>
 
 <div class="team">
