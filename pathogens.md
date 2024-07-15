@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Predicting Pathogen Spread Across Mammals"
-permalink: /diversity/
+permalink: /pathogens/
 ---
 ***
 
