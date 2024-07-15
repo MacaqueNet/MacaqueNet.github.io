@@ -24,14 +24,14 @@ To some extent it is a follow-up on a previous <a href="https://royalsocietypubl
 </header>
 
 <div class="team">
-	<span class="image left"><img src="/assets/images/matt_silk.JPG"/></span>
+	<span class="image left"><img src="/assets/images/matt_silk.JPG" width="2480" height="2240"/></span>
 	<h3>Dr Matthew Silk</h3>
 	<p><strong>Research Fellow</strong> at the University of Edinburgh</p>
 	<p><em>"I am a quantitative ecologist who works at the interface of animal behaviour and disease ecology at the University of Edinburgh. My research mainly focuses on quantifying the role of social structure and dynamics on pathogen spread and maintenance. I have expertise in using social network approaches, with my research integrating empirical data collection, statistical modelling and theory across diverse taxa and ecological scales."</em></p>
 </div>
 
 <div class="team">
-	<span class="image left"><img src="/assets/images/nick_fountain_jones.jpg"/></span>
+	<span class="image left"><img src="/assets/images/nick_fountain_jones.jpg" width="2480" height="2240"/></span>
 	<h3>Dr Nick Fountain-Jones</h3>
 	<p><strong>Research Fellow</strong> at the University of Tasmania</p>
 	<p><em>"I am a disease ecologist at the University of Tasmania in the School of Natural Sciences. My research leveragess computational techniques to help untangle disease ecology in wildlife, humans and livestock. In particular, I utilize cutting-edge advances in network science, genomics and interpretable machine learning to help understand transmission and exposure risk as well as microbial assembly.
