@@ -9,6 +9,8 @@ In gregarious societies, dominant individuals generally have preferential access
 
 In this project, we test the hypothesis that there is a positive relationship between the steepness of the hierarchy and the skew of the distribution of resources among group members. We predict that the steeper the dominance hierarchy of a group is, the more fitness-related benefits the dominants would get in comparison to subordinates. We aim to use meta-analytical techniques and cross-species comparative methods to test our hypothesis. In our analyses, we will consider several biological (e.g, species-specific characteristics) and methodological (e.g. length of the study) factors that may affect the association between hierarchy steepness and the distribution of fitness benefits. This project will provide insights into the importance of dominance rank to explain variations in behavioural traits in non-human primates.
 
+<div style="text-align:center"><img class="image" src="/assets/images/angrycrested.jpg"/></div><br/>
+
 ***
 
 

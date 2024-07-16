@@ -5,8 +5,6 @@ permalink: /pathogens/
 ---
 ***
 
-<div style="text-align:center"><img class="image" src="/assets/images/rhesus mom blonde - Alyssa Arre.jpg"/></div><br/>
-
 The utilization of social and contact networks to address fundamental and applied questions about infectious disease transmission in wildlife is gaining increased attention. Epidemiological models that employ networks, with hosts represented as nodes and their interactions as edges, can provide much more accurate estimates of pathogen spread. Analysing network characteristics such as modularity (indicating network structure) can also offer valuable insights into how a pathogen may spread across a host population. However, the challenge of collecting network data often means that the utility of network modelling remains unrealized for most species.
 
 This project aims to leverage recent advances in machine learning and spectral graph theory to construct models that can predict network characteristics serving as surrogates for disease spread for a species using trait data (e.g., total number of offspring). Our focus is on mammals, given that trait data is most comprehensive for this group. Utilizing trait-based proxies to gauge how effectively an infectious disease may spread in a population can provide a valuable starting point for understanding disease risk for mammals worldwide, including threatened species and species that are challenging to observe directly.
@@ -15,7 +13,7 @@ This project aims to leverage recent advances in machine learning and spectral g
 To some extent it is a follow-up on a previous <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.0951" target="_blank">Royal Society paper</a>.
 
 
-<div style="text-align:center"><img class="image" src="/assets/images/macaques_trio.png"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/longtailedmacaque.jpg"/></div><br/>
 
 ***
 
