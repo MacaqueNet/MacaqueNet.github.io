@@ -35,7 +35,7 @@ layout: default
 		<article>
 			<a href="{{ 'pathogens' | absolute_url }}" class="image"><img src="assets/images/longtailedmacaque.jpg" width="200" alt="" /></a>
 			<h3>Predicting Pathogen Spread Across Mammals</h3>
-			<p>This study utilises trait data, machine learning and spectral graph theory to construct models to predict network characteristics, serving as surrogates for disease spread in mammals.</p>
+			<p>This study utilises trait data, machine learning and spectral graph theory to construct models for predicting infectious disease spread in mammals.</p>
 			<ul class="actions">
 				<li><a href="{{ 'pathogens' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
