@@ -33,7 +33,7 @@ To some extent it is a follow-up on a previous <a href="https://royalsocietypubl
 	<h3>Dr Nick Fountain-Jones</h3>
 	<p><strong>Research Fellow</strong> at the University of Tasmania</p>
 	<p><em>"I am a disease ecologist at the University of Tasmania in the School of Natural Sciences. My research leveragess computational techniques to help untangle disease ecology in wildlife, humans and livestock. In particular, I utilize cutting-edge advances in network science, genomics and interpretable machine learning to help understand transmission and exposure risk as well as microbial assembly.
-The majority of my work involves viruses, but I work on a variety of other diseases from Lyme disease to Tasmanian devil facial tumour disease. "</em></p>
+The majority of my work involves viruses, but I work on a variety of other diseases from Lyme disease to Tasmanian devil facial tumour disease."</em></p>
 </div>
 
 
