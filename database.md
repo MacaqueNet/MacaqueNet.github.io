@@ -10,7 +10,12 @@ With the permission of the collaborators, use of the database will be carried ou
 
 
 The data availability tool below allows you to browse through the MacaqueNet database to see what types of social data are available for each macaque species. Available data include matrices of grooming, aggression, body contact and proximity. 
-**There are currently 603 sociometric matrices in the MacaqueNet database, which are in the process of getting the permission to display the matrices in the search tool. You can search datasets for which we have gotten explicit permission to share metadata on the website using the tool below.** 
+**There are currently 603 sociometric matrices in the MacaqueNet database, which are in the process of getting the permission to display the matrices in the search tool. You can search datasets for which we have gotten explicit permission to share metadata on the website. 
+Click the button below to browse available datasets:** 
+<ul class="actions">
+        <li><a href="https://delphinedemoor.shinyapps.io/Shiny_app_Cayo_only/" frameborder="no" target="_blank" class="button big">Request Data</a></li> 
+      </ul>
+
 
 Would you like to use data within the MacaqueNet database in your next research project? Great! Go ahead and click the button below to complete a data request form and join the MacaqueNet community.
 <ul class="actions">
@@ -22,7 +27,7 @@ While the database currently contains behavioural data only, we are actively loo
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sf_link" target="_blank" class="button big">Contribute Data or Make Suggestion</a></li> 
       </ul>
 
-<iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/Shiny_app_Cayo_only/"> </iframe>
+<iframe height="400" width="100%" frameborder="no" src="https://delphinedemoor.shinyapps.io/Shiny_app_Cayo_only/" > </iframe>
 
 ***
 
