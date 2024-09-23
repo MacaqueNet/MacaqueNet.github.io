@@ -3,27 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Database Version</title>
+    <title>Rendered NEWS.md</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        code {
+            background: #eee;
+            padding: 2px 4px;
+        }
+    </style>
 </head>
 <body>
-    <div id="markdown-content"></div>
+    <h1>Rendered NEWS.md</h1>
+    <div id="markdown-content">Loading content...</div>
 
-    <!-- Import Marked.js for Markdown rendering -->
+    <!-- Include marked.js for Markdown rendering -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
     <script>
-        // URL of the raw .md file in your repository
-        const markdownUrl = 'https://github.com/MacaqueNet/database-internal/blob/main/database%20version/NEWS.md';
-        
+        // URL of the raw Markdown file
+        const markdownUrl = 'https://raw.githubusercontent.com/MacaqueNet/database-internal/main/database%20version/NEWS.md';
 
-        // Fetch the markdown file
+        // Fetch the raw markdown file content
         fetch(markdownUrl)
-            .then(response => response.text())
-            .then(markdown => {
-                // Render the markdown using marked.js and display it
-                document.getElementById('markdown-content').innerHTML = marked(markdown);
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.text();
             })
-            .catch(error => console.error('Error fetching the markdown file:', error));
+            .then(markdown => {
+                // Render the markdown to HTML using marked.js
+                const renderedHtml = marked(markdown);
+                document.getElementById('markdown-content').innerHTML = renderedHtml;
+            })
+            .catch(error => {
+                console.error('There was a problem fetching the markdown file:', error);
+                document.getElementById('markdown-content').innerHTML = 'Error loading content.';
+            });
     </script>
 </body>
 </html>
+
