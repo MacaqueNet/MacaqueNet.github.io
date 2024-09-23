@@ -14,7 +14,7 @@ Here, you can find an overview of current and previous versions of the MacaqueNe
 
 <script>
     // Fetch the HTML content
-    fetch("https://github.com/MacaqueNet/database-internal/blob/main/database%20version/NEWS.md")
+    fetch("https://github.com/MacaqueNet/MacaqueNet.github.io/blob/main/version_info_from_database_internal.html")
         .then(response => response.text())
         .then(html => {
             document.getElementById('embedded-content').innerHTML = html;
