@@ -9,4 +9,5 @@ Here, you can find an overview of current and previous versions of the MacaqueNe
 
 <iframe height="400" width="100%" frameborder="no" src="https://github.com/MacaqueNet/MacaqueNet.github.io/blob/main/version_info_from_database_internal.html"> </iframe>
 
+![README.md](https://raw.githubusercontent.com/MacaqueNet/database/refs/heads/main/README.md)
 
