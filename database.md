@@ -14,7 +14,7 @@ The data availability tool below allows you to browse through the MacaqueNet dat
 Click the button below to browse available datasets and view the latest version of the database:
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
     <li style="margin: 0;"><a href="https://macaquenet.shinyapps.io/MacaqueNet_database_search_tool/" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Search Tool</a></li>
-    <li style="margin: 0;"><a href="https://github.com/MacaqueNet/database/blob/main/README.md" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Database Version</a></li>
+    <li style="margin: 0;"><a href="https://github.com/MacaqueNet/MacaqueNet.github.io/blob/main/database_version_TEMP.md" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Database Version</a></li>
 </ul>
 
 
