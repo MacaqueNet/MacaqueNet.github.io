@@ -17,7 +17,6 @@ Click the button below to browse available datasets and view the latest version 
     <li style="margin: 0;"><a href="https://github.com/MacaqueNet/MacaqueNet.github.io/blob/main/database_version.md" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Database Version</a></li>
 </ul>
 
-
 Would you like to use data within the MacaqueNet database in your next research project? Great! Go ahead and click the button below to complete a data request form and join the MacaqueNet community.
 <ul class="actions">
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfR3pvQBxVdw8PK0UhnTfzd2Ty85oLSY3HVHmApoq7s-n26Jg/viewform?usp=sf_link" target="_blank" class="button big">Request Data</a></li> 
