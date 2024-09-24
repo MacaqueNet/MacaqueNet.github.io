@@ -15,7 +15,7 @@ Click the button below to browse available datasets and view the latest version 
 <ul class="actions">
         <li><a href="https://macaquenet.shinyapps.io/MacaqueNet_database_search_tool/" frameborder="no" width = "100%" height = "100%" target="_blank" class="button big">Search Tool</a></li> 
       </ul>
-<ul class="actions">
+<ul class="wrapper">
         <li><a href="https://github.com/MacaqueNet/database/blob/main/README.md" frameborder="no" width = "100%" height = "100%" target="_blank" class="button big">Database Version</a></li> 
       </ul>
 
@@ -33,3 +33,15 @@ While the database currently contains behavioural data only, we are actively loo
 ***
 
 
+.wrapper{
+  float: left;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.button{
+  display:inline-block;
+}
