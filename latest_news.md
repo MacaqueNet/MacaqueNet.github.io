@@ -8,10 +8,9 @@ permalink: /latest_news/
 **Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
 
 ***
-
 <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1;">
-        <h3>Nov 2024: Weaving the MacaqueNet 3.0 is coming in 2025</h3>
+**Nov 2024: Weaving the MacaqueNet 3.0 is coming in 2025**
         <p>
             MacaqueNet members Anindya Sinha, Zakhiya PC, Lauren Brent, Delphine De Moor & Macaela Skelton have submitted a proposal for a symposium on comparative research in animal behaviour for the 
             <a href="https://behaviourindia2025.in/">Behaviour conference</a> in Kolkata, India 25-30 Aug 2025. We will also hold a MacaqueNet board meeting, which members can hopefully attend virtually. More details will follow soon, we hope to see many of you there in-person!
