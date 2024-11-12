@@ -10,13 +10,15 @@ permalink: /latest_news/
 **Aug 2024: New MacaqueNet Grant!** - members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny Chiou, Erin Siracusa, and Noah Snyder-Mackler have won new a 5-year R01 grant from the NIH titled ‘Social Modifiers of Primate Lifespans’. The new grant will fund database manager Macaela Skelton for another 5 years, where she will continue to handle new data requests & contributions. 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
-        *What does this mean for MacaqueNet?*
-
-        - Our database manager extraordinaire, Macaela Skelton, will have her salary covered for 5 more years, so she will continue to handle data requests and new data contributions.
-        - Life history data will be added to the MacaqueNet database as a new open-access component (e.g., mean and max lifespan) for as many macaque species as possible.
-        - The project will submit a new data request in 2025 to hopefully align variation in macaque lifespan with variation in their social lives.
-        - University of Exeter will be hiring a new postdoc for this project, so tell the talented MacaqueNet ECRs you know to be on the lookout for a job advert in Spring(ish) 2025, to start Autumn(ish) that year.
-        - Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, drop me (or Kenny Chiou) a line.
+        <p><em>What does this mean for MacaqueNet?</em></p>
+        
+        <ul>
+            <li>Our database manager extraordinaire, Macaela Skelton, will have her salary covered for 5 more years, so she will continue to handle data requests and new data contributions.</li>
+            <li>Life history data will be added to the MacaqueNet database as a new open-access component (e.g., mean and max lifespan) for as many macaque species as possible.</li>
+            <li>The project will submit a new data request in 2025 to hopefully align variation in macaque lifespan with variation in their social lives.</li>
+            <li>University of Exeter will be hiring a new postdoc for this project, so tell the talented MacaqueNet ECRs you know to be on the lookout for a job advert in Spring(ish) 2025, to start Autumn(ish) that year.</li>
+            <li>Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, drop me (or Kenny Chiou) a line.</li>
+        </ul>
     </div>
     
     <div style="flex: 0 0 300px; text-align: center; margin-left: 20px;">
