@@ -17,7 +17,7 @@ permalink: /latest_news/
             <li>Life history data will be added to the MacaqueNet database as a new open-access component (e.g., mean and max lifespan) for as many macaque species as possible.</li>
             <li>The project will submit a new data request in 2025 to hopefully align variation in macaque lifespan with variation in their social lives.</li>
             <li>University of Exeter will be hiring a new postdoc for this project, so tell the talented MacaqueNet ECRs you know to be on the lookout for a job advert in Spring(ish) 2025, to start Autumn(ish) that year.</li>
-            <li>Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, get in touch!</li>
+            <li>Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, <a href="mailto:macaquenet@gmail.com" class="email-link">Get in touch!</a></li>
         </ul>
     </div>
     
