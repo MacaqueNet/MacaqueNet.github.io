@@ -7,6 +7,23 @@ permalink: /latest_news/
 
 **Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
 
+***
+
+<div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1;">
+        <h3>Nov 2024: Weaving the MacaqueNet 3.0 is coming in 2025</h3>
+        <p>
+            MacaqueNet members Anindya Sinha, Zakhiya PC, Lauren Brent, Delphine De Moor & Macaela Skelton have submitted a proposal for a symposium on comparative research in animal behaviour for the 
+            <a href="https://behaviourindia2025.in/">Behaviour conference</a> in Kolkata, India 25-30 Aug 2025. We will also hold a MacaqueNet board meeting, which members can hopefully attend virtually. More details will follow soon, we hope to see many of you there in-person!
+        </p>
+    </div>
+    <div>
+        <img src="/assets/images/weavingthemacaquenet3.0.png" width="300" alt="Weaving the MacaqueNet 3.0 logo"/>
+    </div>
+</div>
+
+***
+
 **Aug 2024: New MacaqueNet Grant!** - members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny Chiou, Erin Siracusa, and Noah Snyder-Mackler have won new a 5-year R01 grant from the NIH titled ‘Social Modifiers of Primate Lifespans’. The new grant will fund database manager Macaela Skelton for another 5 years, where she will continue to handle new data requests & contributions. 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
@@ -32,7 +49,7 @@ permalink: /latest_news/
 There was was also a lightening talk session, where 5 researchers presented their research during a lightning talk session. All 5 live in macaque-range countries, study Malaysian macaque species and/or are early-career researchers. Following the IPS workshop, on Aug 23rd 2023, we held MacaqueNet’s 2nd board meeting for data contributors, where we mainly discussed the database, GitHub and data requests. It was great to bring the community together to share new ideas in-person as well as online.
 <div style="text-align:center"><img class="image" src="/assets/images/IPS_workshop.png" width="900px"/></div><br/>
 
-**Jun 2023: MacaqueNet @ SoapBox Science** - Dr Delphine De Moor showcased MacaqueNet at the annual <a href="[https://www.friendorigins.com/what-is-friendorigins.html](http://soapboxscience.org/)">SoapBox Science</a> event in Exeter, UK on 10th Jun 2023. The popular event provides a platform exclusively for women in science, who gather in Exeter city centre to present their work to members of the public. During her 1 hour talk, Delphine gave an overview into what MacaqueNet is, why it is so important for the future of macaque research, and how the collaboration can help her ask questions about the socio-ecological drivers of social relationships across macaques. MacaqueNet garnered a lot of interest and people of all ages got involved in Delphine's interactive games, one where you had to match different types of social pressures e.g. predation to the correct social solution e.g. large social groups, and another where you had to place each macaque species on the correct region of the map corresponding with where they are found in the wild. The audience even formed their own social network using string, which helped to convey the concept of social relationships. All in all, the day was a success!
+**Jun 2023: MacaqueNet @ SoapBox Science** - Dr Delphine De Moor showcased MacaqueNet at the annual <a href="http://soapboxscience.org/">SoapBox Science</a> event in Exeter, UK on 10th Jun 2023. The popular event provides a platform exclusively for women in science, who gather in Exeter city centre to present their work to members of the public. During her 1 hour talk, Delphine gave an overview into what MacaqueNet is, why it is so important for the future of macaque research, and how the collaboration can help her ask questions about the socio-ecological drivers of social relationships across macaques. MacaqueNet garnered a lot of interest and people of all ages got involved in Delphine's interactive games, one where you had to match different types of social pressures e.g. predation to the correct social solution e.g. large social groups, and another where you had to place each macaque species on the correct region of the map corresponding with where they are found in the wild. The audience even formed their own social network using string, which helped to convey the concept of social relationships. All in all, the day was a success!
 <div style="text-align:center"><img class="image" src="/assets/images/SoapBox_Science.png" width="900px"/></div><br/>
 
 **May 2022: New MacaqueNet logo** - We are excited to announce that MacaqueNet now has its very own logo! We worked closely with Sarah Nason at <a href="https://www.wapitistudios.ca/">Wapiti Studios</a>, who has done a marvellous job visualising MacaqueNet. We wanted to include images of a few different macaques species, to emphasise the cross-species comparative nature of the collaborative network. The network element represents both our network of collaborators that have joined together to build MacaqueNet and make it what it is today, as well as hinting to the social focus of MacaqueNet. We think it's perfect, even if we do say so ourselves!
