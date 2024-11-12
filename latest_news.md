@@ -22,8 +22,6 @@ permalink: /latest_news/
     </div>
 </div>
 
-***
-
 **Aug 2024: New MacaqueNet Grant!**<br>
 members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny Chiou, Erin Siracusa, and Noah Snyder-Mackler have won new a 5-year R01 grant from the NIH titled ‘Social Modifiers of Primate Lifespans’.
 <div style="display: flex; align-items: stretch;">
@@ -44,8 +42,6 @@ members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny C
     </div>
 </div>
 
-***
-
 **Aug 2023: Weaving the MacaqueNet 2.0 at IPS in Borneo**<br>																																	
 	MacaqueNet hosted its very first workshop on Aug 21st 2023 at IPS in Borneo, Malaysia. Dr Delphine De Moor led the workshop, providing updates about the database and current projects. 
 	There was was also a lightening talk session, where 5 researchers presented their research during a lightning talk session. All 5 live in macaque-range countries, study Malaysian macaque species and/or are early-career researchers. Following the IPS workshop, on Aug 23rd 2023, we held MacaqueNet’s 2nd board meeting for data contributors, where we mainly discussed the database, GitHub and data requests. It was great to bring the community together to share new ideas in-person as well as online.
@@ -58,8 +54,6 @@ members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny C
 **May 2022: New MacaqueNet logo**<br>
 	We are excited to announce that MacaqueNet now has its very own logo! We worked closely with Sarah Nason at <a href="https://www.wapitistudios.ca/">Wapiti Studios</a>, who has done a marvellous job visualising MacaqueNet. We wanted to include images of a few different macaques species, to emphasise the cross-species comparative nature of the collaborative network. The network element represents both our network of collaborators that have joined together to build MacaqueNet and make it what it is today, as well as hinting to the social focus of MacaqueNet. We think it's perfect, even if we do say so ourselves!
 <div style="text-align:center"><img class="image" src="/assets/images/MacaqueNet_Logo_V04-colourB.png" width="300"/></div><br/>
-
-***
 
 **Nov 2021: “Weaving the MacaqueNet” symposium**<br>
 	In Nov 2021 we successfully hosted our first ever MacaqueNet conference. This 3-day symposium provided an opportunity for all the current data contributors to meet, discuss their research and learn about ongoing projects. Together, we discussed the future directions of MacaqueNet as well as the current state and future avenues of macaque social behaviour research as a whole. This event was a major milestone for MacaqueNet and marked the maturation of MacaqueNet from a mere concept to it becoming a international network of like-minded macaque researchers. While it has been amazing to see the database grow with behavioural data from all over the world, witnessing so many experts in macaque research come together, willing and open to collaborate and share resources in the name of "big team" science has been truly breathtaking and exceeded all expectations.
