@@ -8,9 +8,10 @@ permalink: /latest_news/
 **Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
 
 ***
+
+**Nov 2024: Weaving the MacaqueNet 3.0 is coming in 2025**
 <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1;">
-**Nov 2024: Weaving the MacaqueNet 3.0 is coming in 2025**
         <p>
             MacaqueNet members Anindya Sinha, Zakhiya PC, Lauren Brent, Delphine De Moor & Macaela Skelton have submitted a proposal for a symposium on comparative research in animal behaviour for the 
             <a href="https://behaviourindia2025.in/">Behaviour conference</a> in Kolkata, India 25-30 Aug 2025. We will also hold a MacaqueNet board meeting, which members can hopefully attend virtually. More details will follow soon, we hope to see many of you there in-person!
@@ -23,9 +24,10 @@ permalink: /latest_news/
 
 ***
 
-**Aug 2024: New MacaqueNet Grant!** - members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny Chiou, Erin Siracusa, and Noah Snyder-Mackler have won new a 5-year R01 grant from the NIH titled ‘Social Modifiers of Primate Lifespans’. The new grant will fund database manager Macaela Skelton for another 5 years, where she will continue to handle new data requests & contributions. 
+**Aug 2024: New MacaqueNet Grant!**
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
+	<p>members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny Chiou, Erin Siracusa, and Noah Snyder-Mackler have won new a 5-year R01 grant from the NIH titled ‘Social Modifiers of Primate Lifespans’. The new grant will fund database manager Macaela Skelton for another 5 years, where she will continue to handle new data requests & contributions.</p>
         <p><em>What does this mean for MacaqueNet?</em></p>
         
         <ul>
