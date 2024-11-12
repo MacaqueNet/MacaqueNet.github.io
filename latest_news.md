@@ -18,7 +18,7 @@ permalink: /latest_news/
         </p>
     </div>
 	<div style="flex: 0 0 300px; text-align: center; margin-left: 20px; display: flex; align-items: center;">
-        <img class="image" src="/assets/images/NIH.png" width="300"/>
+        <img class="image" src="/assets/images/weavingthemacaquenet3.0.png" width="300"/>
     </div>
 </div>
 
