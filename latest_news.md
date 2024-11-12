@@ -8,13 +8,21 @@ permalink: /latest_news/
 **Keep up to date with the latest news from MacaqueNet and its collaborators, including events, new projects and puplications.**
 
 **Aug 2024: New MacaqueNet Grant!** - members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny Chiou, Erin Siracusa, and Noah Snyder-Mackler have won new a 5-year R01 grant from the NIH titled ‘Social Modifiers of Primate Lifespans’. The new grant will fund database manager Macaela Skelton for another 5 years, where she will continue to handle new data requests & contributions. 
-<em>What does this mean for MacaqueNet?</em>
--Our database manager extraordinaire, Macaela Skelton, will have her salary covered for 5 more years so will continue to handle data requests and new data contributions.
--Life history data will be added to the MacaqueNet database as a new open-access component (e.g., mean and max lifespan)for as many macaque species as possible.
--The project will submit a new data request in 2025 to hopefully align variation in macaque lifespan with variation in their social lives.
--University of Exeter will be hiring a new postdoc for this project, so tell the talented MacaqueNet ECRs that you know to be on the lookout for a job advert in Spring(ish) 2025, to start Autumn(ish) that year.
--Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work too. So far we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, drop me (or Kenny Chiou) a line.
-<div style="text-align:center"><img class="image" src="/assets/images/NIH.png" width="300"/></div><br/>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        *What does this mean for MacaqueNet?*
+
+        - Our database manager extraordinaire, Macaela Skelton, will have her salary covered for 5 more years, so she will continue to handle data requests and new data contributions.
+        - Life history data will be added to the MacaqueNet database as a new open-access component (e.g., mean and max lifespan) for as many macaque species as possible.
+        - The project will submit a new data request in 2025 to hopefully align variation in macaque lifespan with variation in their social lives.
+        - University of Exeter will be hiring a new postdoc for this project, so tell the talented MacaqueNet ECRs you know to be on the lookout for a job advert in Spring(ish) 2025, to start Autumn(ish) that year.
+        - Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, drop me (or Kenny Chiou) a line.
+    </div>
+    
+    <div style="flex: 0 0 300px; text-align: center; margin-left: 20px;">
+        <img class="image" src="/assets/images/NIH.png" width="300"/>
+    </div>
+</div>
 
 **Aug 2023: Weaving the MacaqueNet 2.0 at IPS in Borneo** - MacaqueNet hosted its very first workshop on Aug 21st 2023 at IPS in Borneo, Malaysia. Dr Delphine De Moor led the workshop, providing updates about the database and current projects. 
 There was was also a lightening talk session, where 5 researchers presented their research during a lightning talk session. All 5 live in macaque-range countries, study Malaysian macaque species and/or are early-career researchers. Following the IPS workshop, on Aug 23rd 2023, we held MacaqueNet’s 2nd board meeting for data contributors, where we mainly discussed the database, GitHub and data requests. It was great to bring the community together to share new ideas in-person as well as online.
