@@ -17,7 +17,7 @@ permalink: /latest_news/
             <li>Life history data will be added to the MacaqueNet database as a new open-access component (e.g., mean and max lifespan) for as many macaque species as possible.</li>
             <li>The project will submit a new data request in 2025 to hopefully align variation in macaque lifespan with variation in their social lives.</li>
             <li>University of Exeter will be hiring a new postdoc for this project, so tell the talented MacaqueNet ECRs you know to be on the lookout for a job advert in Spring(ish) 2025, to start Autumn(ish) that year.</li>
-            <li>Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, drop me (or Kenny Chiou) a line.</li>
+            <li>Some of you are contributing blood samples for this grant so that Kenny and Noah can establish genomic rates of aging across macaque species and publish a macaque-general aging clock that others can use in their work, too. So far, we have 5 species with a substantial number of samples from individuals of known ages. If you have access to blood that you might like to share, get in touch!</li>
         </ul>
     </div>
     
@@ -25,6 +25,8 @@ permalink: /latest_news/
         <img class="image" src="/assets/images/NIH.png" width="300"/>
     </div>
 </div>
+
+***
 
 **Aug 2023: Weaving the MacaqueNet 2.0 at IPS in Borneo** - MacaqueNet hosted its very first workshop on Aug 21st 2023 at IPS in Borneo, Malaysia. Dr Delphine De Moor led the workshop, providing updates about the database and current projects. 
 There was was also a lightening talk session, where 5 researchers presented their research during a lightning talk session. All 5 live in macaque-range countries, study Malaysian macaque species and/or are early-career researchers. Following the IPS workshop, on Aug 23rd 2023, we held MacaqueNet’s 2nd board meeting for data contributors, where we mainly discussed the database, GitHub and data requests. It was great to bring the community together to share new ideas in-person as well as online.
