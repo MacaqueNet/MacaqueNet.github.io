@@ -85,6 +85,9 @@ members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny C
 ***
 
 ## Publications
-**COMING SOON!**
-
+<ul>
+	<li>Pengzhen Huang, Malgorzata E Arlet, Krishna N Balasubramaniam, Brianne A Beisner, Eliza Bliss-Moreau, Lauren J N Brent, Julie Duboscq, Iván García-Nisa, Stefano S K Kaburu, Rachel Kendal, Martina Konečná, Pascal R Marty, 
+Brenda McCowan, Jérôme Micheletta, Julia Ostner, Oliver Schülke, Gabriele Schino, Bonaventura Majolo, Relationship between dominance hierarchy steepness and rank-relatedness of benefits in primates, <em>Behavioral Ecology</em>, Volume 35, 
+Issue 5, September/October 2024, arae066, https://doi.org/10.1093/beheco/arae066</li>
+ </ul>
 ***
