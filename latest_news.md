@@ -90,7 +90,7 @@ members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny C
 </ul>
 
 <ul>
-	<li><a href="https://www.biorxiv.org/content/10.1101/2023.09.07.552971v1.abstract" target = "_blank"><b>[Pre-print]</b> De Moor, D., MacaqueNet, Skelton, M., Schülke, O., Ostner, J., Neumann, C., Duboscq, J. and Brent, L.J. (2023). MacaqueNet: big-team research into the biological drivers of social relationships. <em>BioRxiv</em>, pp.2023-09.
-***</a></li>
+	<li><a href="https://www.biorxiv.org/content/10.1101/2023.09.07.552971v1.abstract" target = "_blank"><b>[Pre-print]</b> De Moor, D., MacaqueNet, Skelton, M., Schülke, O., Ostner, J., Neumann, C., Duboscq, J. and Brent, L.J. (2023). MacaqueNet: big-team research into the biological drivers of social relationships. <em>BioRxiv</em>, pp.2023-09.</a></li>
 </ul>
 
+***
