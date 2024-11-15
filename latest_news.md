@@ -86,6 +86,6 @@ members Lauren Brent & Delphine De Moor in collaboration with colleagues Kenny C
 
 ## Publications
 <ul>
-	<li><a href="https://academic.oup.com/beheco/article/35/5/arae066/7732141", target = "_blank">Huang, P., Arlet, M.E., Balasubramaniam, K.N., Beisner, B.A., Bliss-Moreau, E., Brent, L.J., Duboscq, J., García-Nisa, I., Kaburu, S.S., Kendal, R. and Konečná, M., 2024. Relationship between dominance hierarchy steepness and rank-relatedness of benefits in primates. <em>Behavioral Ecology</em>, <b>35</b>(5)</a></li>
+	<li><a href="https://academic.oup.com/beheco/article/35/5/arae066/7732141" target = "_blank">Huang, P., Arlet, M.E., Balasubramaniam, K.N., Beisner, B.A., Bliss-Moreau, E., Brent, L.J., Duboscq, J., García-Nisa, I., Kaburu, S.S., Kendal, R. and Konečná, M., 2024. Relationship between dominance hierarchy steepness and rank-relatedness of benefits in primates. <em>Behavioral Ecology</em>, <b>35</b>(5)</a></li>
 </ul>
 ***
