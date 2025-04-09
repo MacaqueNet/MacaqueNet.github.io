@@ -22,9 +22,14 @@ Would you like to use data within the MacaqueNet database in your next research 
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfR3pvQBxVdw8PK0UhnTfzd2Ty85oLSY3HVHmApoq7s-n26Jg/viewform?usp=sf_link" target="_blank" class="button big">Request Data</a></li> 
       </ul>
 
-While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, or if you have a suggestion for the types of data we should include, please click the button below.
+While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, or if you want to propose establishing a new branch of the database containing a new data type, please click the relevant button below.
 <ul class="actions">
-        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sf_link" target="_blank" class="button big">Contribute Data or Make Suggestion</a></li> 
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sf_link" target="_blank" class="button big">Contribute Data</a></li> 
       </ul>
+  <ul class="actions">
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sharing" target="_blank" class="button big">Propose New Database Branch</a></li> 
+      </ul>
+      
+
 
 ***
