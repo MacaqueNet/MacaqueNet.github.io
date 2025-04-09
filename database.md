@@ -24,7 +24,7 @@ Would you like to use data within the MacaqueNet database in your next research 
 
 While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, or if you want to propose establishing a new branch of the database containing a new data type, please click the buttons below.
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
-    <li style="margin: 0;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sf_link" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Contribute Datal</a></li>
+    <li style="margin: 0;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sf_link" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Contribute Data</a></li>
     <li style="margin: 0;"><a href= "https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sharing" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Propose New Database Branch</a></li>
 </ul>
 
