@@ -18,28 +18,23 @@ collaborators, including events, new projects and puplications.**
 
 **Apr 2025: It's Official - MacaqueNet is coming to Kolkata!**
 
-::: {style="display: flex; align-items: stretch;"}
-```         
-<div style="flex: 1;">
+<div style="display: flex; align-items: stretch;">
+
+  <div style="flex: 1;">
     <p>
-    We are excited to confirm that "Weaving the MacaqueNet 3.0" will be hosted in Kolkata, India for the <a href="https://behaviourindia2025.in/">Behaviour conference</a> in August. 
-    There will be a **pre-conference workshop plus dinner** & a <a href="https://behaviourindia2025.in/symposia.html" target="_blank" >symposium</a> on **“Unlocking Comparative Research in Animal Social Behaviour” (S19)**
-  
-```
+      We are excited to confirm that <strong>"Weaving the MacaqueNet 3.0"</strong> will be hosted in Kolkata, India for the <a href="https://behaviourindia2025.in/" target="_blank">Behaviour conference</a> in August. <br><br>
+      There will be a <strong>pre-conference workshop plus dinner</strong> & a <a href="https://behaviourindia2025.in/symposia.html" target="_blank">symposium</a> on <strong>“Unlocking Comparative Research in Animal Social Behaviour” (S19)</strong>.
+    </p>
+    <p>
+      Head to our <a href="https://macaquenet.github.io/symposia/" target="_blank">symposia</a> page to find out more.
+    </p>
+  </div>
 
-Head to our
-<a href="https://macaquenet.github.io/symposia/" target="_blank">symposia</a>
-page to find out more.
-
-</p>
-:::
-
-::: {style="flex: 0 0 300px; text-align: center; margin-left: 20px; display: flex; align-items: center;"}
-```         
+  <div style="flex: 0 0 300px; text-align: center; margin-left: 20px;">
     <img class="image" src="/assets/images/behaviour2025.jpg" width="300"/>
+  </div>
+
 </div>
-```
-:::
 
 ------------------------------------------------------------------------
 
