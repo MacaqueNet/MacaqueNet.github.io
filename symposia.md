@@ -21,9 +21,31 @@ This workshop will include updates on MacaqueNet projects & database development
 
 Interested in presenting a lightning talk? Let us know when you register below!
 
+Post workshop, we will have a MacaqueNet members only **board meeting** to discuss the internal management & workings of MacaqueNet & its database, followed by a **dinner** open for all workshop attendees.
+
+**Symposium Unlocking Comparative Research in Animal Social Behaviour (S19)**
+Date & Time: To be confirmed
+Open to all Behaviour 2025 attendees
+
+This symposium aims to showcase the power & challenges of comparative approaches to behavioural reseaarch. A selection of talks will highlight both the potential and the challenges of cross-species datasets and collaborations. You can find out more <a href="https://behaviourindia2025.in/symposia.html" target="_blank">here</a>
+
+Speakers include:
+
+  *Delphine De Moor
+  *Jacob Feder
+  *Stotra Chakrabarti
+  *Genevieve E. Finerty
+  *Natalia Borrego
+  *Krishna Balasubramaniam
+  *Greg Albery
+  *Harish Kumar
+
+At the end, there will be time to discuss everything we've heard during the symposium. Come exchange ideas, tackle key issues, and help push the field forward!
+
 Already planning on attending the behaviour conference in Kolkata? We would love to see many of you there in-person. If you haven't signed up already, discounted **early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tues 15th April!**
 
 Plan to attend virtually? You do NOT need to be registered to the Behaviour conference in order to attend our pre-conference workshop.
+
 
 Click the button below to sign up for the MacaqueNet workshop, board meeting & sympoium NOW! 
 
