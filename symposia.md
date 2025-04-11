@@ -47,7 +47,7 @@ permalink: /symposia/
 	<p>Already planning to attend Behaviour 2025 in Kolkata?<br>
 	We’d love to see many of you — macaque lovers, behaviour researchers, and big-team science fans — there in person!</p>
 
-	<p>Not registered yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tuesday 15 April! 
+	<p>Not registered yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> for the behaviour conference is available until Tuesday 15 April! 
 Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop.</p>
 
 	<p>Click below to sign up for the MacaqueNet Workshop, Board Meeting & Symposium:</p>
