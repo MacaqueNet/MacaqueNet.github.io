@@ -12,7 +12,7 @@ permalink: /symposia/
 <div class="team">
 	<span class="image left"><img src="/assets/images/behaviour2025.jpg" width="50%"/></span>
 
-	<p><strong>“Weaving the MacaqueNet 3.0”</strong> is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025.</p>
+	<p>“Weaving the MacaqueNet 3.0”is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025.</p>
 
 	<p><strong>Pre-Conference Workshop</strong><br>
 	Sunday 24 August 2025 (Time TBC)<br>
@@ -30,7 +30,7 @@ permalink: /symposia/
 
 	<p>This symposium will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. <a href="https://behaviourindia2025.in/symposia.html" target="_blank">More info here</a></p>
 
-	<p><strong>Speakers include:</strong></p>
+	<p>Speakers include:</p>
 	<ul>
 		<li>Delphine De Moor</li>
 		<li>Jacob Feder</li>
@@ -44,12 +44,12 @@ permalink: /symposia/
 
 	<p>We’ll end with a discussion session to reflect on the talks and share ideas to help push the field forward.</p>
 
-	<p><strong>Already planning to attend Behaviour 2025 in Kolkata?</strong><br>
+	<p>Already planning to attend Behaviour 2025 in Kolkata?<br>
 	We’d love to see many of you — macaque lovers, behaviour researchers, and big-team science fans — there in person!</p>
 
-	<p><strong>Not registered yet?</strong> Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tuesday 15 April!</p>
+	<p>Not registered yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tuesday 15 April!</p>
 
-	<p><strong>Joining virtually?</strong> You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop.</p>
+	<p>Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop.</p>
 
 	<p>Click below to sign up for the MacaqueNet Workshop, Board Meeting & Symposium:</p>
 
