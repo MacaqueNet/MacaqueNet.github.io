@@ -6,7 +6,30 @@ permalink: /symposia/
 ***
 
 ## Upcoming Symposia
-Keep an eye out for information on upcoming symposia...
+
+### “Weaving the MacaqueNet 3.0” is coming to Kolkata
+
+<div class="team">
+	<span class="image left"><img src="/assets/images/behaviour2025.jpg" width="50%"/></span>
+  <p>“Weaving the MacaqueNet 3.0” is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">behaviour</a> conference 25th-30th August 2025.
+  
+**Pre-Conference Workshop**
+Sunday 24 August 2025 (Time TBC)
+Open to all (in-person & virtual)
+
+This workshop will include updates on MacaqueNet projects & database developments as well as lightning talks showcasing work from early-career macaque researchers and researchers based in macaque-range countries.
+
+Interested in presenting a lightning talk? Let us know when you register below!
+
+Already planning on attending the behaviour conference in Kolkata? We would love to see many of you there in-person. If you haven't signed up already, discounted **early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tues 15th April!**
+
+Plan to attend virtually? You do NOT need to be registered to the Behaviour conference in order to attend our pre-conference workshop.
+
+Click the button below to sign up for the MacaqueNet workshop, board meeting & sympoium NOW! 
+
+<ul class="actions">
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScPvbLKZBGQZqDjU_QTw-9v5phGe_jDP4cZgcMTM8yYuvsRCA/viewform" target="_blank" class="button big">Register</a></li> 
+      </ul>
 
 ***
 
