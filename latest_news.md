@@ -15,7 +15,7 @@ permalink: /latest_news/
     <div style="flex: 1;">
         <p>
           We are excited to confirm that "Weaving the MacaqueNet 3.0" will be hosted in Kolkata, India for the <a href="https://behaviourindia2025.in/">Behaviour conference</a> in August. 
-        There will be a pre-conference workshop plus dinner & a <a href="https://behaviourindia2025.in/symposia.html" target="_blank" >symposium</a> on “Unlocking Comparative Research in Animal Social Behaviour” (S19) <br>
+        There will be a pre-conference workshop plus dinner & a symposium on <a href="https://behaviourindia2025.in/symposia.html" target="_blank" >“Unlocking Comparative Research in Animal Social Behaviour” (S19)</a>. <br>
       
 Head to our <a href="https://macaquenet.github.io/symposia/" target="_blank">symposia</a> page to find out more.
         </p>
