@@ -27,7 +27,7 @@ permalink: /symposia/
 	Open to all Behaviour 2025 attendees<br>
 	Our symposium will be part of the official conference programme, and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a></p>
 
-	<p>Speakers include:<br>
+	<p>Speakers include:</p>
 	<ul>
 		<li>Delphine De Moor</li>
 		<li>Jacob Feder</li>
