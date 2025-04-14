@@ -24,7 +24,7 @@ permalink: /symposia/
 
 	<p><strong>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</strong><br>
 	Date & Time: TBC<br>
-	Open to all Behaviour 2025 attendees</p> <br>
+	Open to all Behaviour 2025 attendees<br>
 	Our symposium will be part of the official conference programme, and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a></p>
 
 	<p>Speakers include:<br>
@@ -45,6 +45,7 @@ permalink: /symposia/
 	<ul class="actions">
 		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScPvbLKZBGQZqDjU_QTw-9v5phGe_jDP4cZgcMTM8yYuvsRCA/viewform" target="_blank" class="button big">Register</a></li>
 	</ul>
+</div>
 
 ## Previous Events
 

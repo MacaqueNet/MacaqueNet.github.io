@@ -20,6 +20,9 @@ permalink: /latest_news/
 Head to our <a href="https://macaquenet.github.io/symposia/" target="_blank">symposia</a> page to find out more.
         </p>
     </div>
+    	<div style="flex: 0 0 300px; text-align: center; margin-left: 20px; display: flex; align-items: center;">
+        <img class="image" src="/assets/images/india_flag.png" width="300"/>
+    </div>
 </div>
 
 ***
