@@ -45,6 +45,7 @@ permalink: /symposia/
 	<ul class="actions">
 		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScPvbLKZBGQZqDjU_QTw-9v5phGe_jDP4cZgcMTM8yYuvsRCA/viewform" target="_blank" class="button big">Register</a></li>
 	</ul>
+	
 </div>
 
 ## Previous Events
@@ -65,6 +66,7 @@ The full "Weaving the MacaqueNet 2.0" workshop programme can still be viewed <a 
 <div class="team">
 	<span class="image left"><img src="/assets/images/symposium.png" width="300"/></span>
 	<p>In Nov 2021 we successfully hosted our first ever MacaqueNet conference. This 3-day symposium provided an opportunity for all the current data contributors to meet, discuss their research and learn about ongoing projects. Together, we discussed the future directions of MacaqueNet as well as the current state and future avenues of macaque social behaviour research as a whole. This event was a major milestone for MacaqueNet and marked the maturation of MacaqueNet from a mere concept to it becoming a international network of like-minded macaque researchers. While it has been amazing to see the database grow with behavioural data from all over the world, witnessing so many experts in macaque research come together, willing and open to collaborate and share resources in the name of "big team" science has been truly breathtaking and exceeded all expectations. </p>
+	
 </div>
 
 
