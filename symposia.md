@@ -18,8 +18,7 @@ permalink: /symposia/
 	Sunday 24 August 2025 (Time TBC)<br>
 	Open to all (in-person & virtual) <br>
 	This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-
-	<p>Post workshop, we will have a MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> to discuss internal management & future directions of the database. Afterwards, we will head to <strong>dinner</strong> (details TBC), to which all workshop attendees are welcome!</p>
+	Post workshop, we will have a MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> to discuss internal management & future directions of the database. Afterwards, we will head to <strong>dinner</strong> (details TBC), to which all workshop attendees are welcome!</p>
 	
 	<p>Planning to join the workshop? Click "REGISTER" below to <u>sign-up</u>. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. Interested in presenting a lightning talk? <u>Let us know</u> when filling out the form!</p>
 
@@ -41,8 +40,7 @@ permalink: /symposia/
 		<li>Harish Kumar</li>
 	</ul>
 
-	<p>Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!</p> <br> 
-	Not registered for behaviour yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tuesday 15 April! </p>
+	<p>Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!Not registered for behaviour yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tuesday 15 April! </p>
 
 	<p>Click below to sign up for the MacaqueNet Workshop, Board Meeting, post-workshop dinner and symposium - you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form:</p>
 	<ul class="actions">
