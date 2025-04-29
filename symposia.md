@@ -20,7 +20,7 @@ permalink: /symposia/
 	This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
 	Post workshop, we will have a MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> to discuss internal management & future directions of the database. Afterwards, we will head to <strong>dinner</strong> (details TBC), to which all workshop attendees are welcome!</p>
 	
-	<p>Planning to join the workshop? Click "REGISTER" below to <u>sign-up</u>. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. Interested in presenting a lightning talk? <u>Let us know</u> when filling out the form!</p>
+	<p>Planning to join the workshop? Click <strong>REGISTER</strong> below to <u>sign-up</u>. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. Interested in presenting a lightning talk? <u>Let us know</u> when filling out the form!</p>
 
 	<p><strong>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</strong><br>
 	Date & Time: TBC<br>
