@@ -17,10 +17,11 @@ Click the buttons below to browse available datasets and view the latest version
     <li style="margin: 0;"><a href= "https://github.com/MacaqueNet/database/blob/main/NEWS.md" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Database Version</a></li>
 </ul>
 
-Would you like to use data within the MacaqueNet database in your next research project? Great! Go ahead and click the button below to complete a data request form and join the MacaqueNet community.
-<ul class="actions">
+Interested in using data from the MacaqueNet database for your next research project? Great! Go ahead and click the button below to complete a data request form and join the MacaqueNet community. Alternatively, you can browse our data request log for information on all previous and ongoing data requests.
+<ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfR3pvQBxVdw8PK0UhnTfzd2Ty85oLSY3HVHmApoq7s-n26Jg/viewform?usp=sf_link" target="_blank" class="button big">Request Data</a></li> 
-      </ul>
+        <li><a href="https://github.com/MacaqueNet/database/blob/main/data_requests/MacaqueNet_data_request_log.csv" target="_blank" class="button big">Browse Data Requests</a></li> 
+</ul>
 
 While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, or if you want to propose establishing a new branch of the database containing a new data type, please click the buttons below.
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
@@ -29,3 +30,6 @@ While the database currently contains behavioural data only, we are actively loo
 </ul>
 
 ***
+
+The **MacaqueNet Management Team** meets every **2 months** to discuss new and ongoing data requests, data proposals and data contributions. 
+Our next meeting will take place on **June 26th 2025**, so get your form(s) submitted before then! 
