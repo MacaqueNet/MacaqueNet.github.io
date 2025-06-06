@@ -14,7 +14,7 @@ The <a href="https://github.com/MacaqueNet/database/blob/main/workflow/MacaqueNe
 The MacaqueNet database is organised as a relational database. You can find an overview of the tables part of the database, and how they are linked in the <a href="https://github.com/MacaqueNet/database/blob/main/database%20schema_glossary_terms%20of%20use/Relational%20Database%20Schema.pdf" target="_blank">relational database overview</a>. The <a href="https://github.com/MacaqueNet/database/blob/main/database%20schema_glossary_terms%20of%20use/Glossary.pdf" target="_blank">glossary</a> has definitions for each variable in the database.
 
 ## Terms of use
-The <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20Terms%20of%20Use.pdf" target="_blank">terms of use</a> document is designed to guide the use of data hosted at the MacaqueNet database. MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data custody, the document includes a data user agreement and guidelines for attribution.
+The <a href="https://github.com/MacaqueNet/database/blob/main/database%20schema_glossary_terms%20of%20use/Terms%20of%20Use.pdf" target="_blank">terms of use</a> document is designed to guide the use of data hosted at the MacaqueNet database. MacaqueNet data can be requested for academic, research, education, and other non-profit professional purposes. To facilitate data reuse whilst acknowledging data custody, the document includes a data user agreement and guidelines for attribution.
 
 ## MacaqueNet collaborators
 The MacaqueNet collaborators map below shows where current MacaqueNet collaborators are located, as well as the geographical range of wild macaques.
