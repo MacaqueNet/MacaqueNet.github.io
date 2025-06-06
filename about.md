@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 ***
-lmlm
+
 <div style="text-align:center"><img class="image" src="/assets/images/3 image what is macaquenet collage.png" /></div><br/>
 ## What Is MacaqueNet?
 
