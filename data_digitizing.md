@@ -2,8 +2,8 @@
 layout: page
 title: "Digitizing Macaque Data"
 permalink: /digitizing/
-  ---
-  ***
+---
+***
   
 MacaqueNet has received many generous data contributions from macaque researches all over the world. 
 Some of these datasets, particularly those they are older, require digitizing before they can be standardised and imported into the database. 
