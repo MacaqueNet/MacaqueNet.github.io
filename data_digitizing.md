@@ -5,20 +5,25 @@ permalink: /digitizing/
 ---
 ***
   
-MacaqueNet has received many generous data contributions from macaque researches all over the world. 
-Some of these datasets, particularly those they are older, require digitizing before they can be standardised and imported into the database. 
+MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets—especially older ones—still exist only in handwritten or scanned formats and need to be digitized before they can be standardised and added to the database.
 
-Here is where you come in... We need volunteers to digitizing one or more behavioural datasets. It could make an ideal student project or for those wanting experience handling behavioural data.
+That is where you come in!
 
-Interested in digitizing some macaque data? Click the button below and fill in the form. We will get in touch ASAP.
+We are looking for volunteers to help digitize one or more behavioural macaque datasets. This is a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling. Whether you are looking for a project to complement your studies or simply want to get involved in comparative research, we would love to hear from you.
 
-<ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
+We currently have behavioural datasets from multiple contributors that need digitizing for the following species:
+* long-tailed macaques 
+* rhesus macaques
+
+Interested in helping out? Click the button below and fill out the form. 
+
+<ul class="actions" style="display: flex; justify-content: center; list-style: none; padding: 0; gap: 10px;">
   <li><a href="" target="_blank" class="button big">Apply Now</a></li> 
-  </ul>
+</ul>
 
-<div style="text-align:center"><img class="image" src="/assets/images/dataentry.png"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/macaque_entering_data.png"/></div><br/>
   
-  ***
+***
   
 
   
