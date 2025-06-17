@@ -16,7 +16,7 @@ Interested in digitizing some macaque data? Click the button below and fill in t
   <li><a href="" target="_blank" class="button big">Apply Now</a></li> 
   </ul>
 
-<div style="text-align:center"><img class="image" src="/assets/images/dataentry.PNG"/></div><br/>
+<div style="text-align:center"><img class="image" src="/assets/images/dataentry.png"/></div><br/>
   
   ***
   
