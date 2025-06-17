@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Digitizing Macaque Data"
+title: "Data Digitization"
 permalink: /digitizing/
 ---
 ***
