@@ -5,31 +5,42 @@ permalink: /digitizing/
 ---
 ***
   
-MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized before they can be standardised and added to the database.
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-That is where you come in!
+  <div style="flex: 1; min-width: 250px;">
+    <img src="/assets/images/dataentry.png" alt="Data Entry" style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
 
-We are looking for volunteers to help digitize one or more behavioural macaque datasets. 
-This is a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling. 
+  <div style="flex: 2; min-width: 300px;">
+    <p>
+      <strong>MacaqueNet</strong> relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized before they can be standardised and added to the database.
+    </p>
+    <p>
+      <strong>That is where you come in!</strong>
+    </p>
+    <p>
+      We are looking for volunteers to help digitize one or more behavioural macaque datasets. This is also a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling.
+    </p>
+    <p>
+      Datasets may include interactions of grooming, agonism, or body contact, and might just include the ideal species, population or behaviours you need to answer your own research question! Once the data is digitized and imported into the database, you will have the opportunity to request to use these data, in collaboration with the MacaqueNet consortium, and with the permission of the original data contributors.
+    </p>
+    <p>
+      There may be opportunities to help digitize behavioural datasets for the following species:
+    </p>
+    <ul>
+      <li>Long-tailed macaques</li>
+      <li>Rhesus macaques</li>
+    </ul>
+    <p>
+      For more information, register your interest by clicking the button below.
+    </p>
 
-Whether you are looking for a project to complement your studies or simply want to get involved in comparative research, we would love to hear from you.
+    <ul class="actions" style="display: flex; justify-content: center; list-style: none; padding: 0; gap: 10px;">
+      <li><a href="" target="_blank" class="button big">Register Interest</a></li> 
+    </ul>
+  </div>
 
-There may be opportunities to help digitize behavioural datasets for the following species:
-* long-tailed macaques 
-* rhesus macaques
+</div>
 
-These datasets could include observations of grooming, agonism, or body contact, and might just involve the ideal species, populations or behaviours you need to answer your own research question! 
-Once the data is digitized and imported into the database, you will have the opportunity to request to use these data, in collaboration with the MacaqueNet consortium, with permission of the original data contributors.
-
-Interested in helping out? Register your interest now by clicking the button below and filling out the form. 
-
-<ul class="actions" style="display: flex; justify-content: center; list-style: none; padding: 0; gap: 10px;">
-  <li><a href="" target="_blank" class="button big">Register Interest</a></li> 
-</ul>
-
-<div style="text-align:center"><img class="image" src="/assets/images/dataentry.png"/></div><br/>
-  
-***
-  
 
   
