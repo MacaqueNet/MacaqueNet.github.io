@@ -4,11 +4,15 @@ title: "Data Digitization"
 permalink: /digitizing/
 ---
 ***
-  
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
     <img src="/assets/images/dataentry.png" alt="Data Entry" style="max-width: 100%; height: auto; border-radius: 8px;">
+
+    <ul class="actions" style="display: flex; justify-content: flex-start; list-style: none; padding: 10px 0 0 0; margin: 0;">
+      <li><a href="" target="_blank" class="button big">Register Interest</a></li> 
+    </ul>
   </div>
 
   <div style="flex: 2; min-width: 300px;">
@@ -31,16 +35,10 @@ permalink: /digitizing/
       <li>Long-tailed macaques</li>
       <li>Rhesus macaques</li>
     </ul>
-    <p>
-      For more information, register your interest by clicking the button below.
-    </p>
-
-    <ul class="actions" style="display: flex; justify-content: center; list-style: none; padding: 0; gap: 10px;">
-      <li><a href="" target="_blank" class="button big">Register Interest</a></li> 
-    </ul>
   </div>
 
 </div>
 
+***
 
   
