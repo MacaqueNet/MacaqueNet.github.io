@@ -17,7 +17,7 @@ permalink: /digitizing/
 
   <div style="flex: 2; min-width: 300px;">
     <p>
-      <strong>MacaqueNet</strong> relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized before they can be standardised and added to the database.
+      MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized before they can be standardised and added to the database.
     </p>
     <p>
       <strong>That is where you come in!</strong> We are looking for volunteers to help digitize one or more behavioural macaque datasets. This is also a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling.
