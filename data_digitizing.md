@@ -9,7 +9,6 @@ permalink: /digitizing/
 
   <div style="flex: 1; min-width: 250px;">
     <img src="/assets/images/dataentry.png" alt="Data Entry" style="max-width: 100%; height: auto; border-radius: 8px;">
-
     <ul class="actions" style="display: flex; justify-content: flex-start; list-style: none; padding: 10px 0 0 0; margin: 0;">
       <li><a href="" target="_blank" class="button big">Register Interest</a></li> 
     </ul>
@@ -28,10 +27,13 @@ permalink: /digitizing/
       Datasets may include interactions of grooming, aggression, proximity or body contact, and many have full demographic and observation effort for all subjects. These data might just be the exact species, population or behaviours you are interested in studying. 
       Once digitized and added to the database, many of these datasets will be made openly accessible and available for collaboration with the MacaqueNet consortium.
     </p> 
-    <p>
-      There may be opportunities to help digitize the following datasets:
-    </p>
-    
+  </div>
+</div>
+
+<p>
+  There may be opportunities to help digitize the following datasets:
+</p>
+
 <p><strong>Rhesus macaques</strong></p>
 <ul>
   <li>Data collected via focal follows across three years from two groups in a free-ranging population.</li>
@@ -55,12 +57,11 @@ permalink: /digitizing/
   <li>Data includes grooming interactions and dominance hierarchies.</li>
 </ul>
 
-    <p> 
-    Interested in helping out? Click the button below and register your interest now. The MacaqueNet Management Team will get in touch with details about which datasets currently require digitization and processing.
-  </div>
-
-</div>
+<p> 
+  Interested in helping out? Click the button above and register your interest now. The MacaqueNet Management Team will get in touch with details about which datasets currently require digitization and processing.
+</p>
 
 ***
+
 
   
