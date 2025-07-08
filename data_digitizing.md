@@ -37,7 +37,7 @@ permalink: /digitizing/
       <li>Includes both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours.
     </ul>
     <ul>
-     Long-tailed macaques
+    Long-tailed macaques
       <li></li>
     </ul>
     <ul>
