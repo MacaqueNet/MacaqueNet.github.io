@@ -20,7 +20,7 @@ permalink: /digitizing/
       MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized and reformatted before they can be standardised and added to the database.
     </p>
     <p>
-      <strong>That is where you come in!</strong> We are looking for volunteers to help digitize or process one or more behavioural macaque datasets. 
+      <strong>That is where you come in!</strong> Want to become a member of the MacaqueNet consortium? We are looking for volunteers to help digitize or process one or more behavioural macaque datasets. 
       Whether you are a student, early-career researcher, or just looking for a meaningful side project, this is a fantastic opportunity to gain experience working with large, real-world datasets.
       No previous experience is necessary — the MacaqueNet Management Team will provide full training and guidance in data handling and manipulation using tools such as Microsoft Office and R — all of which look great on a CV! 
     </p>
@@ -31,7 +31,7 @@ permalink: /digitizing/
       There may be opportunities to help digitize the following datasets:
     </p>
     <ul>
-    Rhesus macaques
+    <strong>Rhesus macaques</strong>
       <li>Behavioural data collected via focal follows across three years from two groups in a free-ranging population.</li>
       <li>Have full demographic and observation effort for all individual's.
       <li>Includes both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours.
