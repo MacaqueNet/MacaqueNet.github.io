@@ -58,7 +58,7 @@ permalink: /digitizing/
 </ul>
 
 <p> 
-  <strong>Interested in helping out? Register your interest by clicking the button above. Once you submit the form, a member of the MacaqueNet management team will contact you with details on available datasets for digitization and processing.</strong>
+  <strong>Interested in helping out? Register your interest by clicking the button above.</strong>
 </p>
 
 ***
