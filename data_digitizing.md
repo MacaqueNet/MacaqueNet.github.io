@@ -10,7 +10,7 @@ permalink: /digitizing/
   <div style="flex: 1; min-width: 250px;">
     <img src="/assets/images/dataentry.png" alt="Data Entry" style="max-width: 100%; height: auto; border-radius: 8px;">
     <ul class="actions" style="display: flex; justify-content: flex-start; list-style: none; padding: 10px 0 0 0; margin: 0;">
-      <li><a href="" target="_blank" class="button big">Register Interest</a></li> 
+      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfqBYtTI_VpsGvO_Z3HKojjQ7wmw98vVm8E8Iq4gubWgoJTzA/viewform?usp=dialog" target="_blank" class="button big">Register Interest</a></li> 
     </ul>
   </div>
 
