@@ -20,20 +20,37 @@ permalink: /digitizing/
       MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized and reformatted before they can be standardised and added to the database.
     </p>
     <p>
-      <strong>That is where you come in!</strong> We are looking for volunteers to help digitize or process one or more behavioural macaque datasets. This is also a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling.
+      <strong>That is where you come in!</strong> We are looking for volunteers to help digitize or process one or more behavioural macaque datasets. 
+      Whether you are a student, early-career researcher, or just looking for a meaningful side project, this is a fantastic opportunity to gain experience working with large, real-world datasets.
+      No previous experience is necessary — the MacaqueNet Management Team will provide full training and guidance in data handling and manipulation using tools such as Microsoft Office and R — all of which look great on a CV! 
     </p>
     <p>
-      Datasets may include interactions of grooming, agonism, or body contact, and might just include the ideal species, population or behaviours you need to answer your own research question! Once digitized and imported into the database, many of these datasets will be openly accessible and ready to use, in collaboration with the MacaqueNet consortium.
-    </p>
+      Datasets may include interactions of grooming, aggression, proximity or body contact, and might just include the exact species, population or behaviours you are interested in studying. Once digitized and added to the database, many of these datasets will be made openly accessible and available for collaboration with the MacaqueNet consortium.
+    </p> 
     <p>
       There may be opportunities to help digitize the following datasets:
     </p>
     <ul>
-    Long-tailed macaques
-      <li></li>
     Rhesus macaques
+      <li>Behavioural data collected via focal follows across three years from two groups in a free-ranging population.</li>
+      <li>Have full demographic and observation effort for all individual's.
+      <li>Includes both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours.
+    </ul>
+    <ul>
+     Long-tailed macaques
       <li></li>
     </ul>
+    <ul>
+    Barbary macaques
+     <li></li>
+    </ul>
+     <ul>
+    Bonnet macaques
+     <li></li>
+    </ul>
+
+    <p> 
+    Interested in helping out? Click the button below and register your interest now. The MacaqueNet Management Team will get in touch with details about which datasets currently require digitization and processing.
   </div>
 
 </div>
