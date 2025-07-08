@@ -17,20 +17,22 @@ permalink: /digitizing/
 
   <div style="flex: 2; min-width: 300px;">
     <p>
-      MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized before they can be standardised and added to the database.
+      MacaqueNet relies on the generous data contributions from researchers around the world. Some of these valuable datasets — especially older ones — still exist only in handwritten or scanned formats and need to be digitized and reformatted before they can be standardised and added to the database.
     </p>
     <p>
-      <strong>That is where you come in!</strong> We are looking for volunteers to help digitize one or more behavioural macaque datasets. This is also a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling.
+      <strong>That is where you come in!</strong> We are looking for volunteers to help digitize or process one or more behavioural macaque datasets. This is also a great opportunity for students or anyone interested in gaining experience with real-world behavioural data handling.
     </p>
     <p>
-      Datasets may include interactions of grooming, agonism, or body contact, and might just include the ideal species, population or behaviours you need to answer your own research question! Once the data is digitized and imported into the database, you will have the opportunity to request to use these data, in collaboration with the MacaqueNet consortium, and with the permission of the original data contributors.
+      Datasets may include interactions of grooming, agonism, or body contact, and might just include the ideal species, population or behaviours you need to answer your own research question! Once digitized and imported into the database, many of these datasets will be openly accessible and ready to use, in collaboration with the MacaqueNet consortium.
     </p>
     <p>
-      There may be opportunities to help digitize behavioural datasets for the following species:
+      There may be opportunities to help digitize the following datasets:
     </p>
     <ul>
-      <li>Long-tailed macaques</li>
-      <li>Rhesus macaques</li>
+    Long-tailed macaques
+      <li></li>
+    Rhesus macaques
+      <li></li>
     </ul>
   </div>
 
