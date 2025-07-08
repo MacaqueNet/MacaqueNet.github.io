@@ -25,29 +25,35 @@ permalink: /digitizing/
       No previous experience is necessary — the MacaqueNet Management Team will provide full training and guidance in data handling and manipulation using tools such as Microsoft Office and R — all of which look great on a CV! 
     </p>
     <p>
-      Datasets may include interactions of grooming, aggression, proximity or body contact, and might just include the exact species, population or behaviours you are interested in studying. Once digitized and added to the database, many of these datasets will be made openly accessible and available for collaboration with the MacaqueNet consortium.
+      Datasets may include interactions of grooming, aggression, proximity or body contact, and many have full demographic and observation effort for all subjects. These data might just be the exact species, population or behaviours you are interested in studying. 
+      Once digitized and added to the database, many of these datasets will be made openly accessible and available for collaboration with the MacaqueNet consortium.
     </p> 
     <p>
       There may be opportunities to help digitize the following datasets:
     </p>
+    
+<p><strong>Rhesus macaques</strong></p>
+<ul>
+  <li>Data collected via focal follows across three years from two groups in a free-ranging population.</li>
+  <li>Both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest, self-directed) behaviours were recorded.</li>
+</ul>
+
+<p><strong>Long-tailed macaques</strong></p>
+<ul>
+  <li>
+    Data from two wild, provisioned populations. Individually recognizable subjects were observed via focal follows. Both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours were recorded.
     <ul>
-    <strong>Rhesus macaques</strong>
-      <li>Behavioural data collected via focal follows across three years from two groups in a free-ranging population.</li>
-      <li>Have full demographic and observation effort for all individual's.
-      <li>Includes both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours.
+      <li>Population 1: Focal follow data from a single wild, provisioned social group across the wet and dry season, spanning nine months.</li>
+      <li>Population 2: Focal follow data from four social groups across seven years.</li>
     </ul>
-    <ul>
-    Long-tailed macaques
-      <li></li>
-    </ul>
-    <ul>
-    Barbary macaques
-     <li></li>
-    </ul>
-     <ul>
-    Bonnet macaques
-     <li></li>
-    </ul>
+  </li>
+</ul>
+
+<p><strong>Bonnet macaques</strong></p>
+<ul>
+  <li>Focal observation data from two captive groups, across three years.</li>
+  <li>Data includes grooming interactions and dominance hierarchies.</li>
+</ul>
 
     <p> 
     Interested in helping out? Click the button below and register your interest now. The MacaqueNet Management Team will get in touch with details about which datasets currently require digitization and processing.
