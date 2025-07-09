@@ -33,7 +33,7 @@ permalink: /digitizing/
 ***
 
 <p>
-  There may be opportunities to help digitize the following datasets:
+  There may be opportunities to help digitize and/or process the following datasets:
 </p>
 
 <p style="margin-bottom: 0;"><strong>Rhesus macaques</strong></p>
