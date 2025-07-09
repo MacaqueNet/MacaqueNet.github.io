@@ -30,6 +30,7 @@ permalink: /digitizing/
   </div>
 </div>
 
+***
 
 <p>
   There may be opportunities to help digitize the following datasets:
@@ -43,8 +44,8 @@ permalink: /digitizing/
 
 
 
-<p><strong>Long-tailed macaques</strong></p>
-<ul>
+<p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong></p>
+<ul style="margin-top: 0;">
   <li>
     Data from two wild, provisioned populations. Individually recognizable subjects were observed via focal follows. Both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours were recorded.
     <ul>
@@ -54,8 +55,8 @@ permalink: /digitizing/
   </li>
 </ul>
 
-<p><strong>Bonnet macaques</strong></p>
-<ul>
+<p style="margin-bottom: 0;"><strong>Bonnet macaques</strong></p>
+<ul style="margin-top: 0;">
   <li>Focal observation data from two captive groups, across three years.</li>
   <li>Data includes grooming interactions and dominance hierarchies.</li>
 </ul>
