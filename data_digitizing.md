@@ -35,11 +35,12 @@ permalink: /digitizing/
   There may be opportunities to help digitize the following datasets:
 </p>
 
-<strong>Rhesus macaques</strong>
-<ul>
+<p style="margin-bottom: 0;"><strong>Rhesus macaques</strong></p>
+<ul style="margin-top: 0;">
   <li>Data collected via focal follows across three years from two groups in a free-ranging population.</li>
   <li>Both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest, self-directed) behaviours were recorded.</li>
 </ul>
+
 
 
 <p><strong>Long-tailed macaques</strong></p>
