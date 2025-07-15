@@ -15,9 +15,9 @@ permalink: /symposia/
 	<p>“Weaving the MacaqueNet 3.0” is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025. There will be two MacaqueNet events taking place across the week:</p>
 
 	<p><strong><u>Pre-Conference Workshop</u></strong><br>
-	Sunday 24 August 2025 (13:00-16:00)</strong><br>
+	<strong>Sunday 24 August 2025 (13:00-16:00)<br>
 	Open to all (in-person & virtual) free of charge<br>
-	<strong>Includes light refreshments</strong> provided by the venue<br> 
+	Includes light refreshments</strong> provided by the venue</strong><br> 
 	plus... <br>
 	<strong>1 hour MacaqueNet members-only board meeting (16:00-17:00)<br>
 	<strong>Post workshop dinner (from 17:00 onwards, details TBC)</strong> </p>
@@ -26,10 +26,10 @@ permalink: /symposia/
 	Post workshop, we will have our in-person & online MacaqueNet <strong>board meeting</strong>. Attendance is limited to MacaqueNet <ul>members only</ul>, with discussions centered on internal management & the database’s future development<br>
 	After the board meeting, all workshop atendees will regroup & we will head to <strong>dinner</strong> at a local restaurant (details TBC), to which <strong>all workshop attendees are welcome!</strong> </p>
 	
-	<p>Planning to join the workshop? Click <strong>REGISTER</strong> below to sign-up. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. <br>
+	<p>You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. <br>
 	After you register, the MacaqueNet Management Team will email you the venue details closer to the event date.</p>
 	
-	<p>Click below to sign up for the MacaqueNet Workshop, Board Meeting and post-workshop dinner - you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form:</p>
+	<p>Click <strong>REGISTER</strong> below to sign up for the MacaqueNet Workshop, Board Meeting and post-workshop dinner - you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form:</p>
 	<ul class="actions">
 		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScPvbLKZBGQZqDjU_QTw-9v5phGe_jDP4cZgcMTM8yYuvsRCA/viewform" target="_blank" class="button big">Register</a></li>
 	</ul>
