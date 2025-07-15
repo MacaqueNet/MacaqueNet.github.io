@@ -17,18 +17,20 @@ permalink: /symposia/
 	<p><strong>Pre-Conference Workshop</strong><br>
 	Sunday 24 August 2025 (13:00-16:00)<br>
 	Open to all (in-person & virtual) free of charge<br>
-	Includes light refreshments provided by the venue<br>
-	This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-	Post workshop, we will have a MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> between 16:00-17:00 to discuss internal management & future directions of the database. <br>
-	Afterwards, we will head to <strong>dinner</strong> (details TBC), to which all workshop attendees are welcome!</p>
+	Includes light refreshments provided by the venue<br> </p>
+	
+	<p>This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
+	Between 16:00-17:00, we will have our MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> to discuss internal management & future directions of the database. <br>
+	Afterwards, we will head to <strong>dinner</strong> at a local restaurant (details TBC), to which <strong>all workshop attendees are welcome!</strong> </p>
 	
 	<p>Planning to join the workshop? Click <strong>REGISTER</strong> below to sign-up. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. <br>
 	After you register, the MacaqueNet Management Team will email you the venue details closer to the event date.</p>
 
 	<p><strong>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</strong><br>
 	Date & Time: TBC<br>
-	Open to all Behaviour 2025 attendees<br>
-	Our symposium will be part of the official conference programme, and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a></p>
+	Open to all Behaviour 2025 attendees<br> </p>
+	
+	<p>Our symposium will be part of the official conference programme, and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a></p>
 
 	<p>Speakers include:</p>
 	<ul>
