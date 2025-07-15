@@ -21,13 +21,13 @@ permalink: /symposia/
   Includes light refreshments provided by the venue</strong><br> 
   plus... <br>
   <strong>1 hour MacaqueNet members-only board meeting (16:00-17:00)<br>
-  Post workshop dinner (from 17:00 onwards, details TBC)</strong>
+  Post workshop dinner (from 17:00 onwards, details TBC) - all workshop attendees are welcome!</strong>
 </p>
 
 <p>
-  This in-person &amp; online workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-  Post workshop, we will have our in-person &amp; online MacaqueNet <strong>board meeting</strong>. Attendance is limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
-  After the board meeting, all workshop attendees will regroup &amp; we will head to <strong>dinner</strong> at a local restaurant (details TBC), to which <strong>all workshop attendees are welcome!</strong>
+  This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
+  Post workshop, we will have our MacaqueNet <strong>board meeting</strong>. Attendance is limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
+  After the board meeting, all in-person workshop attendees will regroup &amp head to <strong>dinner</strong> at a local restaurant (details TBC).
 </p>
 
 <p>
