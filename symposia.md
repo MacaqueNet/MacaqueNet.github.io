@@ -26,7 +26,7 @@ permalink: /symposia/
 
 <p>
   This in-person &amp; online workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-  Post workshop, we will have our in-person &amp; online MacaqueNet <strong>board meeting</strong>. Attendance is limited to MacaqueNet <strong>members only</strong>, with discussions centered on internal management &amp; the database’s future development.<br>
+  Post workshop, we will have our in-person &amp; online MacaqueNet <strong>board meeting</strong>. Attendance is limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
   After the board meeting, all workshop attendees will regroup &amp; we will head to <strong>dinner</strong> at a local restaurant (details TBC), to which <strong>all workshop attendees are welcome!</strong>
 </p>
 
@@ -44,27 +44,32 @@ permalink: /symposia/
 </ul>
 
 	
+<p>
+  <strong><u>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</u></strong><br>
+  <strong>Thursday 28th August (15:00-17:00)<br>
+  Open to all Behaviour 2025 attendees (in-person &amp; online)</strong>
+</p>
 
-	<p><strong><u>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</u></strong><br>
-	<strong>Thursday 28th August (15:00-17:00)<br>
-	<strong>Open to all Behaviour 2025 attendees (in-person & online)</strong><br> </p>
-	
-	<p>Our symposium will be part of the official conference programme, and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a></p>
-	
-	<p>Speakers include:</p>
-	<ul>
-		<li>Delphine De Moor</li>
-		<li>Jacob Feder</li>
-		<li>Stotra Chakrabarti</li>
-		<li>Genevieve E. Finerty</li>
-		<li>Natalia Borrego</li>
-		<li>Krishna Balasubramaniam</li>
-		<li>Greg Albery</li>
-		<li>Harish Kumar</li>
-	</ul>
+<p>
+  Our symposium will be part of the official conference programme and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a>.
+</p>
 
-	<p>Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!<br>
-	Not registered for behaviour yet? <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">Registration</a> for in-person and online attendance is still available.</p>
+<p>Speakers include:</p>
+<ul>
+  <li>Delphine De Moor</li>
+  <li>Jacob Feder</li>
+  <li>Stotra Chakrabarti</li>
+  <li>Genevieve E. Finerty</li>
+  <li>Natalia Borrego</li>
+  <li>Krishna Balasubramaniam</li>
+  <li>Greg Albery</li>
+  <li>Harish Kumar</li>
+</ul>
+
+<p>
+  Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!<br>
+  Not registered for Behaviour yet? <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">Registration</a> for in-person and online attendance is still available.
+</p>
 
 </div>
 
