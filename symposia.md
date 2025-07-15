@@ -17,7 +17,7 @@ permalink: /symposia/
 <p>
   <strong><u>Pre-Conference Workshop</u></strong><br>
   <strong>Sunday 24 August 2025 (13:00-16:00)<br>
-  Open to all (in-person &amp; virtual) free of charge<br>
+  Open to all (in-person &amp; online) free of charge<br>
   Includes light refreshments provided by the venue</strong><br> 
   plus... <br>
   <strong>1 hour MacaqueNet members-only board meeting (16:00-17:00)<br>
@@ -27,7 +27,7 @@ permalink: /symposia/
 <p>
   This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
   Post workshop, we will have our MacaqueNet board meeting. Attendance is limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
-  After the board meeting, all in-person workshop attendees will regroup &amp head to dinner at a local restaurant (details TBC).
+  After the board meeting, all in-person workshop attendees will regroup &amp; head to dinner at a local restaurant (details TBC).
 </p>
 
 <p>
