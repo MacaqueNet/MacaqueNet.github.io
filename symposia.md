@@ -15,15 +15,15 @@ permalink: /symposia/
 	<p>“Weaving the MacaqueNet 3.0” is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025. There will be two MacaqueNet events taking place across the week:</p>
 
 	<p><strong><u>Pre-Conference Workshop</u></strong><br>
-	<strong>Sunday 24 August 2025 (13:00-16:00)</storng><br>
-	<strong>Open to all (in-person & virtual)</strong> free of charge<br>
+	Sunday 24 August 2025 (13:00-16:00)</strong><br>
+	Open to all (in-person & virtual) free of charge<br>
 	<strong>Includes light refreshments</strong> provided by the venue<br> 
 	plus... <br>
-	<strong<1 hour MacaqueNet members-only board meeting (16:00-17:00)</strong> <br>
-	<strong>Post workshop dinner - all attendees welcome (from 17:00 onwards, details TBC)</strong> </p>
+	<strong>1 hour MacaqueNet members-only board meeting (16:00-17:00)<br>
+	<strong>Post workshop dinner (from 17:00 onwards, details TBC)</strong> </p>
 	
-	<p>This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-	Post workshop, we will have our MacaqueNet <strong>Board Meeting</strong>. Attendance is limited to MacaqueNet <ul>members only</ul>, with discussions centered on internal management & the database’s future development<br>
+	<p>This in-person & online workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
+	Post workshop, we will have our in-person & online MacaqueNet <strong>board meeting</strong>. Attendance is limited to MacaqueNet <ul>members only</ul>, with discussions centered on internal management & the database’s future development<br>
 	After the board meeting, all workshop atendees will regroup & we will head to <strong>dinner</strong> at a local restaurant (details TBC), to which <strong>all workshop attendees are welcome!</strong> </p>
 	
 	<p>Planning to join the workshop? Click <strong>REGISTER</strong> below to sign-up. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. <br>
