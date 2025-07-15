@@ -15,12 +15,15 @@ permalink: /symposia/
 	<p>“Weaving the MacaqueNet 3.0” is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025. There will be two MacaqueNet events taking place across the week:</p>
 
 	<p><strong>Pre-Conference Workshop</strong><br>
-	Sunday 24 August 2025 (Time TBC)<br>
-	Open to all (in-person & virtual) <br>
+	Sunday 24 August 2025 (13:00-16:00)<br>
+	Open to all (in-person & virtual) free of charge<br>
+	Includes light refreshments provided by the venue<br>
 	This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-	Post workshop, we will have a MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> to discuss internal management & future directions of the database. Afterwards, we will head to <strong>dinner</strong> (details TBC), to which all workshop attendees are welcome!</p>
+	Post workshop, we will have a MacaqueNet <u>members-only</u> <strong>Board Meeting</strong> between 16:00-17:00 to discuss internal management & future directions of the database. <br>
+	Afterwards, we will head to <strong>dinner</strong> (details TBC), to which all workshop attendees are welcome!</p>
 	
-	<p>Planning to join the workshop? Click <strong>REGISTER</strong> below to <u>sign-up</u>. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. Interested in presenting a lightning talk? <u>Let us know</u> when filling out the form!</p>
+	<p>Planning to join the workshop? Click <strong>REGISTER</strong> below to sign-up. Joining virtually? You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop. <br>
+	After you register, the MacaqueNet Management Team will email you the venue details closer to the event date.</p>
 
 	<p><strong>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</strong><br>
 	Date & Time: TBC<br>
@@ -39,7 +42,8 @@ permalink: /symposia/
 		<li>Harish Kumar</li>
 	</ul>
 
-	<p>Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!Not registered for behaviour yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is available until Tuesday 15 April! </p>
+	<p>Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!<br>
+	Not registered for behaviour yet? Early-bird <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">registration</a> is still available.</p>
 
 	<p>Click below to sign up for the MacaqueNet Workshop, Board Meeting, post-workshop dinner and symposium - you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form:</p>
 	<ul class="actions">
