@@ -76,7 +76,7 @@ permalink: /digitizing/
          style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
     <div>
         <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
-        <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at Queen's University Belfast</p>
+        <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at <a href="https://www.qub.ac.uk/" target="_blank">Queen's University Belfast</a></p>
     </div>
 </div>
 
