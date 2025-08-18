@@ -67,7 +67,6 @@ permalink: /digitizing/
 
 ***
 
-
 <header class="major">
 	<h2>Current Interns</h2>
 </header>
@@ -81,7 +80,7 @@ permalink: /digitizing/
 <div class="team">
 	<span class="image left"><img src="/assets/images/chandrani_poddar.jpg"/></span>
 	<h3>Chandrani Poddar</h3>
-	<p><strong>5th year BSMS student</strong>, Behavioural Ecology Lab, <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">IISER</a> Kolkata</p>
+	<p><strong>5th year BSMS student</strong> at the Behavioural Ecology Lab, <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">IISER</a> Kolkata</p>
 </div>
 
 <div class="team">
