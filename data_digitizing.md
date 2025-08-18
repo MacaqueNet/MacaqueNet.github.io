@@ -68,4 +68,29 @@ permalink: /digitizing/
 ***
 
 
+<header class="major">
+	<h2>Current Interns</h2>
+</header>
+
+<div class="team">
+	<span class="image left"><img src="/assets/images/william_russel.jpg"/></span> 
+	<h3>William Russel</h3>
+	<p><strong>ADD ROLE</p>
+</div>
+
+<div class="team">
+	<span class="image left"><img src="/assets/images/chandrani_poddar.jpg"/></span>
+	<h3>Chandrani Poddar</h3>
+	<p><strong>5th year BSMS student</strong>, Behavioural Ecology Lab, <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">IISER</a> Kolkata</p>
+</div>
+
+<div class="team">
+	<div class="image left"><img src="/assets/images/manuela_cardona_r.jpg"/></div>
+	<h3>Manuela Cardona R</h3>
+	<p><strong>MSc By Research Student</strong> at the Centre for Research in Animal Behaviour <a href="https://www.exeter.ac.uk/research/groups/psychology/crab/" target="_blank">(CRAB)</a>, University of Exeter</p>
+</div>
+
+***
+
+
   
