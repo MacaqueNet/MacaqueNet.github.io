@@ -71,23 +71,35 @@ permalink: /digitizing/
     <h2>Current Interns</h2>
 </header>
 
-<div style="text-align:center; margin-bottom:2rem;">
-    <img src="/assets/images/william_russel.jpg" alt="William Russel" style="width:150px; height:150px; object-fit:cover; border-radius:50%; display:block; margin:0 auto 1rem auto;">
-    <h3>William Russel</h3>
-    <p><strong>ADD ROLE</strong></p>
+<div style="display:flex; align-items:center; margin-bottom:2rem;">
+    <img src="/assets/images/william_russel.jpg" alt="William Russel" 
+         style="width:100px; height:100px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+    <div>
+        <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
+        <p style="margin:0;"><strong>ADD ROLE</strong></p>
+    </div>
 </div>
 
-<div style="text-align:center; margin-bottom:2rem;">
-    <img src="/assets/images/chandrani_poddar.jpg" alt="Chandrani Poddar" style="width:150px; height:150px; object-fit:cover; border-radius:50%; display:block; margin:0 auto 1rem auto;">
-    <h3>Chandrani Poddar</h3>
-    <p><strong>5th year BSMS student</strong> at the Behavioural Ecology Lab, <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">IISER</a> Kolkata</p>
+<div style="display:flex; align-items:center; margin-bottom:2rem;">
+    <img src="/assets/images/chandrani_poddar.jpg" alt="Chandrani Poddar" 
+         style="width:100px; height:100px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+    <div>
+        <h3 style="margin:0 0 0.5rem 0;">Chandrani Poddar</h3>
+        <p style="margin:0;"><strong>5th year BSMS student</strong> at the Behavioural Ecology Lab, 
+           <a href="https://www.iiserkol.ac.in/web/en/#gsc.tab=0" target="_blank">IISER</a> Kolkata</p>
+    </div>
 </div>
 
-<div style="text-align:center; margin-bottom:2rem;">
-    <img src="/assets/images/manuela_cardona_r.jpg" alt="Manuela Cardona R" style="width:150px; height:150px; object-fit:cover; border-radius:50%; display:block; margin:0 auto 1rem auto;">
-    <h3>Manuela Cardona R</h3>
-    <p><strong>MSc By Research Student</strong> at the Centre for Research in Animal Behaviour <a href="https://www.exeter.ac.uk/research/groups/psychology/crab/" target="_blank">(CRAB)</a>, University of Exeter</p>
+<div style="display:flex; align-items:center; margin-bottom:2rem;">
+    <img src="/assets/images/manuela_cardona_r.jpg" alt="Manuela Cardona R" 
+         style="width:100px; height:100px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+    <div>
+        <h3 style="margin:0 0 0.5rem 0;">Manuela Cardona R</h3>
+        <p style="margin:0;"><strong>MSc By Research Student</strong> at the Centre for Research in Animal Behaviour 
+           <a href="https://www.exeter.ac.uk/research/groups/psychology/crab/" target="_blank">(CRAB)</a>, University of Exeter</p>
+    </div>
 </div>
+
 
 
 
