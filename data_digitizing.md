@@ -71,18 +71,18 @@ permalink: /digitizing/
     <h2>Current Interns</h2>
 </header>
 
-<div style="display:flex; align-items:center; margin-bottom:2rem;">
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
     <img src="/assets/images/william_russel.jpg" alt="William Russel" 
-         style="width:100px; height:100px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+         style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
     <div>
         <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
         <p style="margin:0;"><strong>ADD ROLE</strong></p>
     </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:2rem;">
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
     <img src="/assets/images/chandrani_poddar.jpg" alt="Chandrani Poddar" 
-         style="width:100px; height:100px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+         style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
     <div>
         <h3 style="margin:0 0 0.5rem 0;">Chandrani Poddar</h3>
         <p style="margin:0;"><strong>5th year BSMS student</strong> at the Behavioural Ecology Lab, 
@@ -90,9 +90,9 @@ permalink: /digitizing/
     </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:2rem;">
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
     <img src="/assets/images/manuela_cardona_r.jpg" alt="Manuela Cardona R" 
-         style="width:100px; height:100px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+         style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
     <div>
         <h3 style="margin:0 0 0.5rem 0;">Manuela Cardona R</h3>
         <p style="margin:0;"><strong>MSc By Research Student</strong> at the Centre for Research in Animal Behaviour 
