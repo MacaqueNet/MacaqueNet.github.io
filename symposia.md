@@ -32,11 +32,14 @@ permalink: /symposia/
 
 <p>
   You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop.<br>
-  After you register, the MacaqueNet Management Team will email you the venue details closer to the event date.
 </p>
 
 <p>
-  Click <strong>REGISTER</strong> below to sign up for the MacaqueNet Workshop, Board Meeting and post-workshop dinner – you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form:
+  The full schedule including in-person location and online Zoom links is available to view <a href="https://docs.google.com/spreadsheets/d/1nlrgDvrc_Us7cKJjPqEgR68XNiF8PFC7V7mhu443cEM/edit?gid=0#gid=0" target="_blank">here</a!
+
+<p>
+  Click <strong>REGISTER</strong> below to sign up for the MacaqueNet Workshop, Board Meeting and post-workshop dinner – you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form. 
+  If you are attending the Behaviour conference online or in-person, you can RSVP now via the <strong>WHOVA app!</strong>
 </p>
 
 <ul class="actions">
