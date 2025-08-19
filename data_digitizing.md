@@ -88,7 +88,7 @@ permalink: /digitizing/
 
 <p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong> <em>(Ketambe, Gunung Leuser National Park in Sumatra, 1980-1983)</em></p>
 <ul style="margin-top: 0;">
-  <li>Population:</li>
+  <li>Population: Wild, non-provisioned, no regular contact with non-human researchers.</li>
   <li>4 social groups.</li>
   <li>Data collection protocol: Count data - social behaviours collected by continuous sampling and non-social behaviours by discrete (instantaneous) sampling during focal follows.</li>
   <li>Social Behaviours: Aggression, sexual, play.</li>
