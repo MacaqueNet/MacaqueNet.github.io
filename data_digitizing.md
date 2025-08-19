@@ -36,30 +36,72 @@ permalink: /digitizing/
   There may be opportunities to help digitize and/or process the following datasets:
 </p>
 
-<p style="margin-bottom: 0;"><strong>Rhesus macaques</strong></p>
+<p style="margin-bottom: 0;"><strong>Rhesus macaques</strong> <em>(Cayo Santiago, 19xx-19xx)</em></p>
 <ul style="margin-top: 0;">
-  <li>Data collected via focal follows across three years from two groups in a free-ranging population.</li>
-  <li>Both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest, self-directed) behaviours were recorded.</li>
+  <li> Population: free-ranging, food provisioned, no regular contact with non-researcher humans.
+  <li> 2 social groups.
+  <li> Data collection protocol: count data collected by continuous sampling during focal follows.
+  <li> Social behaviours include: Grooming, proximity, body-contact, aggression, sexual.
+  <li> Additional behaviours include: feeding, traveling, resting.
 </ul>
 
 
 
-<p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong></p>
+<p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(California Primate Research Center at UC Davis, 1984-1987)</em></p>
 <ul style="margin-top: 0;">
-  <li>
-    Data from two wild, provisioned populations. Individually recognizable subjects were observed via focal follows. Both social (e.g. grooming, proximity, body-contact, aggression, sexual) and non-social (e.g. feeding, travel, rest) behaviours were recorded.
-    <ul>
-      <li>Population 1: Focal follow data from a single wild, provisioned social group across the wet and dry season, spanning nine months.</li>
-      <li>Population 2: Focal follow data from four social groups across seven years.</li>
-    </ul>
-  </li>
+  <li> Population: captive, food provisioned, no regular contact with non-researcher humans.
+  <li> 2 social groups.
+  <li> Data collection protocol: Duration data collected by continuous sampling during focal follows.
+  <li> Social Behaviours: Grooming.
+  <li> Other Metrics: Dominance hierarchies.
+</ul>
+  
+<p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(Bandipur National Park in India, 2005-2008)</em></p>
+<ul style="margin-top: 0;">
+  <li> Population: Free-ranging, 
+  <li> 5 social groups.
+  <li> Data collection protocol: 
+  <li> Social Behaviours: Grooming, aggression, approaches.
+</ul> 
+
+<p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(Mudumalai Wildlife Sanctuary in India, 1996-1997)</em></p>
+<ul style="margin-top: 0;">
+  <li> Population: Free-ranging, 
+  <li> 1 social group.
+  <li> Data collection protocol: 
+  <li> Social Behaviours: Grooming, aggression, approaches.
+</ul> 
+
+<p style="margin-bottom: 0;"><strong>Lion-tailed macaques</strong> <em>(Puthuthottam Rainforest Fragment in India, 2000-2001)</em></p>
+<ul style="margin-top: 0;">
+  <li> Population: 
+  <li> 1 social group.
+  <li> Data collection protocol: 
+  <li> Social Behaviours: Grooming, aggression, approaches.
+</ul> 
+
+<p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong> <em>(Baluran National Park in Indonesia, 2017-2018)</p>
+<ul style="margin-top: 0;">
+  <li> Population: Free-ranging, provisioned, regular contact with non-researcher humans.
+  <li> 1 social group observed over the wet and dry seasons.
+  <li> Data collection protocol: One-zero data collected by instantaneous sampling during focal follows.
+  <li> Social Behaviours: Grooming, aggression, approaches, vigilance.
+  <li> Other Behaviours: Feeding, foraging, traveling, resting.
+  <li> Other Metrics: Data on human-macaque interactions.
 </ul>
 
-<p style="margin-bottom: 0;"><strong>Bonnet macaques</strong></p>
+<p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong> <em>(Ketambe, Gunung Leuser National Park in Sumatra, 1980-1983)</p>
 <ul style="margin-top: 0;">
-  <li>Focal observation data from two captive groups, across three years.</li>
-  <li>Data includes grooming interactions and dominance hierarchies.</li>
+  <li> Population: 
+  <li> 4 social groups.
+  <li> Data collection protocol: Count data - social behaviours collected by continuous sampling and non-social behaviours by discrete (instantaneous) sampling during focal follows.
+  <li> Social Behaviours: Aggression, sexual, play.
+  <li> Other Behaviours: Feeding, foraging, traveling, resting, standing.
 </ul>
+
+<p>
+  Please refer to the MacaqueNet <a href="https://github.com/MacaqueNet/database/blob/main/database%20schema_glossary_terms%20of%20use/Glossary.pdf" target="_blank" class="button big">glossary</a> for definitions of dataset variables and protocols.
+</p>
 
 <p> 
   <strong>Interested in helping out? Register your interest by clicking the button above.</strong>
