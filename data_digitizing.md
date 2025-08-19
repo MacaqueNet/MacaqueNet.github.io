@@ -41,8 +41,8 @@ permalink: /digitizing/
   <li>Population: free-ranging, food provisioned, no regular contact with non-researcher humans.</li>
   <li>2 social groups.</li>
   <li>Data collection protocol: count data collected by continuous sampling during focal follows.</li>
-  <li>Social behaviours include: Grooming, proximity, body-contact, aggression, sexual.</li>
-  <li>Additional behaviours include: feeding, traveling, resting.</li>
+  <li>Social behaviours: Grooming, proximity, body-contact, aggression, sexual.</li>
+  <li>Additional behaviours: feeding, traveling, resting.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(California Primate Research Center at UC Davis, 1984-1987)</em></p>
@@ -50,39 +50,37 @@ permalink: /digitizing/
   <li>Population: Captive, food provisioned, no regular contact with non-researcher humans.</li>
   <li>2 social groups.</li>
   <li>Data collection protocol: Duration data collected by continuous sampling during focal follows.</li>
-  <li>Social Behaviours: Grooming.</li>
-  <li>Other Metrics: Dominance hierarchies.</li>
+  <li>Social behaviours: Grooming.</li>
+  <li>Other metrics: Dominance hierarchies.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(Bandipur National Park in India, 2005-2008)</em></p>
 <ul style="margin-top: 0;">
-  <li>Population: Wild, provisioned, regular contact with non-researcher humans.</li>
+  <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>5 social groups.</li>
   <li>Data collection protocol:</li>
-  <li>Social Behaviours: Grooming, aggression, approaches.</li>
+  <li>Social behaviours: Grooming, aggression, approaches.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(Mudumalai Wildlife Sanctuary in India, 1996-1997)</em></p>
 <ul style="margin-top: 0;">
-  <li>Population: Wild, provisioned, regular contact with non-researcher humans.</li>
+  <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>1 social group.</li>
-  <li>Data collection protocol:</li>
-  <li>Social Behaviours: Grooming, aggression, approaches.</li>
+  <li>Social behaviours: Grooming, aggression, approaches.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Lion-tailed macaques</strong> <em>(Puthuthottam Rainforest Fragment in India, 2000-2001)</em></p>
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>1 social group.</li>
-  <li>Data collection protocol:</li>
-  <li>Social Behaviours: Grooming, aggression, approaches.</li>
+  <li>Social behaviours: Grooming, aggression, approaches.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong> <em>(Baluran National Park in Indonesia, 2017-2018)</em></p>
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>1 social group observed over the wet and dry seasons.</li>
-  <li>Data collection protocol: One-zero data collected by instantaneous sampling during focal follows.</li>
+  <li>Data collection protocol: Count data collected by instantaneous sampling during focal follows.</li>
   <li>Social Behaviours: Grooming, aggression, approaches, vigilance.</li>
   <li>Other Behaviours: Feeding, foraging, traveling, resting.</li>
   <li>Other Metrics: Data on human-macaque interactions.</li>
