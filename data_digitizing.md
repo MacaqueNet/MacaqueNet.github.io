@@ -105,7 +105,7 @@ permalink: /digitizing/
 ***
 
 <header class="major">
-    <h2>Current Data Digitizers & Processors</h2>
+    <h2>Current Data Digitizers</h2>
 </header>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
@@ -129,12 +129,14 @@ permalink: /digitizing/
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
-    <img src="/assets/images/" alt="" 
-         style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+    <div style="width:150px; height:150px; margin-right:1rem;"></div>
     <div>
         <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
-        <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at <a href="https://www.qub.ac.uk/" target="_blank">Queen's University Belfast</a></p>
+        <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at 
+           <a href="https://www.qub.ac.uk/" target="_blank">Queen's University Belfast</a></p>
     </div>
+</div>
+
 </div>
 
 
