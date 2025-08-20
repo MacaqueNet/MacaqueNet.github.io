@@ -135,7 +135,6 @@ permalink: /digitizing/
         <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at 
            <a href="https://www.qub.ac.uk/" target="_blank">Queen's University Belfast</a></p>
     </div>
-</div>
 
 </div>
 
