@@ -40,7 +40,7 @@ permalink: /digitizing/
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, food provisioned, no regular contact with non-researcher humans.</li>
   <li>2 social groups.</li>
-  <li>Data collection protocol: Count (aggression, sexual, proximity) and duration data (grooming, body-contact, additional behaviours) collected by continuous sampling during focal follows.</li>
+  <li>Data collection protocol: Count (aggression, sexual, proximity) and duration data (grooming, body-contact, additional behaviours) collected by continuous and discrete (proximity) sampling during focal follows.</li>
   <li>Social behaviours: Grooming, proximity, body-contact, aggression, sexual.</li>
   <li>Additional behaviours: feeding, traveling, resting.</li>
 </ul>
