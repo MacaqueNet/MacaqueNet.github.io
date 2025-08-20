@@ -40,7 +40,7 @@ permalink: /digitizing/
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, food provisioned, no regular contact with non-researcher humans.</li>
   <li>2 social groups.</li>
-  <li>Data collection protocol: count and duration data collected by continuous sampling during focal follows.</li>
+  <li>Data collection protocol: Count (aggression, sexual, proximity) and duration data (grooming, body-contact, additional behaviours) collected by continuous sampling during focal follows.</li>
   <li>Social behaviours: Grooming, proximity, body-contact, aggression, sexual.</li>
   <li>Additional behaviours: feeding, traveling, resting.</li>
 </ul>
@@ -109,15 +109,6 @@ permalink: /digitizing/
 </header>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
-    <img src="/assets/images/" alt="William Russel" 
-         style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
-    <div>
-        <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
-        <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at <a href="https://www.qub.ac.uk/" target="_blank">Queen's University Belfast</a></p>
-    </div>
-</div>
-
-<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
     <img src="/assets/images/chandrani_poddar.jpg" alt="Chandrani Poddar" 
          style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
     <div>
@@ -134,6 +125,15 @@ permalink: /digitizing/
         <h3 style="margin:0 0 0.5rem 0;">Manuela Cardona R</h3>
         <p style="margin:0;"><strong>MSc By Research Student</strong> at the Centre for Research in Animal Behaviour 
            <a href="https://www.exeter.ac.uk/research/groups/psychology/crab/" target="_blank">(CRAB)</a>, University of Exeter</p>
+    </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
+    <img src="/assets/images/" alt="" 
+         style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+    <div>
+        <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
+        <p style="margin:0;"><strong>Previous MSc Animal Behaviour Student</strong> at <a href="https://www.qub.ac.uk/" target="_blank">Queen's University Belfast</a></p>
     </div>
 </div>
 
