@@ -36,11 +36,11 @@ permalink: /digitizing/
   There may be opportunities to help digitize and/or process the following datasets:
 </p>
 
-<p style="margin-bottom: 0;"><strong>Rhesus macaques</strong> <em>(Cayo Santiago, 19xx-19xx)</em></p>
+<p style="margin-bottom: 0;"><strong>Rhesus macaques</strong> <em>(Cayo Santiago, 1987-1989)</em></p>
 <ul style="margin-top: 0;">
-  <li>Population: free-ranging, food provisioned, no regular contact with non-researcher humans.</li>
+  <li>Population: Free-ranging, food provisioned, no regular contact with non-researcher humans.</li>
   <li>2 social groups.</li>
-  <li>Data collection protocol: count data collected by continuous sampling during focal follows.</li>
+  <li>Data collection protocol: count and duration data collected by continuous sampling during focal follows.</li>
   <li>Social behaviours: Grooming, proximity, body-contact, aggression, sexual.</li>
   <li>Additional behaviours: feeding, traveling, resting.</li>
 </ul>
@@ -58,31 +58,30 @@ permalink: /digitizing/
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>5 social groups.</li>
-  <li>Data collection protocol:</li>
-  <li>Social behaviours: Grooming, aggression, approaches.</li>
+  <li>Social behaviours: Grooming, aggression, proximity.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Bonnet macaques</strong> <em>(Mudumalai Wildlife Sanctuary in India, 1996-1997)</em></p>
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>1 social group.</li>
-  <li>Social behaviours: Grooming, aggression, approaches.</li>
+  <li>Social behaviours: Grooming, aggression, proximity.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Lion-tailed macaques</strong> <em>(Puthuthottam Rainforest Fragment in India, 2000-2001)</em></p>
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
   <li>1 social group.</li>
-  <li>Social behaviours: Grooming, aggression, approaches.</li>
+  <li>Social behaviours: Grooming, aggression, proximity.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Long-tailed macaques</strong> <em>(Baluran National Park in Indonesia, 2017-2018)</em></p>
 <ul style="margin-top: 0;">
   <li>Population: Free-ranging, provisioned, regular contact with non-researcher humans.</li>
-  <li>1 social group observed over the wet and dry seasons.</li>
-  <li>Data collection protocol: Count data collected by instantaneous sampling during focal follows.</li>
-  <li>Social Behaviours: Grooming, aggression, approaches, vigilance.</li>
-  <li>Other Behaviours: Feeding, foraging, traveling, resting.</li>
+  <li>1 social group.</li>
+  <li>Data collection protocol: Count data collected by discrete sampling during focal follows.</li>
+  <li>Social Behaviours: Grooming, aggression, proximity.</li>
+  <li>Other Behaviours: Feeding, foraging, traveling, resting, vigilance.</li>
   <li>Other Metrics: Data on human-macaque interactions.</li>
 </ul>
 
@@ -90,7 +89,7 @@ permalink: /digitizing/
 <ul style="margin-top: 0;">
   <li>Population: Wild, non-provisioned, no regular contact with non-human researchers.</li>
   <li>4 social groups.</li>
-  <li>Data collection protocol: Count data - social behaviours collected by continuous sampling and non-social behaviours by discrete (instantaneous) sampling during focal follows.</li>
+  <li>Data collection protocol: Count data - social behaviours collected by continuous sampling and non-social behaviours by discrete sampling during focal follows.</li>
   <li>Social Behaviours: Aggression, sexual, play.</li>
   <li>Other Behaviours: Feeding, foraging, traveling, resting, standing.</li>
 </ul>
@@ -106,11 +105,11 @@ permalink: /digitizing/
 ***
 
 <header class="major">
-    <h2>Current Interns</h2>
+    <h2>Current Data Digitizers & Processors</h2>
 </header>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
-    <img src="/assets/images/william_russel.jpg" alt="William Russel" 
+    <img src="/assets/images/" alt="William Russel" 
          style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
     <div>
         <h3 style="margin:0 0 0.5rem 0;">William Russel</h3>
