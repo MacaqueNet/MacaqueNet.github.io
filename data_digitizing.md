@@ -90,7 +90,7 @@ permalink: /digitizing/
   <li>Population: Wild, non-provisioned, no regular contact with non-human researchers.</li>
   <li>4 social groups.</li>
   <li>Data collection protocol: Count data - social behaviours collected by continuous sampling and non-social behaviours by discrete sampling during focal follows.</li>
-  <li>Social Behaviours: Aggression, sexual, play.</li>
+  <li>Social Behaviours: Grooming, aggression, sexual, play.</li>
   <li>Other Behaviours: Feeding, foraging, traveling, resting, standing.</li>
 </ul>
 
