@@ -6,7 +6,7 @@ permalink: /management/
 ***
 
 <figure style="text-align:center;">
-  <img src="/assets/images/macaquenet management figure.png" alt="MacaqueNet consortium structure" style="max-width:100%; height:auto;" />
+  <img src="/assets/images/macaquenet_management_figure.png" alt="MacaqueNet consortium structure" style="max-width:100%; height:auto;" />
   <figcaption style="font-size:0.9em; font-style:italic; margin-top:4px;">
     The diagram shows the structure of the MacaqueNet consortium, which is made up of the MacaqueNet members: 
     the management team, data contributors, data users, and newsletter subscribers. 
