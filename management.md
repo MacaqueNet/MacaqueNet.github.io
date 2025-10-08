@@ -6,7 +6,7 @@ permalink: /management/
 ***
 
 <figure style="text-align:center;">
-  <img src="/assets/images/macaquenet-management-figure.png" alt="MacaqueNet consortium structure" style="max-width:100%; height:auto;" />
+  <img src="/assets/images/macaquenet management figure.png" alt="MacaqueNet consortium structure" style="max-width:100%; height:auto;" />
   <figcaption style="font-size:0.9em; font-style:italic; margin-top:4px;">
     The diagram shows the structure of the MacaqueNet consortium, which is made up of the MacaqueNet members: 
     the management team, data contributors, data users, and newsletter subscribers. 
@@ -29,7 +29,7 @@ The Advisory Board provides strategic guidance and expertise, helping shape the 
 </header>
 
 <div class="team">
-	<span class="image left"><img src="/assets/images/advisory_board_cesar.jpg"/></span> 
+	<span class="image left"><img src="/assets/images/advisory_board_cesar.jpg" width="2480" height="2240"/></span> 
 	<h3>Cesar Rodriguez del Castillo</h3>
 	<p><strong>PhD student</strong> at Instituto de Neuroetología, Universidad Veracruzana. México</p>
 	<p><em>"I have a background in chimpanzee behaviour and husbandry as well as macaque research, with a focus on behavioural ecology, sociality and conservation."</em></p>
