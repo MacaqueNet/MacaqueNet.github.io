@@ -43,30 +43,45 @@ The Advisory Board provides strategic guidance and expertise, helping shape the 
   </div>
 </div>
 
-<div class="team">
-	<span class="image left"><img src="/assets/images/advisory_board_cesar.jpg" width="2480" height="2240"/></span> 
-	<h3>Cesar Rodriguez del Castillo</h3>
-	<p><strong>PhD student</strong> at Instituto de Neuroetología, Universidad Veracruzana. México</p>
-	<p><em>"I have a background in chimpanzee behaviour and husbandry as well as macaque research, with a focus on behavioural ecology, sociality and conservation."</em></p>
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
+  <img src="/assets/images/advisory_board_joly.jpg" alt="Marine Joly" 
+       style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+  <div>
+    <h3 style="margin:0 0 0.5rem 0;">Marine Joly</h3>
+    <p style="margin:0;">
+      <strong>Professor</strong> of Cognitive Ethology at the University of Portsmouth, UK.
+    </p>
+    <p style="margin:0.5rem 0 0 0;">
+      <em>"I use behavioural observations and experiments to study macaque cognition, including executive function, flexibility and spatial decisions."</em>
+    </p>
+  </div>
 </div>
 
-<div class="team">
-	<span class="image left"><img src="/assets/images/advisory_board_joly.jpg"/></span> 
-	<h3>Marine Joly</h3>
-	<p><strong>Professor</strong> of Cognitive Ethology at the University of Portsmouth, UK.</p>
-	<p><em>"I use behavioural observations and experiments to study macaque cognition, including executive function, flexibility and spatial decisions."</em></p>
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
+  <img src="/assets/images/advisory_board_schuelke.JPG" alt="Oliver Schülke" 
+       style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+  <div>
+    <h3 style="margin:0 0 0.5rem 0;">Oliver Schülke</h3>
+    <p style="margin:0;">
+    <strong>Assistant Professor</strong> at the University of Göttingen, Germany.  
+    </p>
+    <p style="margin:0.5rem 0 0 0;">
+      <em>"Since 2005, I have co-directed the Phu Khieo Assamese Macaque Project in Thailand with Julia Ostner. My research mainly focuses on the evolution of social relationships."</em>
+    </p>
+  </div>
 </div>
 
-<div class="team">
-	<span class="image left"><img src="/assets/images/advisory_board_schuelke.jpg"/></span> 
-	<h3>Oliver Schülke</h3>
-	<p><strong>Assistant Professor</strong> at the University of Göttingen, Germany .</p>
-	<p><em>"Since 2005, I have co-directed the Phu Khieo Assamese Macaque Project in Thailand with Julia Ostner. My research mainly focuses on the evolution of social relationships."</em></p>
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
+  <img src="/assets/images/advisory_board_julia.jpg" alt="Julia Ostner" 
+       style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+  <div>
+    <h3 style="margin:0 0 0.5rem 0;">Julia Ostner</h3>
+    <p style="margin:0;">
+    <strong>Professor</strong> of Behavioral Ecology at the University of Göttingen, Germany and the German Primate Center.
+    </p>
+    <p style="margin:0.5rem 0 0 0;">
+      <em>"I have been co-director of the Phu Khieo Assamese Macaque Project in Thailand since 2005. My macaque research investigates multiple topics including evolution of social relationships, sociality across lifespan,  social cognition, behavioural endocrinology and health."</em>
+    </p>
+  </div>
 </div>
 
-<div class="team">
-	<span class="image left"><img src="/assets/images/advisory_board_julia.jpg"/></span> 
-	<h3>Julia Ostner</h3>
-	<p><strong>Professor</strong> of Behavioral Ecology at the University of Göttingen, Germany and the German Primate Center.</p>
-	<p><em>"I have been co-director of the Phu Khieo Assamese Macaque Project in Thailand since 2005. My macaque research investigates multiple topics including evolution of social relationships, sociality across lifespan,  social cognition, behavioural endocrinology and health."</em></p>
-</div>
