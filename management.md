@@ -28,6 +28,21 @@ The Advisory Board provides strategic guidance and expertise, helping shape the 
 	<h2>Advisory Board Members</h2>
 </header>
 
+<div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
+  <img src="/assets/images/advisory_board_cesar.jpg" alt="Cesar Rodriguez del Castillo" 
+       style="width:150px; height:150px; object-fit:cover; border-radius:50%; margin-right:1rem;">
+  <div>
+    <h3 style="margin:0 0 0.5rem 0;">Cesar Rodriguez del Castillo</h3>
+    <p style="margin:0;">
+      <strong>PhD student</strong> at Instituto de Neuroetología, Universidad Veracruzana, México.
+    </p>
+    <p style="margin:0.5rem 0 0 0;">
+      <em>"I have a background in chimpanzee behaviour and husbandry as well as macaque research, 
+      with a focus on behavioural ecology, sociality and conservation."</em>
+    </p>
+  </div>
+</div>
+
 <div class="team">
 	<span class="image left"><img src="/assets/images/advisory_board_cesar.jpg" width="2480" height="2240"/></span> 
 	<h3>Cesar Rodriguez del Castillo</h3>
