@@ -10,23 +10,21 @@ permalink: /management/
   <figcaption style="font-size:0.9em; font-style:italic; margin-top:4px;">
     The diagram shows the structure of the MacaqueNet consortium, which is made up of the MacaqueNet members: 
     the management team, data contributors, data users, and newsletter subscribers. 
-    Some members may belong to more than one of these groups, reflecting overlapping roles within the network.
   </figcaption>
 </figure>
+<br>
 
 
 The MacaqueNet Consortium is organized to support collaboration, communication, and data sharing among researchers studying macaques. Many members have multiple roles within the consortium, participating in more than one area. For example, some members may be both data users and contributors, while members of the management team have also contributed data. Other members have not yet contributed or used data, but are subscribed to the newsletter to stay informed. This overlap reflects the collaborative nature of our community.
 
-## Management Team
+<h2 style="margin-top:2rem;">Management Team</h2>
 The MacaqueNet management team is responsible for all tasks associated with maintaining the MacaqueNet community and database. 
 At the top level, directors Delphine De Moor, Lauren Brent, Julie Duboscq and Christof Neumann oversee the overall direction of MacaqueNet and ensure smooth coordination across the rest of the management team.
 The communications managers; Macaela Skelton and Delphine are in charge of all communications including emails, Google forms, updating the website, writing the newsletter as well as organising symposia and management meetings. 
 As database managers, Delphine and Christof standardise contributed data and import it into the database, and update public resources including the terms of use and database search tool.
 The Advisory Board provides strategic guidance and expertise, helping shape the consortium’s long-term goals and priorities.
 
-<header class="major">
-	<h2>Advisory Board Members</h2>
-</header>
+<h3 style="margin-top:2rem;">Advisory Board Members</h3>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:2rem;">
   <img src="/assets/images/advisory_board_cesar.jpg" alt="Cesar Rodriguez del Castillo" 
