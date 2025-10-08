@@ -15,7 +15,7 @@ permalink: /management/
 <br>
 
 
-The MacaqueNet Consortium is organized to support collaboration, communication, and data sharing among researchers studying macaques. Many members have multiple roles within the consortium, participating in more than one area. For example, some members may be both data users and contributors, while members of the management team have also contributed data. Other members have not yet contributed or used data, but are subscribed to the newsletter to stay informed. This overlap reflects the collaborative nature of our community.
+The MacaqueNet Consortium was designed to support collaboration among researchers studying macaques and is structured to ensure effective communication and data sharing. Many members have multiple roles within the consortium, participating in more than one area. For example, some members may be both data users and contributors, while members of the management team have also contributed data. Other members have not yet contributed or used data, but are subscribed to the newsletter to stay informed. This overlap reflects the collaborative nature of our community.
 
 <h2 style="margin-top:2rem;">Management Team</h2>
 The MacaqueNet management team is responsible for all tasks associated with maintaining the MacaqueNet community and database. 
