@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Consortium Structure"
-permalink: /consortium_structure/
+permalink: /consortium/
 ---
 ***
 
