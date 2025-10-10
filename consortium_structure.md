@@ -5,17 +5,19 @@ permalink: /consortium/
 ---
 ***
 
-<figure style="text-align:center; display:inline-block; margin:0;">
-  <img src="/assets/images/macaquenet_management_figure.png" 
-       alt="MacaqueNet consortium structure" 
-       style="max-width:100%; height:auto; display:block;" />
-  <figcaption style="font-size:0.9em; font-style:italic; margin-top:4px; max-width:100%; text-align:center;">
-    The diagram shows the structure of the MacaqueNet consortium, which is made up of the MacaqueNet members: 
-    the management team, data contributors, data users, and newsletter subscribers. 
-  </figcaption>
-</figure>
-
+<div style="text-align:center;">
+  <figure style="display:inline-block; margin:0;">
+    <img src="/assets/images/macaquenet_management_figure.png" 
+         alt="MacaqueNet consortium structure" 
+         style="max-width:100%; height:auto; display:block;" />
+    <figcaption style="font-size:0.9em; font-style:italic; margin-top:4px; text-align:center;">
+      The diagram shows the structure of the MacaqueNet consortium, which is made up of the MacaqueNet members: 
+      the management team, data contributors, data users, and newsletter subscribers. 
+    </figcaption>
+  </figure>
+</div>
 <br>
+
 
 
 
