@@ -5,14 +5,15 @@ permalink: /consortium/
 ---
 ***
 
-<figure style="text-align:center;">
-  <img src="/assets/images/macaquenet_management_figure.png" alt="MacaqueNet consortium structure" style="max-width:100%; height:auto;" />
-  <figcaption style="font-size:0.9em; font-style:italic; margin-top:4px;">
+<figure style="display:flex; align-items:center; justify-content:flex-start; gap:16px; margin:0;">
+  <img src="/assets/images/macaquenet_management_figure.png" 
+       alt="MacaqueNet consortium structure" 
+       style="max-width:45%; height:auto;" />
+  <figcaption style="font-size:0.9em; font-style:italic; text-align:left;">
     The diagram shows the structure of the MacaqueNet consortium, which is made up of the MacaqueNet members: 
     the management team, data contributors, data users, and newsletter subscribers. 
   </figcaption>
 </figure>
-<br>
 
 
 The MacaqueNet Consortium was designed to support collaboration among researchers studying macaques and is structured to ensure effective communication and data sharing. Many members have multiple roles within the consortium, participating in more than one area. For example, some members may be both data users and contributors, while members of the management team have also contributed data. Other members have not yet contributed or used data, and are only subscribed to the newsletter to stay informed. All members are part of the newsletter mailing list. This overlap and nested structure reflects the collaborative nature of our community.
@@ -23,7 +24,7 @@ The MacaqueNet management team is responsible for all tasks associated with main
 At the top level, directors Delphine De Moor, Lauren Brent, Julie Duboscq and Christof Neumann oversee the overall direction of MacaqueNet and ensure smooth coordination across the rest of the management team.
 The communications managers; Macaela Skelton and Delphine are in charge of all communications including emails, Google forms, updating the website, writing the newsletter as well as organising symposia and management meetings. 
 As database managers, Delphine and Christof standardise contributed data and import it into the database, and update public resources including the terms of use and database search tool.
-The Advisory Board provides strategic guidance and expertise, helping shape the consortium’s long-term goals and priorities.
+The Advisory Board provides provides advice on management activities that fall within their area of expertise. Together, the management team work collaboratively to shape the consortium’s long-term goals and facilitate MacaqueNet's continued growth.
 
 <h3 style="margin-top:2rem;">Advisory Board Members</h3>
 
