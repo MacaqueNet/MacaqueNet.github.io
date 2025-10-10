@@ -6,7 +6,7 @@ permalink: /consortium/
 ***
 
 <div style="text-align:center;">
-  <figure style="text-align:center; margin:0; padding:0; display:inline-block; max-width:100%;">
+  <figure style="text-align:center; margin:0 auto; padding:0; display:inline-block; max-width:800px;">
     <img src="/assets/images/macaquenet_management_figure.png" 
          alt="MacaqueNet consortium structure" 
          style="width:100%; height:auto; display:block; margin:0; padding:0;" />
@@ -17,7 +17,6 @@ permalink: /consortium/
   </figure>
 </div>
 
-<br>
 
 
 <p>The MacaqueNet Consortium was designed to support collaboration among researchers studying macaques and is structured to ensure effective communication and data sharing. Many members have multiple roles within the consortium, participating in more than one area. For example, some members may be both data users and contributors, while members of the management team have also contributed data. Other members have not yet contributed or used data, and are only subscribed to the newsletter to stay informed. All members are part of the newsletter mailing list. This overlap and nested structure reflects the collaborative nature of our community.
