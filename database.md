@@ -29,13 +29,14 @@ Submit an enquiry using the form below to see if any members of the MacaqueNet c
 You may also have the opportunity to work with the MacaqueNet management team to develop a new branch of the database that accommodates not only your research needs, but those of future projects as well.
 Suggest New Data for the Database
 
-<strong>What new data do you want to see added to the database next?</strong>
-Add your suggestions of e.g. additional behaviours, species, or data types directly to our <a href="https://docs.google.com/spreadsheets/d/1obDOQDxVlnS6jG0AYs1cM_5GRqCTspvPrP9fpQezzbo/edit?usp=sharing" target="_blank">Google sheet</a>, 
-or you can <a href=mailto:{{ site.email }}" target="_blank">email us</a> directly. Your input will help us ensure the MacaqueNet database continues to grow with our community's needs.
-
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
   <li style="margin: 0;"><a href= "https://docs.google.com/forms/d/e/1FAIpQLSfuJlBpVWx2BkJf3clWWpopfRvXad6y58oe2x-HNolBLXG9AA/viewform?usp=dialog" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Enquire About New Data Types</a></li>
 </ul>
+
+<strong>What new data do you want to see added to the database next?</strong>
+Add your suggestions of e.g. additional behaviours, species, or data types directly to our <a href="https://docs.google.com/spreadsheets/d/1obDOQDxVlnS6jG0AYs1cM_5GRqCTspvPrP9fpQezzbo/edit?usp=sharing" target="_blank">Google sheet</a>, 
+or you can <a href="mailto:{{ site.email }}" target="_blank">email us</a> directly. Your input will help us ensure the MacaqueNet database continues to grow with our community's needs.
+
 
 While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, please click the button below.
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
