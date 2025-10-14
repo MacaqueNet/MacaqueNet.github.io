@@ -24,7 +24,7 @@ Interested in using data from the MacaqueNet database for your next research pro
 </ul>
 
 <strong>Not finding the data you need in the search tool?</strong>
-The database may not yet include the specific data type, species, or behaviours you’re looking for — but members of the MacaqueNet consortium might. 
+The database may not yet include the specific data type, species, or behaviours you’re looking for — but members of the MacaqueNet consortium might have it. 
 Submit an enquiry using the form below to see if any members of the MacaqueNet community have data that fit your project’s needs.
 You may also have the opportunity to work with the MacaqueNet management team to develop a new branch of the database that accommodates not only your research needs, but those of future projects as well.
 Suggest New Data for the Database
