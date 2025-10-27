@@ -43,7 +43,10 @@ permalink: /latest_news/
     <em>"Unlocking Comparative Research in Animal Social Behaviour"</em> as part of the official 
     <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour conference</a> programme. 
     Around 100 attendees joined to hear speakers including Jacob Feder, Stotra Chakrabarti, Genevieve Finerty, Natalia Borrego, Krishna Balasubramaniam, Greg Albery, and Harish Kumar.  
-    A post-event survey highlighted strong interest in comparative behavioural research among attendees, reflecting the growing enthusiasm for this field. Have your say and <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">complete the survey</a> now!
+  </p>
+  
+  <p>
+    A survey was shared during the symposium, which highlighted strong interest in comparative behavioural research among attendees, reflecting the growing enthusiasm for this field. Have your say and <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">complete the survey</a> now!
   </p>
 
   <p>
