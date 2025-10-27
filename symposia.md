@@ -7,7 +7,7 @@ permalink: /symposia/
 
 ## Upcoming Symposia
 
-The next *Weaving the MacaqueNet* event will take place in 2027. Check back closer to the date for more information.
+The next <em>Weaving the MacaqueNet</em> event will take place in 2027. Check back closer to the date for more information.
 
 ## Previous Events
 
@@ -31,7 +31,7 @@ The next *Weaving the MacaqueNet* event will take place in 2027. Check back clos
 <p>
   This workshop included <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
   Post workshop, we had our MacaqueNet <strong>general assembly meeting</strong>. Attendance was limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
-  After the general assembly meeting, all in-person workshop attendees regrouped &amp; headed to dinner at a local restaurant: *4th Street Dining Hall*.
+  After the general assembly meeting, all in-person workshop attendees regrouped &amp; headed to dinner at a local restaurant: <em>4th Street Dining Hall</em>.
 </p>
 
 <p>
@@ -45,7 +45,10 @@ The next *Weaving the MacaqueNet* event will take place in 2027. Check back clos
 </p>
 
 <p>
-  Our symposium was part of the official conference programme and showcased the power and challenges of comparative approaches in behavioural research. Talks highlighted both the potential and the hurdles of cross-species datasets and collaborations. The symposium ended with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info about the symposium here</a>.
+  Our symposium was part of the official conference programme and showcased the power and challenges of comparative approaches in behavioural research. Talks highlighted both the potential and the hurdles of cross-species datasets and collaborations. The symposium ended with a discussion session to reflect on the talks and share ideas to help push the field forward. 
+  A survey was shared during the session, which highlighted strong interest in comparative behavioural research among attendees, reflecting the growing enthusiasm for this field.
+Have your say and <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">complete the survey</a> now!
+  You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info about the symposium here</a>.
 </p>
 
 <p>Speakers included:</p>

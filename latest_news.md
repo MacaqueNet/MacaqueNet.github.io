@@ -10,19 +10,33 @@ permalink: /latest_news/
 ***
 ***
 
-**Apr 2025: It's Official - MacaqueNet is coming to Kolkata!**
+**Aug 2025: MacaqueNet Comes to Kolkata!**
 <div style="display: flex; align-items: stretch;">
     <div style="flex: 1;">
         <p>
           We are excited to confirm that "Weaving the MacaqueNet 3.0" will be hosted in Kolkata, India for the <a href="https://behaviourindia2025.in/">Behaviour conference</a> in August. 
         There will be a pre-conference workshop plus dinner & a symposium on <a href="https://behaviourindia2025.in/symposia.html" target="_blank" >“Unlocking Comparative Research in Animal Social Behaviour” (S19)</a>. <br>
       
+
+The 3rd Weaving the MacaqueNet workshop in Kolkata on 24 August 2025 was a great success, welcoming over 50 participants both in-person and online. Four researchers presented potential collaborative projects requiring new data types that don't yet exist in the MacaqueNet database. 
+Find out more about each project <a href="https://github.com/MacaqueNet/database/blob/main/newsletters/issue%207/Project%20proposals%20from%202025%20symposia%20in%20Kolkata.pdf" target="_blank" >here</a>
+.
+
+At the members-only general assembly, MacaqueNet members discussed internal management and future directions: We explored the possibility of making some datasets open-access, discussed the formalised <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank" >consortium structure and management workflows</a>, including the steps involved when dealing with data requests, data contributions and inquiries about new data types. 
+
+The full meeting minutes are available <a href="https://github.com/MacaqueNet/database/blob/main/meetings/24.8.2025_MacaqueNet%20Symposia%203.0_General%20Assembly%20Minutes.pdf" target="_blank" >here</a>.
+
+Members of the MacaqueNet management team Delphine De Moor, Lauren Brent and Macaela Skelton also organised a symposium called <em>"Unlocking Comparative Research in Animal Social Behaviour"</em> as part of the official <a href="https://www.behaviourindia2025.in/" target="_blank" >Behaviour conference</a> programme. 
+Around 100 in-persob attendees joined the event.Speakers—including Jacob Feder, Stotra Chakrabarti, Genevieve Finerty, Natalia Borrego, Krishna Balasubramaniam, Greg Albery, and Harish Kumar—shared insights on the challenges and importance of comparative research.
+A post-event survey highlighted strong interest in comparative behavioural research among attendees, reflecting the growing enthusiasm for this field.
+Have your say and <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">complete the survey</a> now!
+
 Head to our <a href="https://macaquenet.github.io/symposia/" target="_blank">symposia</a> page to find out more.
         </p>
-    </div>
-    	<div style="flex: 0 0 300px; text-align: center; margin-left: 20px; display: flex; align-items: center;">
-        <img class="image" src="/assets/images/india_flag.png" width="300"/>
-    </div>
+  <div style="flex: 1 1 50%; text-align: center; margin-left: 20px; display: flex; align-items: center; justify-content: center;">
+    <img class="image" src="/assets/images/MacaqueNet_Workshop_Group_Photo.png" style="width: 100%; max-width: 600px; height: auto;"/>
+  </div>
+
 </div>
 
 ***
