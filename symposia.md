@@ -7,45 +7,36 @@ permalink: /symposia/
 
 ## Upcoming Symposia
 
-### “Weaving the MacaqueNet 3.0” is coming to Kolkata
+The next *Weaving the MacaqueNet* event will take place in 2027. Check back closer to the date for more information.
+
+## Previous Events
+
+### “Weaving the MacaqueNet 3.0” in Kolkata
 
 <div class="team">
 	<span class="image left"><img src="/assets/images/behaviour2025.jpg" width="50%"/></span>
 
-	<p>“Weaving the MacaqueNet 3.0” is coming to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025. There will be two MacaqueNet events taking place across the week:</p>
+	<p>In 2025, “Weaving the MacaqueNet 3.0” came to Kolkata, India for the <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour 2025</a> conference, 25–30 August 2025. There were two MacaqueNet events across the week:</p>
 
 <p>
   <strong><u>Pre-Conference Workshop</u></strong><br>
   <strong>Sunday 24 August 2025 (13:00-16:00)<br>
   Open to all (in-person &amp; online) free of charge<br>
-  Includes light refreshments provided by the venue</strong><br> 
+  Included light refreshments provided by the venue</strong><br> 
   plus... <br>
-  <strong>1 hour MacaqueNet members-only board meeting (16:00-17:00)<br>
-  Post workshop dinner (from 17:00 onwards, details TBC) - all workshop attendees are welcome!</strong>
+  <strong>1 hour MacaqueNet members-only general assembly meeting (16:00-17:00)<br>
+  Post workshop dinner (from 17:00 onwards) for all in-person attendees.</strong>
 </p>
 
 <p>
-  This workshop will include <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
-  Post workshop, we will have our MacaqueNet board meeting. Attendance is limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
-  After the board meeting, all in-person workshop attendees will regroup &amp; head to dinner at a local restaurant (details TBC).
+  This workshop included <u>updates on MacaqueNet projects</u> and <u>database developments</u>, as well as <u>lightning talks</u> showcasing work from early-career macaque researchers and researchers based in macaque-range countries.<br>
+  Post workshop, we had our MacaqueNet <strong>general assembly meeting</strong>. Attendance was limited to MacaqueNet <u>members only</u>, with discussions centered on internal management &amp; the database’s future development.<br>
+  After the general assembly meeting, all in-person workshop attendees regrouped &amp; headed to dinner at a local restaurant: *4th Street Dining Hall*.
 </p>
 
 <p>
-  You do <u>not</u> need to be registered for Behaviour 2025 to attend the pre-conference workshop.<br>
+  The full schedule from the event is available to view <a href="https://docs.google.com/spreadsheets/d/1nlrgDvrc_Us7cKJjPqEgR68XNiF8PFC7V7mhu443cEM/edit?gid=0#gid=0" target="_blank">here</a>!
 </p>
-
-<p>
-  The full schedule including in-person location and online Zoom links is available to view <a href="https://docs.google.com/spreadsheets/d/1nlrgDvrc_Us7cKJjPqEgR68XNiF8PFC7V7mhu443cEM/edit?gid=0#gid=0" target="_blank">here</a>!
-</p>
-<p>
-  Click <strong>REGISTER</strong> below to sign up for the MacaqueNet Workshop, Board Meeting and post-workshop dinner – you are welcome to attend as many or as few events as you like, just let us know which events you will join in the form. 
-  If you are attending the Behaviour conference online or in-person, you can RSVP now via the <strong>WHOVA app!</strong>
-</p>
-
-<ul class="actions">
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScPvbLKZBGQZqDjU_QTw-9v5phGe_jDP4cZgcMTM8yYuvsRCA/viewform" target="_blank" class="button big">Register</a></li>
-</ul>
-
 	
 <p>
   <strong><u>Symposium: Unlocking Comparative Research in Animal Social Behaviour (S19)</u></strong><br>
@@ -54,10 +45,10 @@ permalink: /symposia/
 </p>
 
 <p>
-  Our symposium will be part of the official conference programme and will showcase the power and challenges of comparative approaches in behavioural research. Talks will highlight both the potential and the hurdles of cross-species datasets and collaborations. We will end with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info here</a>.
+  Our symposium was part of the official conference programme and showcased the power and challenges of comparative approaches in behavioural research. Talks highlighted both the potential and the hurdles of cross-species datasets and collaborations. The symposium ended with a discussion session to reflect on the talks and share ideas to help push the field forward. You can find <a href="https://behaviourindia2025.in/symposia.html" target="_blank">more info about the symposium here</a>.
 </p>
 
-<p>Speakers include:</p>
+<p>Speakers included:</p>
 <ul>
   <li>Delphine De Moor</li>
   <li>Jacob Feder</li>
@@ -69,14 +60,7 @@ permalink: /symposia/
   <li>Harish Kumar</li>
 </ul>
 
-<p>
-  Already planning to attend Behaviour 2025 in Kolkata? We would love to see many of you there in person!<br>
-  Not registered for Behaviour yet? <a href="https://conferenceindia.in/behaviour2025/delegate_login.aspx" target="_blank">Registration</a> for in-person and online attendance is still available.
-</p>
-
 </div>
-
-## Previous Events
 
 ### "Weaving the MacaqueNet 2.0" symposium
 
