@@ -62,6 +62,8 @@ The next *Weaving the MacaqueNet* event will take place in 2027. Check back clos
 
 </div>
 
+<strong>Photos from both events can be viewed <a href="https://github.com/MacaqueNet/database/tree/main/images/events/Symposia/2025_Weaving%20the%20MacaqueNet%203.0" target="_blank">here</a>.</strong>
+
 ### "Weaving the MacaqueNet 2.0" symposium
 
 <div class="team">
