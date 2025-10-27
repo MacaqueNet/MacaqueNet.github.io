@@ -35,7 +35,7 @@ permalink: /latest_news/
   <p>
     During the members-only general assembly, discussions focused on open-access possibilities and internal management workflows. Minutes are available 
     <a href="https://github.com/MacaqueNet/database/blob/main/meetings/24.8.2025_MacaqueNet%20Symposia%203.0_General%20Assembly%20Minutes.pdf" target="_blank">here</a>, and the 
-    <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank">consortium structure</a> is available online.
+    <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank">consortium structure and management workflows</a> diagram is available online.
   </p>
 
   <p>
