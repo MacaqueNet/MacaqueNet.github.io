@@ -28,26 +28,22 @@ permalink: /latest_news/
     The <strong>Weaving the MacaqueNet 3.0</strong> workshop took place in Kolkata, India on 24 August 2025, alongside the 
     <a href="https://behaviourindia2025.in/" target="_blank">Behaviour 2025 conference</a>. 
     Over 50 participants joined in person and online to exchange ideas and strengthen collaborations across macaque research groups.
-  </p>
-
-  <p>
-    Four researchers pitched new collaborative projects exploring data types not yet represented in the MacaqueNet database — read about them 
+    The workshop featured lightning talks from early-career reserarchers and those from macaque-range countries. Four researchers pitched new collaborative projects exploring data types not yet represented in the MacaqueNet database — read about them 
     <a href="https://github.com/MacaqueNet/database/blob/main/newsletters/issue%207/Project%20proposals%20from%202025%20symposia%20in%20Kolkata.pdf" target="_blank">here</a>.
   </p>
 
   <p>
-    During the members-only general assembly, discussions focused on open-access possibilities and internal workflows. Minutes are available 
+    During the members-only general assembly, discussions focused on open-access possibilities and internal management workflows. Minutes are available 
     <a href="https://github.com/MacaqueNet/database/blob/main/meetings/24.8.2025_MacaqueNet%20Symposia%203.0_General%20Assembly%20Minutes.pdf" target="_blank">here</a>, and the 
     <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank">consortium structure</a> is available online.
   </p>
 
   <p>
-    Separately, MacaqueNet organisers Delphine De Moor, Lauren Brent, and Macaela Skelton hosted the symposium 
+    MacaqueNet management team members Delphine De Moor, Lauren Brent, and Macaela Skelton hosted the symposium 
     <em>"Unlocking Comparative Research in Animal Social Behaviour"</em> as part of the official 
     <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour conference</a> programme. 
     Around 100 attendees joined to hear speakers including Jacob Feder, Stotra Chakrabarti, Genevieve Finerty, Natalia Borrego, Krishna Balasubramaniam, Greg Albery, and Harish Kumar.  
-    Share your views via the post-event 
-    <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">survey</a>.
+    A post-event survey highlighted strong interest in comparative behavioural research among attendees, reflecting the growing enthusiasm for this field. Have your say and <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">complete the survey</a> now!
   </p>
 
   <p>
