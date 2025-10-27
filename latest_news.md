@@ -25,26 +25,28 @@ permalink: /latest_news/
   </figure>
 
   <p>
-    <strong>Weaving the MacaqueNet 3.0</strong> took place in Kolkata, India as part of the 
+    The <strong>Weaving the MacaqueNet 3.0</strong> workshop took place in Kolkata, India on 24 August 2025, alongside the 
     <a href="https://behaviourindia2025.in/" target="_blank">Behaviour 2025 conference</a>. 
-    The event featured a pre-conference workshop, dinner, and a symposium on 
-    <a href="https://behaviourindia2025.in/symposia.html" target="_blank">“Unlocking Comparative Research in Animal Social Behaviour” (S19)</a>.
+    Over 50 participants joined in person and online to exchange ideas and strengthen collaborations across macaque research groups.
   </p>
 
   <p>
-    Over 50 participants joined the workshop in person and online. Four researchers pitched collaborative projects exploring new data types not yet in the MacaqueNet database — read about them 
+    Four researchers pitched new collaborative projects exploring data types not yet represented in the MacaqueNet database — read about them 
     <a href="https://github.com/MacaqueNet/database/blob/main/newsletters/issue%207/Project%20proposals%20from%202025%20symposia%20in%20Kolkata.pdf" target="_blank">here</a>.
   </p>
 
   <p>
-    During the members-only general assembly, the network reviewed internal workflows and discussed open-access possibilities. Meeting minutes are available 
-    <a href="https://github.com/MacaqueNet/database/blob/main/meetings/24.8.2025_MacaqueNet%20Symposia%203.0_General%20Assembly%20Minutes.pdf" target="_blank">here</a>, and our 
-    <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank">consortium structure</a> can be viewed online.
+    During the members-only general assembly, discussions focused on open-access possibilities and internal workflows. Minutes are available 
+    <a href="https://github.com/MacaqueNet/database/blob/main/meetings/24.8.2025_MacaqueNet%20Symposia%203.0_General%20Assembly%20Minutes.pdf" target="_blank">here</a>, and the 
+    <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank">consortium structure</a> is available online.
   </p>
 
   <p>
-    The symposium, led by Delphine De Moor, Lauren Brent, and Macaela Skelton, drew around 100 attendees and featured talks by Jacob Feder, Stotra Chakrabarti, Genevieve Finerty, Natalia Borrego, Krishna Balasubramaniam, Greg Albery, and Harish Kumar. 
-    Share your views in the post-event 
+    Separately, MacaqueNet organisers Delphine De Moor, Lauren Brent, and Macaela Skelton hosted the symposium 
+    <em>"Unlocking Comparative Research in Animal Social Behaviour"</em> as part of the official 
+    <a href="https://www.behaviourindia2025.in/" target="_blank">Behaviour conference</a> programme. 
+    Around 100 attendees joined to hear speakers including Jacob Feder, Stotra Chakrabarti, Genevieve Finerty, Natalia Borrego, Krishna Balasubramaniam, Greg Albery, and Harish Kumar.  
+    Share your views via the post-event 
     <a href="https://docs.google.com/forms/d/1AiUGYYZkhnSFMOyYBhDQtb6FBTm48DTqrusPNljNezI/viewform?pli=1&pli=1&edit_requested=true" target="_blank">survey</a>.
   </p>
 
@@ -53,6 +55,7 @@ permalink: /latest_news/
   </p>
 
 </div>
+
 
 
 ***
