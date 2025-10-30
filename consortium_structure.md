@@ -24,7 +24,7 @@ permalink: /consortium/
 
 <p><strong>
 You can view the full MacaqueNet management workflow by clicking the button below or by scanning the QR code in the figure above:
-</p> </strong>
+</strong>
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
         <li><a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank" class="button big">View Full Workflow</a></li> 
 </ul>
