@@ -20,8 +20,14 @@ permalink: /consortium/
 
 
 <p>The MacaqueNet Consortium was designed to support collaboration among researchers studying macaques and is structured to ensure effective communication and data sharing. Many members have multiple roles within the consortium, participating in more than one area. For example, some members may be both data users and contributors, while members of the management team have also contributed data. Other members have not yet contributed or used data, and are only subscribed to the newsletter to stay informed. All members are part of the newsletter mailing list. This overlap and nested structure reflects the collaborative nature of our community.
-You can view the full MacaqueNet management workflow <a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20Management%20Workflow.pdf" target="_blank">here</a>, or by scanning the QR code in the figure above. 
 </p>
+
+<p><strong>
+You can view the full MacaqueNet management workflow by clicking the button below or by scanning the QR code in the figure above:
+</p> </strong>
+<ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
+        <li><a href="https://github.com/MacaqueNet/database/blob/main/MacaqueNet%20consortium%20structure%20and%20management%20workflows.pdf" target="_blank" class="button big">View Full Workflow</a></li> 
+</ul>
 
 <h2 style="margin-top:2rem;">Management Team</h2>
 The MacaqueNet management team is responsible for all tasks associated with maintaining the MacaqueNet community and database. 
