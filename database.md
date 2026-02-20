@@ -23,6 +23,8 @@ Interested in using data from the MacaqueNet database for your next research pro
         <li><a href="https://github.com/MacaqueNet/database/blob/main/data_requests/MacaqueNet_data_request_log.csv" target="_blank" class="button big">Browse Data Requests</a></li> 
 </ul>
 
+***
+
 <strong>Not finding the data you need in the search tool?</strong>
 The database may not yet include the specific data type, species, or behaviours you’re looking for — but members of the MacaqueNet consortium might have it. 
 Submit an enquiry using the form below to see if any members of the MacaqueNet community have data that fit your project’s needs.
@@ -31,6 +33,8 @@ You may also have the opportunity to work with the MacaqueNet management team to
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
   <li style="margin: 0;"><a href= "https://docs.google.com/forms/d/e/1FAIpQLSfuJlBpVWx2BkJf3clWWpopfRvXad6y58oe2x-HNolBLXG9AA/viewform?usp=dialog" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Enquire About New Data Types</a></li>
 </ul>
+
+***
 
 <strong>Do you have behavioural data you would be willing to contribute to MacaqueNet?</strong>
 We are always looking to grow the MacaqueNet database through new data contributions.
