@@ -32,12 +32,13 @@ You may also have the opportunity to work with the MacaqueNet management team to
   <li style="margin: 0;"><a href= "https://docs.google.com/forms/d/e/1FAIpQLSfuJlBpVWx2BkJf3clWWpopfRvXad6y58oe2x-HNolBLXG9AA/viewform?usp=dialog" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Enquire About New Data Types</a></li>
 </ul>
 
-While the database currently contains behavioural data only, we are actively looking for other types of data including genomic, life history and ecological datasets, so we may allow MacaqueNet to grow to its full potential. If you believe that your data could be a great addition to the MacaqueNet database, please click the button below.
+<strong>Do you have behavioural data you would be willing to contribute to MacaqueNet?</strong>
+We are always looking to grow the MacaqueNet database through new data contributions.
+The database currently supports grooming, proximity, body contact, and aggression data. 
+In the future, we aim to expand it to include other behaviours and data types, including genomic, life history, and ecological datasets, so that MacaqueNet can grow to its full potential.
+If you believe that your data could be a great addition to the MacaqueNet database, please click the button below.
 <ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
     <li style="margin: 0;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZYgh6GKW_CmiwbJu4KPil3OUEYgnB3ZUQjMhJ3XfZs2WPhw/viewform?usp=sf_link" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Contribute Data</a></li>
 </ul>
 
 ***
-
-The **MacaqueNet Management Team** meets every **2 months** to discuss new and ongoing data requests, data proposals and data contributions. 
-Our next meeting will take place on **June 26th 2025**, so get your form(s) submitted before then! 

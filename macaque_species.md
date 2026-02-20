@@ -28,7 +28,7 @@ Long-tailed macaques <em>(M. fascicularis)</em> are grouped alone in their own m
 Similarly to the long-tailed macaque, The stump-tailed macaque <em>(M. arctoides)</em> also resides in its own arctoides clade. Stump-tailed populations inhabit regions including Hong-Kong, Cambodia and Thailand.
 <div style="text-align:center"><img class="image" src="/assets/images/worldmap_arctoides_group.png" width="300" height="auto"/></div><br/>
 
-Finally, the <em>mulatta</em> clade includes the rhesus <em>(M. mulatta)</em>, Japanese <em>(M. fuscata)</em> and Formosan macaques <em>(M. cyclopis)</em>. Japanese and Formosan macaques are both native to Japan, while rhesus macaques have a broader distribution, occupying areas in Asia including India and China.
+Finally, the <em>mulatta</em> clade includes the rhesus <em>(M. mulatta)</em>, Japanese <em>(M. fuscata)</em> and Formosan macaques <em>(M. cyclopis)</em>. Japanese macaques are native to Japan, while Formosan macaques are native to Taiwan. Rhesus macaques have a broader distribution, occupying areas in Asia including India and China.
 <div style="text-align:center"><img class="image" src="/assets/images/worldmap_mulatta_group.png" width="300" height="auto"/></div><br/>
 
 <div style="text-align:center"><img class="image" src="/assets/images/home page image compressed.png" width="300" height="auto"/></div><br/>
