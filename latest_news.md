@@ -9,6 +9,21 @@ permalink: /latest_news/
 
 ***
 ***
+**Oct 2025: MacaqueNet wins a SORTEE Award**
+<div style="display: flex; align-items: stretch;">
+    <div style="flex: 1;">
+        <p>
+            Excited to annouce that MacaqueNet has received a 2025 SORTEE Commendation Award. We were 1 of 6 awardees recognized for our efforts towards more open and reproducible macaque research. We owe this award to our global community of 100+ macaque researchers; MacaqueNet wouldn’t be possible without you!
+            SORTEE (Society for Open, Reliable & Transparent Ecology & Evolutionary Biology) brings together communities of like-minded researchers dedicated to improving reliability and transparancy in research practices. To find out more and to become a member of SORTEE for free, click <a href="https://sortee.org/">here</a> to head to their website.   
+        </p>
+    </div>
+	<div style="flex: 0 0 300px; text-align: center; margin-left: 20px; display: flex; align-items: center;">
+        <img class="image" src="/assets/images/SORTEE_award_certificate_MacaqueNet.png" width="300"/>
+    </div>
+</div>
+
+
+***
 
 **Aug 2025: MacaqueNet Comes to Kolkata!**
 
