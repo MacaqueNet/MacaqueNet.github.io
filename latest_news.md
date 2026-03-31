@@ -13,17 +13,16 @@ permalink: /latest_news/
 
 <div style="overflow: auto;">
 
-  <!-- Image with caption -->
   <figure style="float: right; width: 60%; max-width: 500px; margin: 0 0 15px 20px; text-align: center;">
     <img src="/assets/images/SORTEE_award_certificate_MacaqueNet.png" 
          alt="MacaqueNet SORTEE Certificate"
          style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-    <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+    <figcaption style="font-size: 0.9em; color: #555; margin-top: 4px;">
       2025 SORTEE Commendation certificate, awarded to MacaqueNet on 13th October 2025.
     </figcaption>
   </figure>
    
-  <p>
+  <p style="margin-top: 0;">
     Excited to annouce that MacaqueNet has received a 2025 SORTEE Commendation Award. 
     We were 1 of 6 awardees recognized for our efforts towards more open and reproducible macaque research. We owe this award to our global community of 100+ macaque researchers; 
     MacaqueNet wouldn’t be possible without you!
