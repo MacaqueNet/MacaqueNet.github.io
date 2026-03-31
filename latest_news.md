@@ -10,18 +10,31 @@ permalink: /latest_news/
 ***
 ***
 **Oct 2025: MacaqueNet wins a SORTEE Award**
-<div style="display: flex; align-items: stretch;">
-    <div style="flex: 1;">
-        <p>
-            Excited to annouce that MacaqueNet has received a 2025 SORTEE Commendation Award. We were 1 of 6 awardees recognized for our efforts towards more open and reproducible macaque research. We owe this award to our global community of 100+ macaque researchers; MacaqueNet wouldn’t be possible without you!
-        </p>
-        <p>
-            SORTEE (Society for Open, Reliable & Transparent Ecology & Evolutionary Biology) brings together communities of like-minded researchers dedicated to improving reliability and transparancy in research practices. To find out more and to become a member of SORTEE for free, click <a href="https://sortee.org/">here</a> to head to their website.   
-        </p>
-    </div>
-	<div style="flex: 0 0 600px; text-align: center; margin-left: 20px; display: flex; align-items: center;">
-        <img class="image" src="/assets/images/SORTEE_award_certificate_MacaqueNet.png" width="300"/>
-    </div>
+
+<div style="overflow: auto;">
+
+  <!-- Image with caption -->
+  <figure style="float: right; width: 45%; max-width: 600px; margin: 0 0 15px 20px; text-align: center;">
+    <img src="/assets/images/SORTEE_award_certificate_MacaqueNet.png" 
+         alt="MacaqueNet SORTEE Certificate"
+         style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+      2025 SORTEE Commendation certificate, awarded to MacaqueNet on 13th October 2025.
+    </figcaption>
+  </figure>
+   
+  <p>
+    Excited to annouce that MacaqueNet has received a 2025 SORTEE Commendation Award. 
+    We were 1 of 6 awardees recognized for our efforts towards more open and reproducible macaque research. We owe this award to our global community of 100+ macaque researchers; 
+    MacaqueNet wouldn’t be possible without you!
+  </p>
+
+  <p>
+    SORTEE (Society for Open, Reliable & Transparent Ecology & Evolutionary Biology) brings together communities of like-minded researchers dedicated 
+    to improving reliability and transparancy in research practices. To find out more and to become a member of SORTEE for free, 
+    click <a href="https://sortee.org/">here</a> to head to their website.   
+  </p>
+  
 </div>
 
 
