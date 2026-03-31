@@ -30,7 +30,11 @@ permalink: /latest_news/
 
   <p>
     SORTEE (Society for Open, Reliable & Transparent Ecology & Evolutionary Biology) brings together communities of like-minded researchers dedicated 
-    to improving reliability and transparancy in research practices. To find out more and to become a member of SORTEE for free, 
+    to improving reliability and transparancy in research practices. 
+  </p>
+  
+  <p>
+    To find out more and to become a member of SORTEE for free, 
     click <a href="https://sortee.org/">here</a> to head to their website.   
   </p>
   
