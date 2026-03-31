@@ -14,7 +14,7 @@ permalink: /latest_news/
 <div style="overflow: auto;">
 
   <!-- Image with caption -->
-  <figure style="float: right; width: 45%; max-width: 600px; margin: 0 0 15px 20px; text-align: center;">
+  <figure style="float: right; width: 60%; max-width: 500px; margin: 0 0 15px 20px; text-align: center;">
     <img src="/assets/images/SORTEE_award_certificate_MacaqueNet.png" 
          alt="MacaqueNet SORTEE Certificate"
          style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
