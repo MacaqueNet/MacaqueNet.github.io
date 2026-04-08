@@ -29,7 +29,7 @@ This project is part of the larger, ERC-funded  <a href="https://www.friendorigi
 </div>
 
 <div class="team">
-	<span class="image left"><img src="/assets/images/me 88i.jpg"/></span>
+	<span class="image left"><img src="/assets/images/lauren.jpg"/></span>
 	<h3>Prof. Lauren Brent</h3>
 	<p><strong>Professor</strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
 	<p><em>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns, varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function".</em></p>

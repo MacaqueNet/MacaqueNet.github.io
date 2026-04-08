@@ -16,10 +16,11 @@ These findings will provide key insights into the role of sociality in life-hist
   <h2>Meet The Team</h2>
 </header>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
 
+  <!-- Team member 1 -->
   <div style="background: #fff; padding: 1.5rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
-    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; border-radius: 8px;">
+    <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
       <img src="/assets/images/severine.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
@@ -28,8 +29,9 @@ These findings will provide key insights into the role of sociality in life-hist
     <p><em>"I am an ethologist interested in the social tools animals living in complex societies use to navigate the complexities of their social worlds..."</em></p>
   </div>
 
+  <!-- Team member 2 -->
   <div style="background: #fff; padding: 1.5rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
-    <div style="width: 100%; aspect-ratio: 4/3; overflow: hidden; border-radius: 8px;">
+    <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
       <img src="/assets/images/me-88i.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
