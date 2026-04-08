@@ -35,7 +35,7 @@ These findings will provide key insights into the role of sociality in life-hist
       <img src="/assets/images/me-88i.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <h3>Prof. Lauren Brent</h3>
+    <h3>Professor Lauren Brent</h3>
     <p><strong>Professor</strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
     <p><em>"I am primarily interested in the evolution of sociality..."</em></p>
     <ul class="actions">
