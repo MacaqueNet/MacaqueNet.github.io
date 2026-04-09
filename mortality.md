@@ -19,19 +19,19 @@ These findings will provide key insights into the role of sociality in life-hist
     overflow: hidden;
     border-radius: 8px;
   ">
-    <img src="Japanese_WildlifeResearchCenter&JulieDuboscq.png" style="
+    <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" style="
       width: 100%;
       height: 100%;
       object-fit: cover;
       display: block;
     ">
-    <img src="liontail_copyright.png" style="
+    <img src="/assets/images/liontail_copyright.png" style="
       width: 100%;
       height: 100%;
       object-fit: cover;
       display: block;
     ">
-    <img src="Barbary_Molesti.png" style="
+    <img src="/assets/images/Barbary_Molesti.png" style="
       width: 100%;
       height: 100%;
       object-fit: cover;
