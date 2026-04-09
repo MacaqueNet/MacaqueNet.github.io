@@ -10,6 +10,41 @@ consider not only why life history schedules vary across primates, but also why,
 To answer these questions, we will test whether species-typical levels of social support and social inequality are related to patterns of mortality risk across the lifespan. In addition to investigating interspecific variation, our study will evaluate the drivers of intraspecific differences in sex-biased mortality risk at the population level. 
 These findings will provide key insights into the role of sociality in life-history evolution and will shed light on the evolutionary and ecological forces that have shaped that variation. This proposed project is part of a broader NIH funded project (2024-2029; R01AG087902) which seeks to investigate the factors that drive variation in lifespan across primates.
 
+<!-- ADD IMAGES FIGURE -->
+<figure style="max-width: 300px; margin: 0 auto;">
+
+  <div style="
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    overflow: hidden;
+    border-radius: 8px;
+  ">
+    <img src="Japanese_WildlifeResearchCenter&JulieDuboscq.png" style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    ">
+    <img src="liontail_copyright.png" style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    ">
+    <img src="Barbary_Molesti.png" style="
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    ">
+  </div>
+
+  <figcaption style="text-align: center; margin-top: 0.5rem;">
+    This is a single caption for all three images.
+  </figcaption>
+
+</figure>
+
 ***
 
 <header class="major">
