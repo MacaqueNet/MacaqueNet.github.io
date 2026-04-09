@@ -18,16 +18,17 @@ permalink: /mortality/
   <div style="
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    height: 250px;
     overflow: hidden;
     border-radius: 8px;
     background: #fff;
   ">
     <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" 
-         style="width:100%; height:auto; object-fit:contain; display:block; background:#fff;">
+         style="width:100%; height:100%; object-fit:cover; display:block;">
     <img src="/assets/images/liontail_copyright.png" 
-         style="width:100%; height:auto; object-fit:contain; display:block; background:#fff;">
+         style="width:100%; height:100%; object-fit:cover; display:block;">
     <img src="/assets/images/Barbary_Molesti.png" 
-         style="width:100%; height:auto; object-fit:contain; display:block; background:#fff;">
+         style="width:100%; height:100%; object-fit:cover; display:block;">
   </div>
 
   <figcaption style="text-align: center; margin-top: 0.5rem;">
