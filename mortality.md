@@ -18,7 +18,7 @@ These findings will provide key insights into the role of sociality in life-hist
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.5rem;">
 
-  <!-- Team member 1 -->
+  <!-- SEVERINE -->
   <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
@@ -52,7 +52,7 @@ These findings will provide key insights into the role of sociality in life-hist
 
 </div>
 
-  <!-- Team member 2 -->
+  <!-- LAUREN -->
   <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
@@ -87,7 +87,104 @@ These findings will provide key insights into the role of sociality in life-hist
 
   </div>
   
-  <!-- Team member 3 -->
+  
+  <!-- SAM -->
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
+    
+    <div style="flex-grow: 1; display: flex; flex-direction: column;">
+
+      <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
+        <img src="/assets/images/samellis.jpg" 
+             style="width: 100%; height: 100%; object-fit: cover;" />
+      </div>
+
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Sam Ellis</h3>
+
+      <p style="flex-grow: 1;">
+        <strong>Lecturer</strong> at the University of Exeter's Center For Research In Animal Behaviour
+      </p>
+
+    </div>
+    
+    <div>
+    <details style="margin-top: 0.5rem;">
+      <summary style="cursor: pointer; list-style: none;">
+        <span class="button small">View Bio</span>
+      </summary>
+      <p style="margin-top: 0.5rem;">
+        <em>"My research focuses on understanding the formation and consequences of social structures and social behaviours in animals. My current work focuses on the social drivers of the evolution of menopause. I have studied these questions in several different species using a variety of techniques but especially social network analysis and demographic analyses."</em>
+      </p>
+    </details>
+
+    <!-- Invisible spacer to align buttons -->
+    <div style="height: 2.5rem;"></div>
+  </div>
+  
+  <!-- NOAH -->
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
+    
+    <div style="flex-grow: 1; display: flex; flex-direction: column;">
+
+      <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
+        <img src="/assets/images/MacaqueNet_Logo-WBG_V04-colourB.png" 
+             style="width: 100%; height: 100%; object-fit: cover;" />
+      </div>
+
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Prof. Noah Snyder-Mackler</h3>
+
+      <p style="flex-grow: 1;">
+        <strong>Professor</strong> Center for Evolution & Medicine, Arizona State University
+      </p>
+
+    </div>
+    
+    <div>
+    <details style="margin-top: 0.5rem;">
+      <summary style="cursor: pointer; list-style: none;">
+        <span class="button small">View Bio</span>
+      </summary>
+      <p style="margin-top: 0.5rem;">
+        <em>"ADD BIO"</em>
+      </p>
+    </details>
+
+    <!-- Invisible spacer to align buttons -->
+    <div style="height: 2.5rem;"></div>
+  </div>
+  
+  <!-- KENNY -->
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
+    
+    <div style="flex-grow: 1; display: flex; flex-direction: column;">
+
+      <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
+        <img src="/assets/images/MacaqueNet_Logo-WBG_V04-colourB.png" 
+             style="width: 100%; height: 100%; object-fit: cover;" />
+      </div>
+
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;"></h3>
+
+      <p style="flex-grow: 1;">
+        <strong>Assistant Professor</strong> in the Department of Biology at the University of Alabama at Birmingham
+      </p>
+
+    </div>
+    
+    <div>
+    <details style="margin-top: 0.5rem;">
+      <summary style="cursor: pointer; list-style: none;">
+        <span class="button small">View Bio</span>
+      </summary>
+      <p style="margin-top: 0.5rem;">
+        <em>"ADD BIO"</em>
+      </p>
+    </details>
+
+    <!-- Invisible spacer to align buttons -->
+    <div style="height: 2.5rem;"></div>
+  </div>
+  
+   <!-- DELPHINE -->
   <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
@@ -122,7 +219,71 @@ These findings will provide key insights into the role of sociality in life-hist
 
   </div>
   
-  <!-- Team member 4 -->
+  <!-- ERIN -->
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
+    
+    <div style="flex-grow: 1; display: flex; flex-direction: column;">
+
+      <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
+        <img src="/assets/images/erin.png" 
+             style="width: 100%; height: 100%; object-fit: cover;" />
+      </div>
+
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Erin Siracusa</h3>
+
+      <p style="flex-grow: 1;">
+        <strong>Postdoctoral Research Fellow</strong> at the University of Exeter's Center For Research In Animal Behaviour
+      </p>
+
+    </div>
+    
+    <div>
+    <details style="margin-top: 0.5rem;">
+      <summary style="cursor: pointer; list-style: none;">
+        <span class="button small">View Bio</span>
+      </summary>
+      <p style="margin-top: 0.5rem;">
+        <em>"I am a behavioural ecologist broadly interested in how social interactions shape the behaviour, fitness, and life history of individuals. My recent research has focused on understanding how social behaviour contributes to our understanding of senescence by exploring the causes and consequences of changes in social behaviour across the adult lifespan. As a research fellow on the FriendOrigins project I will be working on a novel experimental manipulation of competition levels to explore how this affects the formation of social relationships. Using a population of rhesus macaques on Cayo Santiago we will manipulate competition over food to test whether social isolation is driven by competitive exclusion. This experiment will offer unique insight into the features that shape social network structure and the flexibility of social bonds."</em>
+      </p>
+    </details>
+
+    <!-- Invisible spacer to align buttons -->
+    <div style="height: 2.5rem;"></div>
+  </div>
+  
+  <!-- HELEN -->
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
+    
+    <div style="flex-grow: 1; display: flex; flex-direction: column;">
+
+      <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
+        <img src="/assets/images/" 
+             style="width: 100%; height: 100%; object-fit: cover;" />
+      </div>
+
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Helen Mylne</h3>
+
+      <p style="flex-grow: 1;">
+        <strong>Professor</strong> Center for Evolution & Medicine, Arizona State University
+      </p>
+
+    </div>
+    
+    <div>
+    <details style="margin-top: 0.5rem;">
+      <summary style="cursor: pointer; list-style: none;">
+        <span class="button small">View Bio</span>
+      </summary>
+      <p style="margin-top: 0.5rem;">
+        <em>"ADD BIO"</em>
+      </p>
+    </details>
+
+    <!-- Invisible spacer to align buttons -->
+    <div style="height: 2.5rem;"></div>
+  </div>
+  
+  <!-- MACAELA -->
   <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
@@ -153,6 +314,7 @@ These findings will provide key insights into the role of sociality in life-hist
     <!-- Invisible spacer to align buttons -->
     <div style="height: 2.5rem;"></div>
   </div>
+  
 
 </div>
 		
