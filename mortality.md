@@ -32,7 +32,7 @@ permalink: /mortality/
   </div>
 
   <figcaption style="text-align: center; margin-top: 0.5rem;">
-    This is a single caption for all three images.
+    Photos of macaques being social. From left to right: Japanese macaques (Macaca fuscata) grooming, Lion-tailed macaques (Macaca silenus) huddling on a branch, a barbary macaque (Macaca sylvanus) approaching a female and her infant.
   </figcaption>
 
 </figure>
@@ -152,7 +152,7 @@ permalink: /mortality/
       <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Prof. Noah Snyder-Mackler</h3>
 
       <p style="flex-grow: 1;">
-        <strong>Professor</strong> Center for Evolution & Medicine, Arizona State University
+        <strong>Professor</strong> at the Center for Evolution & Medicine, Arizona State University
       </p>
     </div>
     
