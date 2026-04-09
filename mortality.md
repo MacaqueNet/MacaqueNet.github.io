@@ -96,16 +96,19 @@ These findings will provide key insights into the role of sociality in life-hist
       </p>
     </div>
     
-    <div>
+   <div>
       <details style="margin-top: 0.5rem;">
         <summary style="cursor: pointer; list-style: none;">
           <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
-          <em>"My research focuses on understanding the formation and consequences of social structures and social behaviours in animals. My current work focuses on the social drivers of the evolution of menopause. I have studied these questions in several different species using a variety of techniques but especially social network analysis and demographic analyses."</em>
+          <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
         </p>
       </details>
-      <div style="height: 2.5rem;"></div>
+
+      <ul class="actions" style="margin-top: 0.5rem;">
+        <li><a href="https://samellisq.weebly.com/" class="button small">Website</a></li>
+      </ul>
     </div>
 
   </div>
@@ -147,7 +150,7 @@ These findings will provide key insights into the role of sociality in life-hist
         <img src="/assets/images/MacaqueNet_Logo-WBG_V04-colourB.png" style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
-      <h3 style="margin-top: 0.8rem; min-height: 2.5em;"></h3>
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Kenny Chiou</h3>
 
       <p style="flex-grow: 1;">
         <strong>Assistant Professor</strong> in the Department of Biology at the University of Alabama at Birmingham
