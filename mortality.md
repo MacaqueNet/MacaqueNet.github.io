@@ -20,10 +20,14 @@ permalink: /mortality/
     grid-template-columns: repeat(3, 1fr);
     overflow: hidden;
     border-radius: 8px;
+    background: #fff;
   ">
-    <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" style="width:100%; height:auto; object-fit:contain; display:block;">
-    <img src="/assets/images/liontail_copyright.png" style="width:100%; height:auto; object-fit:contain; display:block;">
-    <img src="/assets/images/Barbary_Molesti.png" style="width:100%; height:auto; object-fit:contain; display:block;">
+    <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" 
+         style="width:100%; height:auto; object-fit:contain; display:block; background:#fff;">
+    <img src="/assets/images/liontail_copyright.png" 
+         style="width:100%; height:auto; object-fit:contain; display:block; background:#fff;">
+    <img src="/assets/images/Barbary_Molesti.png" 
+         style="width:100%; height:auto; object-fit:contain; display:block; background:#fff;">
   </div>
 
   <figcaption style="text-align: center; margin-top: 0.5rem;">
