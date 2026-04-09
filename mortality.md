@@ -19,137 +19,86 @@ These findings will provide key insights into the role of sociality in life-hist
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.5rem;">
 
   <!-- Team member 1 -->
-  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; text-align: center; height: 100%;">
     
     <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
       <img src="/assets/images/severine.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
 
-    <h3 style="margin-top: 0.8rem;">Dr Severine Hex</h3>
+    <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Severine Hex</h3>
     <p><strong>Postdoctoral Research Fellow</strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
 
-    <details style="margin-top: 0.5rem;">
-      <summary style="cursor: pointer; list-style: none;">
-        <span class="button small">Learn more</span>
-      </summary>
-      <p style="margin-top: 0.5rem;">
-        <em>"I am an ethologist interested in the social tools animals living in complex societies use to navigate the complexities of their social worlds, including multimodal communication, social cognition, and social bonds. Within a society, individuals deploy different social strategies depending on their individual phenotype, parts of which may change across their lifespan, as well as in response to the social and physical environment. By investigating patterns of social behavior at the individual and population level, and identifying dimensions along which different social strategies can be characterized, I seek to determine the ways in which social behaviors are leveraged to solve specific social challenges, and how this influences the evolution of different behavioral and communicative strategies."</em>
-      </p>
-    </details>
+    <div style="margin-top: auto;">
+      <details style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; list-style: none;">
+          <span class="button small">Learn more</span>
+        </summary>
+        <p style="margin-top: 0.5rem;">
+          <em>"I am an ethologist interested in the social tools animals living in complex societies..."</em>
+        </p>
+      </details>
+    </div>
 
   </div>
 
   <!-- Team member 2 -->
-  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; text-align: center; height: 100%;">
     
     <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
       <img src="/assets/images/lauren.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
 
-    <h3 style="margin-top: 0.8rem;">Prof. Lauren Brent</h3>
+    <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Prof. Lauren Brent</h3>
     <p><strong>Professor</strong> at the University of Exeter's Center For Research In Animal Behaviour</p>
 
-    <details style="margin-top: 0.5rem;">
-      <summary style="cursor: pointer; list-style: none;">
-        <span class="button small">Learn more</span>
-      </summary>
-      <p style="margin-top: 0.5rem;">
-        <em>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function."</em>
-      </p>
-    </details>
+    <div style="margin-top: auto;">
+      <details style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; list-style: none;">
+          <span class="button small">Learn more</span>
+        </summary>
+        <p style="margin-top: 0.5rem;">
+          <em>"I am primarily interested in the evolution of sociality..."</em>
+        </p>
+      </details>
 
-    <ul class="actions" style="margin-top: 0.5rem;">
-      <li><a href="http://www.laurenbrent.com/" class="button small">Website</a></li>
-    </ul>
+      <ul class="actions" style="margin-top: 0.5rem;">
+        <li><a href="http://www.laurenbrent.com/" class="button small">Website</a></li>
+      </ul>
+    </div>
 
   </div>
   
   <!-- Team member 3 -->
-  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; text-align: center; height: 100%;">
     
     <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
       <img src="/assets/images/writing-protocols.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
 
-    <h3 style="margin-top: 0.8rem;">Dr Delphine De Moor</h3>
+    <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Delphine De Moor</h3>
     <p><strong>Postdoctoral Researcher</strong> at the Department of Primate Behavior and Evolution of the Max Planck Institute for Evolutionary Anthropology</p>
 
-    <details style="margin-top: 0.5rem;">
-      <summary style="cursor: pointer; list-style: none;">
-        <span class="button small">Learn more</span>
-      </summary>
-      <p style="margin-top: 0.5rem;">
-        <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
-      </p>
-    </details>
+    <div style="margin-top: auto;">
+      <details style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; list-style: none;">
+          <span class="button small">Learn more</span>
+        </summary>
+        <p style="margin-top: 0.5rem;">
+          <em>"My research focuses on the evolution of social relationships..."</em>
+        </p>
+      </details>
 
-    <ul class="actions" style="margin-top: 0.5rem;">
-      <li><a href="https://delphinedemoor.weebly.com/" class="button small">Website</a></li>
-    </ul>
-
-  </div>
-  
-    <!-- Team member 3 -->
-  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    
-    <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-      <img src="/assets/images/writing-protocols.jpg" 
-           style="width: 100%; height: 100%; object-fit: cover;" />
+      <ul class="actions" style="margin-top: 0.5rem;">
+        <li><a href="https://delphinedemoor.weebly.com/" class="button small">Website</a></li>
+      </ul>
     </div>
 
-    <h3 style="margin-top: 0.8rem;">Dr Delphine De Moor</h3>
-    <p><strong>Postdoctoral Researcher</strong> at the Department of Primate Behavior and Evolution of the Max Planck Institute for Evolutionary Anthropology</p>
-
-    <details style="margin-top: 0.5rem;">
-      <summary style="cursor: pointer; list-style: none;">
-        <span class="button small">Learn more</span>
-      </summary>
-      <p style="margin-top: 0.5rem;">
-        <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
-      </p>
-    </details>
-
-    <ul class="actions" style="margin-top: 0.5rem;">
-      <li><a href="https://delphinedemoor.weebly.com/" class="button small">Website</a></li>
-    </ul>
-
   </div>
-  
-  
-    <!-- Team member 3 -->
-  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    
-    <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-      <img src="/assets/images/writing protocols.jpg" 
-           style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
-
-    <h3 style="margin-top: 0.8rem;">Dr Delphine De Moor</h3>
-    <p><strong>Postdoctoral Researcher</strong> at the Department of Primate Behavior and Evolution of the Max Planck Institute for Evolutionary Anthropology</p>
-
-    <details style="margin-top: 0.5rem;">
-      <summary style="cursor: pointer; list-style: none;">
-        <span class="button small">Learn more</span>
-      </summary>
-      <p style="margin-top: 0.5rem;">
-        <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
-      </p>
-    </details>
-
-    <ul class="actions" style="margin-top: 0.5rem;">
-      <li><a href="https://delphinedemoor.weebly.com/" class="button small">Website</a></li>
-    </ul>
-
-  </div>
-  
-  
-  
 
 </div>
-
 		
 		
 
