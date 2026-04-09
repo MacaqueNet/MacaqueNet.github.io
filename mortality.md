@@ -39,7 +39,7 @@ These findings will provide key insights into the role of sociality in life-hist
   <div>
     <details style="margin-top: 0.5rem;">
       <summary style="cursor: pointer; list-style: none;">
-        <span class="button small">Learn more</span>
+        <span class="button small">View Bio</span>
       </summary>
       <p style="margin-top: 0.5rem;">
         <em>"I am an ethologist interested in the social tools animals living in complex societies use to navigate the complexities of their social worlds, including multimodal communication, social cognition, and social bonds. Within a society, individuals deploy different social strategies depending on their individual phenotype, parts of which may change across their lifespan, as well as in response to the social and physical environment. By investigating patterns of social behavior at the individual and population level, and identifying dimensions along which different social strategies can be characterized, I seek to determine the ways in which social behaviors are leveraged to solve specific social challenges, and how this influences the evolution of different behavioral and communicative strategies."</em>
@@ -73,7 +73,7 @@ These findings will provide key insights into the role of sociality in life-hist
     <div>
       <details style="margin-top: 0.5rem;">
         <summary style="cursor: pointer; list-style: none;">
-          <span class="button small">Learn more</span>
+          <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
           <em>"I am primarily interested in the evolution of sociality. My research asks why social relationships evolved and how they are maintained. Within groups, individuals differ in their tendencies to interact with others and in how deeply embedded they are in their social networks. Across group-living species, the patterning of social interactions and the network structures that emerge from those patterns varies. Investigating these differences allows me to determine the mechanisms that drive social relationships, their impact on individual health, aging, life-history, and fitness, and to ultimately draw conclusions about their evolved function."</em>
@@ -93,7 +93,7 @@ These findings will provide key insights into the role of sociality in life-hist
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
 
       <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-        <img src="/assets/images/writing-protocols.jpg" 
+        <img src="/assets/images/writing protocols.jpg" 
              style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
@@ -108,7 +108,7 @@ These findings will provide key insights into the role of sociality in life-hist
     <div>
       <details style="margin-top: 0.5rem;">
         <summary style="cursor: pointer; list-style: none;">
-          <span class="button small">Learn more</span>
+          <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
           <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
@@ -128,7 +128,7 @@ These findings will provide key insights into the role of sociality in life-hist
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
 
       <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-        <img src="/assets/images/writing-protocols.jpg" 
+        <img src="/assets/images/macaela.jpg" 
              style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
@@ -139,22 +139,19 @@ These findings will provide key insights into the role of sociality in life-hist
       </p>
 
     </div>
-
+    
     <div>
-      <details style="margin-top: 0.5rem;">
-        <summary style="cursor: pointer; list-style: none;">
-          <span class="button small">Learn more</span>
-        </summary>
-        <p style="margin-top: 0.5rem;">
-          <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
-        </p>
-      </details>
+    <details style="margin-top: 0.5rem;">
+      <summary style="cursor: pointer; list-style: none;">
+        <span class="button small">View Bio</span>
+      </summary>
+      <p style="margin-top: 0.5rem;">
+        <em>"I support research within Prof. Lauren Brent's FriendOrigins lab group, overseeing data cleaning, dominance rank generation, and database management. I am also the Communications Manager for MacaqueNet, having helped build both the consortium and its database. My research interests focus on how social interactions influence aging, health, and well-being. I am particularly interested in the mechanisms by which animals communicate social information, navigate their social worlds, and how changes in sociability affect fitness outcomes."</em>
+      </p>
+    </details>
 
-      <ul class="actions" style="margin-top: 0.5rem;">
-        <li><a href="https://delphinedemoor.weebly.com/" class="button small">Website</a></li>
-      </ul>
-    </div>
-
+    <!-- Invisible spacer to align buttons -->
+    <div style="height: 2.5rem;"></div>
   </div>
 
 </div>
