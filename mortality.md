@@ -4,46 +4,40 @@ title: "Social Support, Inequality, And Their Effects on Mortality Across <em>Ma
 permalink: /mortality/
 ---
 ***
-Social connection is a critical aspect of psychosocial wellbeing in both human and nonhuman primates. Individuals with more and higher quality friendships, greater social integration, and more affiliative relationships enjoy improved longevity, physical health, and mental wellbeing. Furthermore, social determinants, such as social rank, are being increasingly understood to predict morbidity and premature mortality. 
-However, most of this work concerns individual-level variation in mortality risk within a population, and the extent to which the social environment influences differences at the population and/or species-level is less well understood. Furthermore, as in humans, female primates often live longer than males, making it highly relevant to
-consider not only why life history schedules vary across primates, but also why, when, and to what extent they differ between males and females. 
-To answer these questions, we will test whether species-typical levels of social support and social inequality are related to patterns of mortality risk across the lifespan. In addition to investigating interspecific variation, our study will evaluate the drivers of intraspecific differences in sex-biased mortality risk at the population level. 
-These findings will provide key insights into the role of sociality in life-history evolution and will shed light on the evolutionary and ecological forces that have shaped that variation. This proposed project is part of a broader NIH funded project (2024-2029; R01AG087902) which seeks to investigate the factors that drive variation in lifespan across primates.
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem;">
 
-<!-- ADD IMAGES FIGURE -->
-<figure style="max-width: 300px; margin: 0 auto;">
-
-  <div style="
-    display: grid;
-    grid-template-rows: repeat(3, 1fr);
-    overflow: hidden;
-    border-radius: 8px;
-  ">
-    <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" style="
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    ">
-    <img src="/assets/images/liontail_copyright.png" style="
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    ">
-    <img src="/assets/images/Barbary_Molesti.png" style="
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    ">
+  <!-- PROJECT DETAILS -->
+  <div style="flex: 1; min-width: 250px;">
+    <p>
+      Social connection is a critical aspect of psychosocial wellbeing in both human and nonhuman primates. Individuals with more and higher quality friendships, greater social integration, and more affiliative relationships enjoy improved longevity, physical health, and mental wellbeing. Furthermore, social determinants, such as social rank, are being increasingly understood to predict morbidity and premature mortality. 
+      However, most of this work concerns individual-level variation in mortality risk within a population, and the extent to which the social environment influences differences at the population and/or species-level is less well understood. Furthermore, as in humans, female primates often live longer than males, making it highly relevant to
+      consider not only why life history schedules vary across primates, but also why, when, and to what extent they differ between males and females. 
+      To answer these questions, we will test whether species-typical levels of social support and social inequality are related to patterns of mortality risk across the lifespan. In addition to investigating interspecific variation, our study will evaluate the drivers of intraspecific differences in sex-biased mortality risk at the population level. 
+      These findings will provide key insights into the role of sociality in life-history evolution and will shed light on the evolutionary and ecological forces that have shaped that variation. This proposed project is part of a broader NIH funded project (2024-2029; R01AG087902) which seeks to investigate the factors that drive variation in lifespan across primates.
+    </p>
   </div>
 
-  <figcaption style="text-align: center; margin-top: 0.5rem;">
-    This is a single caption for all three images.
-  </figcaption>
+  <!-- FIGURE -->
+  <figure style="width: 300px; max-width: 100%; margin: 0; flex-shrink: 0;">
 
-</figure>
+    <div style="
+      display: grid;
+      grid-template-rows: repeat(3, 1fr);
+      overflow: hidden;
+      border-radius: 8px;
+    ">
+      <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" style="width:100%; height:100%; object-fit:cover; display:block;">
+      <img src="/assets/images/liontail_copyright.png" style="width:100%; height:100%; object-fit:cover; display:block;">
+      <img src="/assets/images/Barbary_Molesti.png" style="width:100%; height:100%; object-fit:cover; display:block;">
+    </div>
+
+    <figcaption style="text-align: center; margin-top: 0.5rem;">
+      The figure depicts 3 macaque species, from top to bottom: Japanese macaques grooming (Macaca mulatta), Lion-tailed macaques (Macaca silenus) huddling on a branch and a barbary macaque (Macaca sylvanus) approaching a mother and infant.
+    </figcaption>
+
+  </figure>
+
+</div>
 
 ***
 
