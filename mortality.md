@@ -13,11 +13,11 @@ permalink: /mortality/
   These findings will provide key insights into the role of sociality in life-history evolution and will shed light on the evolutionary and ecological forces that have shaped that variation. This proposed project is part of a broader NIH funded project (2024-2029; R01AG087902) which seeks to investigate the factors that drive variation in lifespan across primates.
 </p>
 
-<figure style="max-width: 300px; margin: 1.5rem auto 0;">
+<figure style="max-width: 500px; margin: 1.5rem auto 0;">
 
   <div style="
     display: grid;
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     overflow: hidden;
     border-radius: 8px;
   ">
@@ -32,7 +32,6 @@ permalink: /mortality/
 
 </figure>
 
-</div>
 
 ***
 
