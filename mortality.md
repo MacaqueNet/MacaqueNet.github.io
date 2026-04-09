@@ -123,7 +123,7 @@ These findings will provide key insights into the role of sociality in life-hist
   <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; align-items: center; text-align: center;">
     
     <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-      <img src="/assets/images/writing-protocols.jpg" 
+      <img src="/assets/images/writing protocols.jpg" 
            style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
 
