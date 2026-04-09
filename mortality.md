@@ -75,7 +75,7 @@ These findings will provide key insights into the role of sociality in life-hist
       </details>
 
       <ul class="actions" style="margin-top: 0.5rem;">
-        <li><a href="http://www.laurenbrent.com/" class="button small">Website</a></li>
+        <li><a href="http://www.laurenbrent.co.uk/" class="button small">Website</a></li>
       </ul>
     </div>
 
