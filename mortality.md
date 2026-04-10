@@ -185,7 +185,7 @@ permalink: /mortality/
       </p>
     </div>
     
-    <div>
+      <div>
       <details style="margin-top: 0.5rem;">
         <summary style="cursor: pointer; list-style: none;">
           <span class="button small">View Bio</span>
@@ -194,11 +194,11 @@ permalink: /mortality/
           <em>"I am interested in the wide-ranging information encoded in genomes and how it sheds light on health and evolution in primates. My research combines tools and perspectives from evolutionary biology, anthropology, genomics, and geroscience to investigate links between the environment, aging, health, and survival."</em>
         </p>
       </details>
-      
-      <ul class="actions" style="margin-top: 0.5rem;">
-      <li><a href="https://primallab.org" class="button small">Website</a></li>
-    </div>
 
+      <ul class="actions" style="margin-top: 0.5rem;">
+        <li><a href="https://primallab.org" class="button small">Website</a></li>
+      </ul>
+    </div>
 
   </div>
 
