@@ -36,7 +36,6 @@ permalink: /mortality/
   </figcaption>
 
 </figure>
-</figure>
 
 
 ***
