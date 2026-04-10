@@ -194,8 +194,11 @@ permalink: /mortality/
           <em>"I am interested in the wide-ranging information encoded in genomes and how it sheds light on health and evolution in primates. My research combines tools and perspectives from evolutionary biology, anthropology, genomics, and geroscience to investigate links between the environment, aging, health, and survival."</em>
         </p>
       </details>
-      <div style="height: 2.5rem;"></div>
+      
+      <ul class="actions" style="margin-top: 0.5rem;">
+      <li><a href="https://primallab.org" class="button small">Website</a></li>
     </div>
+
 
   </div>
 
@@ -271,7 +274,7 @@ permalink: /mortality/
       <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Helen Mylne</h3>
 
       <p style="flex-grow: 1;">
-        <strong>Professor</strong> Center for Evolution & Medicine, Arizona State University
+        <strong>Postdoctoral Research Fellow</strong> at the University of Exeter's Center For Research In Animal Behaviour
       </p>
     </div>
     
