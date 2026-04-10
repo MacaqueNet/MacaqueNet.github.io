@@ -175,7 +175,7 @@ permalink: /mortality/
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
       <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-        <img src="/assets/images/MacaqueNet_Logo-WBG_V04-colourB.png" style="width: 100%; height: 100%; object-fit: cover;" />
+        <img src="/assets/images/Kenny.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
       <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Kenny Chiou</h3>
@@ -191,7 +191,7 @@ permalink: /mortality/
           <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
-          <em>"ADD BIO"</em>
+          <em>"I am interested in the wide-ranging information encoded in genomes and how it sheds light on health and evolution in primates. My research combines tools and perspectives from evolutionary biology, anthropology, genomics, and geroscience to investigate links between the environment, aging, health, and survival."</em>
         </p>
       </details>
       <div style="height: 2.5rem;"></div>
@@ -265,7 +265,7 @@ permalink: /mortality/
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
       <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-        <img src="/assets/images/MacaqueNet_Logo-WBG_V04-colourB.png" style="width: 100%; height: 100%; object-fit: cover;" />
+        <img src="/assets/images/Helen.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
       <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Helen Mylne</h3>
@@ -281,7 +281,7 @@ permalink: /mortality/
           <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
-          <em>"ADD BIO"</em>
+          <em>"Primate lifespan is difficult to quantify, especially in the wild, because it requires many individuals being studied from birth right through until death. Many species are completely data deficient, and for those that we do have, lifespan estimates are often unreliable. I am therefore asking: how long do primates really live, and what are the evolutionary causes of primate life history? I am building a large database of primate age structures, and using that to produce survival curves which can be used to create standardised lifespan estimates. These I will then carry forward to an order-wide comparative analysis to identify what causes lifespan in primates. As a behavioural ecologist, I am particularly interested in how the behavioural variation between species may affect lifespan, particularly considering broad-scale social measures such as troop size and group composition."</em>
         </p>
       </details>
       <div style="height: 2.5rem;"></div>
