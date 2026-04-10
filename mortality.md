@@ -17,17 +17,27 @@ permalink: /mortality/
 
   <div style="
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 0.5rem;
     border-radius: 8px;
     background: #fff;
   ">
-    <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" 
-         style="width:100%; height:auto; object-fit:contain; display:block;">
-    <img src="/assets/images/liontail_copyright.png" 
-         style="width:100%; height:auto; object-fit:contain; display:block;">
-    <img src="/assets/images/Barbary_Molesti.png" 
-         style="width:100%; height:auto; object-fit:contain; display:block;">
+
+    <div style="aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: #fff;">
+      <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" 
+           style="max-width:100%; max-height:100%; object-fit:contain;">
+    </div>
+
+    <div style="aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: #fff;">
+      <img src="/assets/images/liontail_copyright.png" 
+           style="max-width:100%; max-height:100%; object-fit:contain;">
+    </div>
+
+    <div style="aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: #fff;">
+      <img src="/assets/images/Barbary_Molesti.png" 
+           style="max-width:100%; max-height:100%; object-fit:contain;">
+    </div>
+
   </div>
 
   <figcaption style="text-align: center; margin-top: 0.5rem;">
