@@ -19,31 +19,23 @@ permalink: /mortality/
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 0.5rem;
+    align-items: end;
     border-radius: 8px;
     background: #fff;
   ">
-
-    <div style="aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: #fff;">
-      <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" 
-           style="max-width:100%; max-height:100%; object-fit:contain;">
-    </div>
-
-    <div style="aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: #fff;">
-      <img src="/assets/images/liontail_copyright.png" 
-           style="max-width:100%; max-height:100%; object-fit:contain;">
-    </div>
-
-    <div style="aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; background: #fff;">
-      <img src="/assets/images/Barbary_Molesti.png" 
-           style="max-width:100%; max-height:100%; object-fit:contain;">
-    </div>
-
+    <img src="/assets/images/Japanese_WildlifeResearchCenter&JulieDuboscq.png" 
+         style="width:100%; height:auto; display:block;">
+    <img src="/assets/images/liontail_copyright.png" 
+         style="width:100%; height:auto; display:block;">
+    <img src="/assets/images/Barbary_Molesti.png" 
+         style="width:100%; height:auto; display:block;">
   </div>
 
   <figcaption style="text-align: center; margin-top: 0.5rem;">
     Photos of macaques being social. From left to right: Japanese macaques <em>(Macaca fuscata)</em> grooming, Lion-tailed macaques <em>(Macaca silenus)</em> huddling on a branch, a barbary macaque <em>(Macaca sylvanus)</em> approaching a female and her infant.
   </figcaption>
 
+</figure>
 </figure>
 
 
