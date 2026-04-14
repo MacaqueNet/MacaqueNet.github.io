@@ -32,7 +32,7 @@ permalink: /mortality/
   </div>
 
   <figcaption style="text-align: center; margin-top: 0.5rem;">
-    Photos of macaques being social. From left to right: Japanese macaques <em>(Macaca fuscata)</em> grooming, Lion-tailed macaques <em>(Macaca silenus)</em> huddling on a branch, a barbary macaque <em>(Macaca sylvanus)</em> approaching a female and her infant.
+   From left to right: Japanese macaques <em>(Macaca fuscata)</em> grooming, Lion-tailed macaques <em>(Macaca silenus)</em> huddling on a branch, a barbary macaque <em>(Macaca sylvanus)</em> approaching a female and her infant.
   </figcaption>
   
 </figure>
