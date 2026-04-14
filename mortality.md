@@ -165,7 +165,9 @@ permalink: /mortality/
           <em>"As an evolutionary biologist, I study the health consequences of environmental variation in humans through a comparative lens. My work integrates evolutionary biology, neuroscience, immunology, geroscience, and anthropology with high-throughput genomics to uncover the mechanisms by which environments shape fitness, including health, reproduction, and survival."</em>
         </p>
       </details>
-      <div style="height: 2.5rem;"></div>
+      <ul class="actions" style="margin-top: 0.5rem;">
+        <li><a href="https://smack-lab.com/" class="button small">Website</a></li>
+      </ul>
     </div>
 
   </div>
