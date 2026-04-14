@@ -146,7 +146,7 @@ permalink: /mortality/
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
       <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-        <img src="/assets/images/MacaqueNet_Logo-WBG_V04-colourB.png" style="width: 100%; height: 100%; object-fit: cover;" />
+        <img src="/assets/images/noah.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
       <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Prof. Noah Snyder-Mackler</h3>
@@ -162,7 +162,7 @@ permalink: /mortality/
           <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
-          <em>"ADD BIO"</em>
+          <em>"As an evolutionary biologist, I study the health consequences of environmental variation in humans through a comparative lens. My work integrates evolutionary biology, neuroscience, immunology, geroscience, and anthropology with high-throughput genomics to uncover the mechanisms by which environments shape fitness, including health, reproduction, and survival."</em>
         </p>
       </details>
       <div style="height: 2.5rem;"></div>
