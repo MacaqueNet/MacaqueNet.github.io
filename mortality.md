@@ -239,7 +239,7 @@ permalink: /mortality/
     
     <div style="flex-grow: 1; display: flex; flex-direction: column;">
       <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
-        <img src="/assets/images/erin.png" style="width: 100%; height: 100%; object-fit: cover;" />
+        <img src="/assets/images/erin.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
       </div>
 
       <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Erin Siracusa</h3>
