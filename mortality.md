@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Social Support, Inequality, And Their Effects on Mortality Across <em>Macaca</em> Species"
+title: "Social Support, Inequality, And Their Effects On Mortality Across <em>Macaca</em> Species"
 permalink: /mortality/
 ---
 ***
