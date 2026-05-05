@@ -26,13 +26,9 @@ Interested in using data from the MacaqueNet database for your next research pro
 ***
 
 <strong>Not finding the data you need in the search tool?</strong>
-The database may not yet include the specific data type, species, or behaviours you’re looking for — but members of the MacaqueNet consortium might have it. 
-Submit an enquiry using the form below to see if any members of the MacaqueNet community have data that fit your project’s needs.
+The database may not yet include the specific data type, species, or behaviours you need for your project — but members of the MacaqueNet consortium might have it, or be interested in collaborating to start collecting it. 
+<li><a href="mailto:macaquenet@gmail.com" class="button">Email us</a></li> with a short description of the type of data you’re looking for. We’ll share your enquiry with the MacaqueNet community, and members can get in touch if they have relevant data or are interested in collaborating.
 You may also have the opportunity to work with the MacaqueNet management team to develop a new branch of the database that accommodates not only your research needs, but those of future projects as well.
-
-<ul class="actions" style="display: flex; list-style: none; padding: 0; gap: 10px;">
-  <li style="margin: 0;"><a href= "https://docs.google.com/forms/d/e/1FAIpQLSfuJlBpVWx2BkJf3clWWpopfRvXad6y58oe2x-HNolBLXG9AA/viewform?usp=dialog" frameborder="no" width="100%" height="100%" target="_blank" class="button big">Enquire About New Data Types</a></li>
-</ul>
 
 ***
 
