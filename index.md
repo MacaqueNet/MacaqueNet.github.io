@@ -25,7 +25,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'steepness' | absolute_url }}" class="image"><img src="assets/images/ToyodaLongtailed.png" width="200" alt="" /></a>
+			<a href="{{ 'steepness' | absolute_url }}" class="image"><img src="assets/images/booted_riley.png" width="200" alt="" /></a>
 			<h3>Rank-Related Fitness Benefits & Hierarchy Steepness In Primates</h3>
 			<p>This study investigates the relationship between the steepness of the hierarchy and the skew of the distribution of resources.</p>
 			<ul class="actions">
@@ -40,9 +40,26 @@ layout: default
 				<li><a href="{{ 'pathogens' | absolute_url }}" class="button">Learn more</a></li>
 			</ul>
 		</article>
+		<article>
+			<a href="{{ 'mortality' | absolute_url }}" class="image"><img src="assets/images/bonnet_chatterjee.png" width="200" alt="" /></a>
+			<h3>Social Support, Inequality, And Their Effects On Mortality Across Macaca Species</h3>
+			<p>This study investigates how sociality influences mortality across macaque species and populations, providing inights into life-history evolution and the evolutionary and ecological forces that shape variation in lifespan.</p>
+			<ul class="actions">
+				<li><a href="{{ 'mortality' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+				<article>
+			<a href="{{ 'data_digitizing' | absolute_url }}" class="image"><img src="assets/images/ToyodaLongtailed.png" width="200" alt="" /></a>
+			<h3>Dats Digitizing & Processing</h3>
+			<p>We are looking for volunteers to help digitize or process one or more behavioural macaque datasets. Whether you are a student, early-career researcher, or just looking for a meaningful side project, this is a fantastic opportunity to gain experience working with large, real-world datasets.</p>
+			<ul class="actions">
+				<li><a href="{{ 'data_digitizing' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
 		
 	</div>
 </section>
+
 
 <!-- Section -->
 <section>
