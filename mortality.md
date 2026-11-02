@@ -46,6 +46,37 @@ permalink: /mortality/
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
 
+  <!-- INGERID -->
+  <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
+    
+    <div style="flex-grow: 1; display: flex; flex-direction: column;">
+  
+      <div style="width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 8px;">
+        <img src="/assets/images/ingerid.png" style="width: 100%; height: 100%; object-fit: cover;" />
+      </div>
+  
+      <h3 style="margin-top: 0.8rem; min-height: 2.5em;">Dr Ingerid Helgestad</h3>
+  
+      <p style="flex-grow: 1;">
+        <strong>Postdoctoral Research Fellow</strong> at the University of Exeter's Center For Research In Animal Behaviour
+      </p>
+  
+    </div>
+
+    <div>
+      <details style="margin-top: 0.5rem;">
+        <summary style="cursor: pointer; list-style: none;">
+          <span class="button small">View Bio</span>
+        </summary>
+        <p style="margin-top: 0.5rem;">
+          <em>"My research interests are centred on why different social systems arise, and how they affect the behaviour and evolution of the animals within them. By investigating differences between individuals, populations and species I seek to understand causes of variation and drivers of flexibility in social structures, and the consequences of living in different social systems. I am also particularly interested in how sociality influences life-history, cognitive demands, and fitness. To study these topics, I use a range of techniques including social network analysis, biologgers and machine learning."</em>
+        </p>
+      </details>
+      <div style="height: 2.5rem;"></div>
+    </div>
+
+  </div>
+
   <!-- SEVERINE -->
   <div style="background: #fff; padding: 1.2rem; border-radius: 10px; display: flex; flex-direction: column; height: 100%; text-align: center;">
     
@@ -130,7 +161,7 @@ permalink: /mortality/
           <span class="button small">View Bio</span>
         </summary>
         <p style="margin-top: 0.5rem;">
-          <em>"My research focuses on the evolution of social relationships: why do we and other animals form close bonds, or friendships, and why are they so important for our well-being, survival and health? To answer these questions I am taking a comparative approach across macaque species, co-building MacaqueNet, a collaborative dataset bringing all social behaviour data on macaques together. Taking advantage of this unparalleled dataset, I can explicitly test if variation in socio-ecological pressures predicts variation in social structure. Understanding which selective pressures act on within-group sociality brings us one step closer to understand the evolution of social relationships and friendship."</em>
+          <em>"My broad research interest is in social behavior, how the interactions between individuals combine to affect their fitness and life-history. From ants to human’s individuals interact in complex social systems, these social systems can have important effects on an individual’s behavior, and their ability to survive and reproduce. I’m interested the interaction between these broad global effects, the behavior of individuals, and evolution."</em>
         </p>
       </details>
 
